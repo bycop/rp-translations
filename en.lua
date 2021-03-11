@@ -831,6 +831,9 @@ local my_language = {
 	cinema_hud = "Cinema HUD",
 	no_hud = "No HUD",
 
+	-- VehHUD
+	action_progress = "Action in progress",
+
 	-- Items
 	mask = "Mask",
 	suitcase = "Suitcase",
@@ -963,6 +966,18 @@ local my_language = {
 	heavy_sealed_case = "Heavy sealed case",
 	reinforced_sealed_case = "Reinforced sealed case",
 
+	-- Misc items stuff
+	no_target = "~r~No target.",
+	cant_do_action = "~r~You can't do that.",
+	broken_kevlar_inv = "~r~Worn out~n~~w~Your kevlar is no longer in good condition.",
+	cant_dna_veh = "~r~You can't gather DNA on this vehicle (bug or passengers in vehicle).",
+	cant_dna_ped = "~r~The person should be restrained or have his hands up.",
+	no_dna_flask = "~r~You don't have any DNA flask.",
+	equip_nvg = "The person is putting NVG on",
+	wait_water_bottle = "~r~Please wait %s seconds before re-using your bottle.",
+	not_in_water = "~r~You need to be in water to do that.",
+	filling_up_bottle = "Filling up bottle",
+
 	-- Food
 	["fish_1"] = "Largemouth Bass",
 	["fish_2"] = "Rainbow Trout",
@@ -1033,7 +1048,7 @@ local my_language = {
 	changed_outfit = "The person is changing his/her outfit",
 	property_unseal = "~r~You need to be in a property to unseal this crate.",
 	doing_something = "~r~You're already doing something",
-	opening_crate = "Opening crate"
+	opening_crate = "Opening crate",
 }
 
 AddLanguage("en", my_language)

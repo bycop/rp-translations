@@ -862,7 +862,7 @@ local my_language = {
 	hacking_device = "Hacking device",
 	repair_tool = "Repair kit",
 	darknet_device = "Darknet device",
-	jvn = "JVN",
+	nvg = "NVG",
 	surfboard = "Surfboard",
 	loudspeaker = "Loudspeaker",
 	handcuffs = "Handcuffs",
@@ -967,6 +967,7 @@ local my_language = {
 	reinforced_sealed_case = "Reinforced sealed case",
 
 	-- Misc items stuff
+	not_behind_handcuffed_ped = "You need to be ~r~behind~w~ the person, he/she should be ~r~handcuffed~w~.",
 	no_target = "~r~No target.",
 	cant_do_action = "~r~You can't do that.",
 	broken_kevlar_inv = "~r~Worn out~n~~w~Your kevlar is no longer in good condition.",
@@ -974,6 +975,7 @@ local my_language = {
 	cant_dna_ped = "~r~The person should be restrained or have his hands up.",
 	no_dna_flask = "~r~You don't have any DNA flask.",
 	equip_nvg = "The person is putting NVG on",
+	cant_use_on_ped = "~r~You can't use %s on this person (handcuffed or masked",
 	wait_water_bottle = "~r~Please wait %s seconds before re-using your bottle.",
 	not_in_water = "~r~You need to be in water to do that.",
 	filling_up_bottle = "Filling up bottle",
@@ -1062,7 +1064,7 @@ local my_language = {
 	not_enough_cops = "~r~Not enough police officers are in duty right now.",
 	not_enough_of_x = "~r~You do not have enough ~b~%s~r~.",
 	not_enough_room_inv = "~r~You do not have enough room in your inventory.",
-		not_enough_items = "~r~You do not have enough item.",
+	not_enough_items = "~r~You do not have enough item.",
 
 	-- Activity
 	no_resource_access = "~r~You do not have access to this resource.",

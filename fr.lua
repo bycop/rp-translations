@@ -74,6 +74,7 @@ local my_language = {
 	group_type = "Group type",
 	groups_management = "Groups management",
 	group_management = "Group management",
+	players_list = "Liste des joueurs",
 	my_player = "My player",
 	player = "Player",
 	world = "World",

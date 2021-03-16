@@ -1123,6 +1123,7 @@ local my_language = {
 	group_type = "Group type",
 	groups_management = "Groups management",
 	group_management = "Group management",
+	players_list = "Players list",
 	my_player = "My player",
 	player = "Player",
 	world = "World",
@@ -1292,6 +1293,19 @@ local my_language = {
 	cannot_produce_item_full = "~r~You cannot create this item.\n~w~Your inventory is full.",
 	need_x_to_produce = "~r~You cannot create this item.\n~w~You need ~r~%s~w~.",
 	you_paid_x_to_manufacture_x = "You paid ~g~$%s~w~ to create ~b~%sx %s~w~.",
+
+	-- Base
+	lockpicking_in_progress = "Lockpicking in progress",
+	hotwiring_in_progress = "Hotwiring in progress",
+	you_are_trying_start_veh = "~b~You are trying to start the vehicle..",
+	stop = "~r~stop",
+	sorry_it_is_ok = "~r~Sorry!\n~w~It is ok now.",
+	afk_press_key = "AFK?~r~~n~Press the key.",
+	cut_wires = "~g~cut wires",
+	get_up = "~b~get up",
+	cancel_task = "~r~You canceled your current task.",
+	server_restart_warning = "The server is going to restart..",
+	auto_restart_in = "Automatic restart in %s seconds.",
 }
 
 AddLanguage("en", my_language)

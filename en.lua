@@ -1662,6 +1662,15 @@ local my_language = {
 	race_participants = "participants",
 	race_leaderboard = "leaderboard",
 	race_join_game = "Join the race",
+
+	-- Commerce
+	rank_expired = "~r~Your supporter role expired.",
+	supporter_role = "~g~Supporter role:~w~ %s",
+	character_slot = "Character slot",
+	no_rank_warning = "You do not have any supporter role.\n~r~If you've purchased something link your fivem account.",
+	no_fivem_id = "Your FiveM is not linked with the game.\n~r~Verify that you have a FiveM account and that it is linked to the game.",
+	no_queue_warning = "You do not have any package in queue.\n~r~Wait a moment or try /getRank if you're looking for your rank.",
+	package_sync_success = "~g~Your packages have correctly been synced, enjoy!\n~w~Useful commands: /getRank, /booster",
 }
 
 AddLanguage("en", my_language)

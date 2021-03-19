@@ -499,6 +499,15 @@ local my_language = {
 	race_participants = "liste des participants",
 	race_leaderboard = "classement",
 	race_join_game = "Rejoindre la course",
+
+	-- Commerce
+	rank_expired = "~r~Votre rang boutique a expiré.",
+	supporter_role = "~g~Rang boutique:~w~ %s",
+	character_slot = "Slot personnage",
+	no_rank_warning = "Vous n'avez aucun rôle boutique.\n~r~Si vous avez acheté quelque chose, liez votre compte FiveM au jeu.",
+	no_fivem_id = "Votre compte FiveM n'est pas lié.\n~r~Vérifiez que vous avez un compte FiveM et qu'il est lié au jeu.",
+	no_queue_warning = "Vous n'avez aucun package en attente.\n~r~Patientez un moment ou essayez /getRank si vous souhaitez avoir votre rang.",
+	package_sync_success = "~g~Vos packages ont été synchronisés, enjoy!\n~w~Commandes utiles: /getRank, /booster",
 }
 
 AddLanguage("fr", my_language)

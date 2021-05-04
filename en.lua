@@ -2041,7 +2041,7 @@ local my_language = {
 	invalid_coordinates = "~r~You entered the wrong coordinates, example: 1124.0 664.3",
 	target_selection_help = "~r~Click on ~b~Y~r~ to cancel~n~~r~Click on ~g~E~r~ to validate~n~~r~Click on ~b~A~r~ to change target",
 	vehicle_locked = "~r~The vehicle is locked.",
-	veh_state - "Fuel tank: ~b~%sL\n~w~Engine: ~b~%s%\n~w~Body: ~b~%s%",
+	veh_state = "Fuel tank: ~b~%sL\n~w~Engine: ~b~%s%\n~w~Body: ~b~%s%",
 	fuel_canister_empty = "~r~You do not have any empty fuel canister.",
 	cancel_siph = "cancel siphoning",
 	filling_fuel_one = "~b~+1L ~w~in your can.",

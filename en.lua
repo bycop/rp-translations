@@ -2032,7 +2032,7 @@ local my_language = {
 
 	-- Utils
 	selected_target_press_x = "Selected target:\n%s\n~r~Click on ~b~Y~r~ to cancel~n~~r~Click on~g~X~r~ to validate.",
-	selected_target_you = "~b~You",
+	selected_target_you = "~b~YOU",
 	selected_target_on_screen = "~g~Displayed on your screen",
 	canceled_target_selection = "~r~You canceled the interaction.",
 	get_closer_to_target = "~g~Advice: ~w~get closer to the target.",
@@ -2709,9 +2709,9 @@ local my_language = {
 	underwears_updated_msg = "~b~Your underwears will be updated the next time you change your outfit.",
 	call_history = "call history",
 	my_vehicle = "my vehicle",
-	localization = "location",
-	send_to_pound_yard = "send to impound",
-	send_to_pound_yard_desc = "Will be sent to impound at next restart",
+	location = "Location",
+	send_to_pound_yard = "Send to impound",
+	send_to_pound_yard_desc = "You'll be able to retrieve your vehicle from the impound at the next reboot",
 	my_vehicles = "my vehicles",
 	load_phone_backup_on = "Load your phone on",
 	set_primary_phone_on = "Set your primary phone",
@@ -2727,10 +2727,13 @@ local my_language = {
 	wounded_cant_do_that = "~r~Wounded.~n~~w~You can't do that.",
 	stop_animation = "Stop animation",
 	remove_x = "Remove %s",
-	emergency_msg_callout_desc = "~b~Identity: ~w~%s~n~~b~localization:~n~~w~%s (%sm) %s",
-	outside_pound_yard = "Outside/Backyard",
-	your = "Your",
+	emergency_msg_callout_desc = "~b~Identity: ~w~%s~n~~b~Location:~n~~w~%s (%sm) %s",
+	outside_pound_yard = "Outside/Impound",
+	personal = "Personal",
 	x_is_in_x = "~b~%s~w~ is currently:\n%s",
+	press_enter_to_join = "Press ~g~ENTER~w~ to join",
+	synced_character = "✅ Synced character data",
+	last_position_sync = "~g~You've been placed back to your latest synced position.",
 }
 
 

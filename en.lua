@@ -1371,6 +1371,8 @@ local my_language = {
 	delivered_to_x = "~b~Delivered to~g~",
 	delivered_car_dealer = "The ~b~%s~w~ has been delivered to our dealership.",
 	delivered_to_your_garage = "The ~b~%s~w~ has been delivered to your garage.",
+	no_veh_keys_one = "~r~You don't have the keys of that vehicle. (1)",
+	no_veh_keys_two = "~r~You don't have the keys of that vehicle. (2)",
 
 	-- transportation
 	train_station = "Train station",
@@ -1797,6 +1799,7 @@ local my_language = {
 	cloth_decorations = "Decorations",
 	cloth_decoration_x = "Decoration #%s",
 	save_outfit = "Save outfit",
+	saved_ped_variations = "~g~Okay !.~n~~w~Your ped's variations have been saved.",
 	outfit_x = "Outfit %s",
 	cloth_model = "Model #%s",
 	cloth_model2 = "Model #",
@@ -2378,6 +2381,7 @@ local my_language = {
 	tattoo_shop = "Tattoo shop",
 	ammu_nation = "Gun store",
 	illegal_hospital = "Illegal hospital",
+	gym = "Gym", 
 
 	take_this_path = "~b~take this path",
 	get_closer_to_x_garage = "Come closer to ~b~%s~w~ garage.",
@@ -2684,6 +2688,7 @@ local my_language = {
 	character_settings = "Character options",
 	settings = "Options",
 	map = "Map",
+	keep_flashlight_on = "Keep flashlight on",
 	call_taken_notifications = "Notifications call taken",
 	gps_only_car = "GPS only vehicle",
 	spatialization_voice = "Spatialization (VOICE)",

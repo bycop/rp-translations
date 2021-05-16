@@ -1852,6 +1852,7 @@ local my_language = {
 	character_settings = "Options personnage",
 	settings = "Options",
 	map = "Carte",
+	show_street_labels = "Afficher les noms de rue (uniquement en véhicule)",
 	keep_flashlight_on = "Garder lampe-torche allumée",
 	call_taken_notifications = "Notifications appel pris",
 	gps_only_car = "GPS seulement véhicule",

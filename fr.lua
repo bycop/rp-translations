@@ -1907,6 +1907,44 @@ local my_language = {
 	press_enter_to_join = "Appuyez sur ~g~ENTER~w~ pour valider votre entrée",
 	synced_character = "✅ Synchronisation effectuée",
 	last_position_sync = "~g~Vous avez été replacé à votre ancienne position.",
+
+	players = "Players",
+	
+	character_creation_mix_desc = "Select whether if the shape of your face is more influenced by the shape of your father/mother.",
+	character_creation_skin_desc = "Select whether if your skin is more influenced by the skin of your father/mother.",
+	
+	ff_1 = "Nose width",
+	ff_2 = "Nose height",
+	ff_3 = "Nose length",
+	ff_4 = "Nose drooping",
+	ff_5 = "Nose peak drop",
+	ff_6 = "Nose twist",
+	ff_7 = "Eyebrow height",
+	ff_8 = "Eyebrow depth",
+	ff_9 = "Cheekbone height",
+	ff_10 = "Cheekbone width",
+	ff_11 = "Cheek width",
+	ff_12 = "Eyes opening",
+	ff_13 = "Lip thickness",
+	ff_14 = "Jaw width",
+	ff_15 = "Jaw back length",
+	ff_16 = "Chin lowering",
+	ff_17 = "Chin bone length",
+	ff_18 = "Chin Width",
+	ff_19 = "Chin hole",
+	ff_20 = "Neck thickness",
+
+	char_command = "^3Liste de vos personnages:^0\n%s\n/switch id - pour changer de personnage.\n/wipe id - pour wipe le personnage.",
+	not_allowed_create_character = "You are not allowed to create a new character.",
+	character_not_yours = "This character is not yours.",
+	character_does_not_exist = "This character does not exist or does not longer exist.",
+	loading_character = "Loading your character...",
+	playtime_is = "~b~Your playtime on Extinction:\n~w~%s",
+	dont_spam = "^1Do not spam!",
+
+	you_wiped_x = "Vous avez wipe %s.",
+	cannot_wipe_now = "Vous ne pouvez pas wipe votre personnage maintenant. Vous devez attendre 7 jours après sa création.",
+	self_reset_limit = "~r~Vous avez déjà réinitialisé votre personnage.",
 }
 
 AddLanguage("fr", my_language)

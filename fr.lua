@@ -1945,6 +1945,14 @@ local my_language = {
 	you_wiped_x = "Vous avez wipe %s.",
 	cannot_wipe_now = "Vous ne pouvez pas wipe votre personnage maintenant. Vous devez attendre 7 jours après sa création.",
 	self_reset_limit = "~r~Vous avez déjà réinitialisé votre personnage.",
+
+	context_menu = "Menu contextuel",
+	player_menu_desc = "Menu joueur",
+	to_seat = "~b~vous asseoir",
+	to_use_the_distributor = "~b~utiliser le distributeur",
+	to_use_the_phone_booth = "~b~utiliser la cabine",
+	use_credit_card_atm = "Utilisez votre ~b~carte de crédit~w~ pour interagir avec l'ATM.",
+	mugshot_board = "Mugshot sign",
 }
 
 AddLanguage("fr", my_language)

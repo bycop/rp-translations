@@ -1977,6 +1977,14 @@ local my_language = {
 	you_wiped_x = "You wiped %s.",
 	cannot_wipe_now = "You cannot wipe your character now. You need to wait 7 days after its creation.",
 	self_reset_limit = "~r~You already have reset your character.",
+
+	context_menu = "Context menu",
+	player_menu_desc = "Player menu",
+	to_seat = "~b~seat",
+	to_use_the_distributor = "~b~use the distributor",
+	to_use_the_phone_booth = "~b~use to phone booth",
+	use_credit_card_atm = "Use your ~b~credit card~w~ to interact with the ATM.",
+	mugshot_board = "Mugshot sign",
 }
 
 

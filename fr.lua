@@ -333,6 +333,10 @@ local my_language = {
 	quicker = "Plus rapide",
 	slower = "Plus lent",
 	you_entered_x_arguments_command = "Vous avez entré %s argument(s) la commande en demande au moins %s.",
+	cannot_find_player_uuid = "~r~L'UUID de ce joueur est introuvable (à report).",
+	warn_reason_too_long = "~r~La raison de l'avertissement est trop longue.",
+	warned_player = "Votre avertissement pour ~b~%s (%s)~w~ a bien été enregistré.",
+	invalid_entity = "~r~L'entité est invalide.",
 
 	-- Bank
 	read_bank_balance = "Voir le montant",
@@ -1906,6 +1910,10 @@ local my_language = {
 	x_is_in_x = "~b~%s~w~ est actuellement:\n%s",
 	press_enter_to_join = "Appuyez sur ~g~ENTER~w~ pour valider votre entrée",
 	synced_character = "✅ Synchronisation effectuée",
+	low_needs_alert = "~r~Vous avez mal au ventre.",
+	you_died_of = "~r~Vous êtes mort de ~b~%s.",
+	hunger = "faim",
+	thirst = "soif",
 	last_position_sync = "~g~Vous avez été replacé à votre ancienne position.",
 
 	players = "Players",

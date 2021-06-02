@@ -348,6 +348,10 @@ local my_language = {
 	moderator_msg = "~b~Moderator:~w~",
 	player_not_found = "Player not found.",
 	please_valid_duration = "~r~Please put a valid duration",
+	cannot_find_player_uuid = "~r~Cannot find player UUID (report this).",
+	warn_reason_too_long = "~r~Warn reason too long.",
+	warned_player = "~b~%s (%s)~w~ has been warned.",
+	invalid_entity = "~r~Invalid entity.",
 
 	-- Bank
 	read_bank_balance = "Read account balance",
@@ -1938,6 +1942,10 @@ local my_language = {
 	x_is_in_x = "~b~%s~w~ is currently:\n%s",
 	press_enter_to_join = "Press ~g~ENTER~w~ to join",
 	synced_character = "✅ Synced character data",
+	low_needs_alert = "~r~You feel really weak.",
+	you_died_of = "~r~You died of ~b~%s.",
+	hunger = "hunger",
+	thirst = "thirst",
 	last_position_sync = "~g~You've been placed back to your latest synced position.",
 
 	players = "Players",

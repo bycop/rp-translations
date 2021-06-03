@@ -58,7 +58,7 @@ local my_language = {
 	loudspeaker = "Mégaphone",
 	handcuffs = "Menottes",
 	zipties = "Zip-ties",
-	tshirt = "Tee-shirt",
+	tshirt = "T-shirt",
 	cyanure_pill = "Cyanure",
 	fertilizer = "Engrais",
 	raw_steel = "Acier brut",
@@ -1567,14 +1567,14 @@ local my_language = {
 	public_jobs = "Activités publiques",
 	job_help = "~b~Aide:\n~w~%s",
 
-	conforama_help = "Rendez-vous dans le sud de LS au conforama pour commencer à travailler en tant que menuisier et livrer des meubles.\nN'oubliez pas de prendre votre tenue au magasin de vêtements.",
+	target_help = "Rendez-vous dans le sud de LS au conforama pour commencer à travailler en tant que menuisier et livrer des meubles.\nN'oubliez pas de prendre votre tenue au magasin de vêtements.",
 	eboueur_help = "Rendez-vous dans le sud de LS à la décharge pour commencer à travailler en tant qu'éboueur et vider les poubelles du comté.\nN'oubliez pas de prendre votre tenue au magasin de vêtements.",
 	vin_help = "Rendez-vous dans le nord dans les vignes avec votre véhicule personnel pour commencer à fabriquer du vin.",
 	uranium_help = "Rendez-vous dans le nord vers les stations électriques pour commencer à travailler l'uranium.\nN'oubliez pas d'acheter une combinaison hazmat et un diplôme de chimie.",
 	acier_help = "Rendez-vous dans le nord à l'usine d'acier pour travailler en tant que mineur.\nN'oubliez pas de prendre votre tenue au magasin de vêtements.",
 	courses_help = "Rendez-vous dans le sud de LS pour participer à la Filou cup.",
 
-	conforama = "Conforama",
+	target = "Conforama",
 	garabage_collector = "Eboueur",
 	lspd = "LSPD",
 	bcso = "LSSD",
@@ -1964,6 +1964,8 @@ local my_language = {
 	to_use_the_phone_booth = "~b~utiliser la cabine",
 	use_credit_card_atm = "Utilisez votre ~b~carte de crédit~w~ pour interagir avec l'ATM.",
 	mugshot_board = "Mugshot sign",
+
+	skinning_animal = "Dépeçage d'un animal",
 }
 
 AddLanguage("fr", my_language)

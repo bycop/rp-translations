@@ -307,7 +307,7 @@ local my_language = {
 	trade_x_for_x = "You traded ~b~%sx %s~w~ for ~g~$%s~w~.",
 	work_limit = "~r~You reached the daily work limit.",
 	you_got_x = "You got ~g~%s. ~b~+1",
-	you_processed_x_x = "You processed ~g~%s. ~b~+%s",
+	you_processed_x_x = "You got ~g~%s. ~b~+%s",
 	you_sold_x_for_x = "You sold ~g~%s. ~b~+1 ~w~for ~b~$%s",
 	you_collected_x = "You collected ~b~%sx %s~w~.",
 
@@ -952,7 +952,7 @@ local my_language = {
 	desc_skin = "Select if your skin is more influenced by your father / mother.",
 	identity = "identity",
 	player_name = "player name",
-	new_character = "new character",
+	new_character = "New character",
 	warning_headblend = "~r~You have not selected your character's parents.",
 	warning_overlays = "~r~You have not selected hairs, eyebrows or beard.",
 	warning_identity = "~r~Warning.~n~~w~You forgot to fill the identity tab.",
@@ -1605,7 +1605,7 @@ local my_language = {
 	races_help = "Go to the south of LS to participate in the Filou cup",
 
 	target = "Target",
-	garabage_collector = "Garbage collector",
+	garbage_collector = "Garbage collector",
 	lspd = "LSPD",
 	bcso = "LSSD",
 	ems = "EMS",
@@ -2020,6 +2020,38 @@ local my_language = {
 
 	public_job_desc = "~r~For public jobs, you need to be unemployed.",
 	tutorial = "Tutorial",
+
+	you_x_the_garbage_job_mode = "You %s~w~ the garbage job mode.",
+	use_command_garbage_mode = "Use the command ~g~/garbagemode~w~ to toggle the garabe job mode.",
+	garbege_collect_start_help = "Starting points have been marked on the map, pick up your truck or join a team and choose one to begin your work.",
+	starting_point = "Starting point",
+	put_trash_bag_help = "throw ~g~the trash bag~w~.~n~(behind the truck or inside)",
+	take_out_trash = "to get ~g~a trash bag~w~.",
+
+	-- pvoice
+	change_voice_intensity = "Change the intensity of your voice",
+	new_voice_intensity = "New intensity set: %s",
+	whisper = "~g~Whispering",
+	normal = "~g~Normal",
+	yell = "~r~Yelling",
+	speaker = "~r~Speaker",
+	mute = "~g~muted",
+	unmuted = "~g~unmuted",
+	pvoice_restarted = "~g~[pVoice]~w~ The voice chat restarted. Reconnect to your radio if you were already connected.",
+	pvoice_toggled_radio = "~b~Radio:\n~w~You %s~w~ your radio.",
+	pvoice_toggled_mute = "You %s~w~ your voice on the radio.",
+	pvoice_frequence_too_far = "~r~Radio\n~w~Your device cannot reach this frequency.",
+	pvoice_freq_selected = "~b~Frequency selected\n~w~%s Hz",
+	pvoice_no_radio = "~r~Impossible\n~w~You don't have a radio.",
+	toggle_radio_menu = "Open the radio menu",
+	pvoice_connected_global = "~g~Connected to the global voice chat.",
+	pvoice_disconnected_global = "~r~Disconnected from the global voice chat.",
+	pvoice_restarted = "~g~The voice chat is restarting.",
+
+	job = "Job",
+	sex = "Sex",
+	select_this_character = "Select this character",
+	jailed = "Jailed",
 }
 
 

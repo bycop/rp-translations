@@ -2190,11 +2190,12 @@ local my_language = {
 	cannot_be_revived = "~r~You cannot be revived.",
 	revived_wounded = "~g~Reanimated\n~w~You have just been revived, you are injured.",
 	healed_by_medic = "~g~Healed\n~w~You have been treated by a doctor, you are no longer injured.",
-	inconscious_press = "~r~Inconscious.\n~w~Do you want to call for an ambulance?",
+	inconscious_press = "~r~Unconscious.\n~w~Do you want to call for an ambulance?",
 	press_incouscious = "Call: ~g~E ~w~or ~r~Y",
 	wounded_you = "You have been wounded.",
 	you_called_emergency = "~b~You called the emergency.",
 	wait_before_call_x = "~r~Wait %s seconds before calling again.",
+	time_before_respawn = "Time before respawning",
 	deadly_accident = "Deadly accident",
 	stretcher = "Stretcher",
 	spawn_stretcher = "Spawn stretcher",
@@ -2452,6 +2453,8 @@ local my_language = {
 
 	mission_drug_intro = "Yo maan, are you up for some great shit?",
 	mission_drug_ans_1 = "~g~Buy my stuff",
+
+	hq_added_map = "GPS updated.\n~b~Company headquarters (job vehicle and help)",
 
 }
 

@@ -166,7 +166,7 @@ local my_language = {
 	reinforced_sealed_case = "Reinforced sealed case",
 
 	-- Misc items stuff
-	not_behind_handcuffed_ped = "You need to be ~r~behind~w~ the person, he/she should be ~r~handcuffed~w~.",
+	not_behind_handcuffed_ped = "You need to be ~r~behind~w~ the ped.",
 	no_target = "~r~No target around.",
 	cant_do_action = "~r~You can't do that.",
 	broken_kevlar_inv = "~r~Worn out~n~~w~Your kevlar is no longer in good condition.",
@@ -705,7 +705,7 @@ local my_language = {
 	ltd_closed = "~r~You cannot purchase goods here, visit the closest player store.",
 	limit_of_x = "~r~You reached the limit of %s.",
 	available_items = "available items",
-	rob_shop = "~r~Rob shop",
+	rob_shop = "Rob shop",
 	not_allowed_rob_this_place = "~r~You cannot rob this place.",
 	must_threat_seller = "~r~You must threaten the seller.",
 	you_paid_x = "You paid ~g~$%s~w~.",
@@ -1248,7 +1248,7 @@ local my_language = {
 	invalid_coordinates = "~r~You entered the wrong coordinates, example: 1124.0 664.3",
 	target_selection_help = "~r~Press ~b~Y~r~ to cancel~n~~r~Press ~g~E~r~ to validate~n~~r~Press ~b~A~r~ to change target",
 	vehicle_locked = "~r~The vehicle is locked.",
-	veh_state = "Fuel tank: ~b~%sL\n~w~Engine: ~b~%s%\n~w~Body: ~b~%s%",
+	veh_state = "Fuel tank: ~b~%sL\n~w~Engine: ~b~%s%%\n~w~Body: ~b~%s%%",
 	fuel_canister_empty = "~r~You do not have any empty fuel canister.",
 	cancel_siph = "cancel siphoning",
 	filling_fuel_one = "~b~+1L ~w~in your can.",
@@ -1696,7 +1696,7 @@ local my_language = {
 	cannot_rename_item = "This item cannot be renamed.",
 	you_renamed_item_x_to_x = "You have renamed your '%s' to ~b~%s~w~.",
 	you_cannot_loot_pl = "~r~You cannot strip this individual.",
-	drop_item = "~b~drop_item",
+	drop_item = "~b~drop the item",
 	key_to_collect_item = "~b~² + Right-click~w~ to collect",
 	open_trunk = "Open the trunk",
 	loot = "Search",
@@ -2408,6 +2408,41 @@ local my_language = {
 	you_updated_this = "You updated %s to ~g~<C>%s</C>~w~.",
 	changes_saved_on = "The changes made on <C>~g~%s</C>~w~ have been saved.",
 	crew_hq_already_property = "~r~The HQ of the crew is already here.",
+	crew_hq_sets = "~g~Congratulation.\n~w~The crew HQ has been set here.",
+	pickup_item = "~g~pickup the item",
+	get_me = "Get me!",
+
+	report_reason = "Report reason",
+	report_player = "Report player",
+	server_id = "Server ID",
+	tattoo_verb = "Tattoo",
+	handcuff_verb = "Handcuff",
+	uncuff_verb = "Remove handcuff",
+
+	use_key = "Use key",
+	steal_fuel = "Steal fuel",
+	open_the_hood = "Open the hood",
+	enter_verb = "Enter",
+	open_door = "Open a door",
+	driver = "Conducteur",
+	passenger = "Passenger",
+	back_left2 = "Back left",
+	back_right2 = "Back right",
+
+	cancel_your_task = "~r~cancel your task",
+	need_empty_fuel_canister = "~r~You do not have any empty fuel canister.",
+	filling_canister = "~b~Filling the fuel canister.",
+	give_cash = "Give cash",
+
+	-- casino menu
+	start_game = "Start game",
+	start_race = "Start race",
+	reset_game = "Reset game",
+	join_table = "Join table",
+	turn_roulette = "Turn roulette",
+	dealer_menu = "Menu dealer",
+	chips_d = "Chips for $",
+	chips_d2 = "$ for Chips",
 }
 
 

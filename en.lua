@@ -2443,6 +2443,16 @@ local my_language = {
 	dealer_menu = "Menu dealer",
 	chips_d = "Chips for $",
 	chips_d2 = "$ for Chips",
+
+	touch_hooker = "~b~touch",
+	dances = "Dances",
+	dance_verb = "dance",
+	hooker_help_text = "Press ~INPUT_CONTEXT~ to open the menu.~n~~INPUT_RELOAD~ to cancel.",
+	dance_menu_help = "~INPUT_ATTACK~ Dance: %s~n~~INPUT_JUMP~ Change intensity~n~~INPUT_COVER~ / ~INPUT_CONTEXT~ Move~n~~INPUT_CONTENT~ Stop dancing",
+
+	mission_drug_intro = "Yo maan, are you up for some great shit?",
+	mission_drug_ans_1 = "~g~Buy my stuff",
+
 }
 
 

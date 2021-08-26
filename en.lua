@@ -836,7 +836,7 @@ local my_language = {
 	property_purchase = "Purchase",
 	property_rent = "Rent",
 	property_visit = "Visit",
-	property_edit_bt = "~b~Edit property",
+	property_edit_bt = "Edit property",
 
 	-- Race
 	race_filou = "Filou's race",
@@ -2759,6 +2759,7 @@ local my_language = {
 	sensitivity = "Sensitivity",
 	project_saved_locally_desc = "The project will be saved locally, in your cache.",
 	enter_to_confirm = "*ENTER* to confirm",
+
 	public_garage = "Public garage",
 	delivery_completed_all = "~g~You completed all the deliveries.",
 	delivery_job_help = "Use the command ~g~/deliverymode~w~ to toggle the delivery job mode.",
@@ -2857,6 +2858,29 @@ local my_language = {
 	chip2 = "Chips",
 	cannot_bet_casino_closed = "~r~You cannot bet the casino is closed",
 	casino_games_toggled = "Casino games have been %s~w~.",
+	sleeping_warning = "You are sleeping, disconnect or wake up!",
+	no_sleep_limit = "You cannot sleep here.\n~r~Only %s can sleep here.",
+	you_cannot_sleep_here = "~r~You cannot sleep here.",
+	plant_pot = "Pot",
+	did_not_sleep_side_effects = "~r~You did not sleep last night.\n~w~You are starting to feel the effects.",
+	shark_meat = "Shark meat",
+	you_are_shark_area = "~r~You are swimming in a shark area.",
+	target_already_bracelet = "~r~This target already have a bracelet linked.\n~w~%s",
+	target_no_bracelet = "~r~This target does not have any bracelet linked.",
+	bracelet_deleted = "~w~The bracelet ~b~'%s'~w~ has been deleted and desactivated.",
+	bracelet_deleted_you = "~g~Your tracking bracelet has been deleted.",
+	bracelet_created = "You created a bracelet for the target.\n~b~%s",
+	bracelet_created_you = "~r~A tracking bracelet has been attached to you.",
+	enter_ferris_wheel = "enter in the cabin",
+	toggle_wheel = "toggle the wheel",
+	carousel_already_running = "~r~The carousel is already running.",
+	carousel_already_in_cart = "~r~You are already seating in the carousel.",
+	carousel_cart_full = "~r~This seat is already taken.",
+	carousel_not_in = "~r~You are not seating in the carousel.",
+	enter_carousel = "enter the carousel",
+	exit_carousel = "exit the carousel",
+	start_carousel = "start the carousel",
+	fairground = "Fairground",
 }
 
 

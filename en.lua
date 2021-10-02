@@ -1,18 +1,4 @@
 local my_language = {
-	-- poll one
-	poll1_q1 = "What kind of server would you like to see?",
-	poll1_q2 = "What kind of update would you like to prioritize for Extinction?",
-
-	poll1_q1_a1 = "Battle Royale",
-	poll1_q1_a2 = "Private missions solo or with 1-4 friends (Payday / Heist / Hitman like)",
-	poll1_q1_a3 = "Race",
-	poll1_q1_a4 = "Murder / Horror game",
-
-	poll1_q2_a1 = "PvE improve zombies/farm",
-	poll1_q2_a2 = "Add new map events",
-	poll1_q2_a3 = "Shop/Trade update",
-	poll1_q2_a4 = "More RPG stats / improvements",
-
 	-- Ammo names
 	rubber_balls = "Rubber Balls",
 	rubber_rounds = "Rubber Rounds",
@@ -189,7 +175,7 @@ local my_language = {
 	["fish_10"] = "Chinook",
 	["fish_11"] = "Pallid Sturgeon",
 	["fish_12"] = "Salmon",
-	fish_13 = "Roach", -- Guardon
+	fish_13 = "Roach",
 	misc_meat = "Raw meat",
 	rabbit_meat = "Raw rabbit meat",
 	lion_meat = "Raw lion meat",
@@ -315,7 +301,6 @@ local my_language = {
 	troc = "trade",
 	vehicles = "vehicles",
 	store_vehicle = "Store vehicle",
-	invalid_vehicle = "~r~This vehicle is invalid, you cannot store it.",
 	invalid_driver = "~r~You cannot store this vehicle, someome is driving it.",
 	no_help = "No help information is available.",
 
@@ -344,7 +329,7 @@ local my_language = {
 	unable_to_find_discordid = "Unable to find discord id.",
 	moderator_msg = "~b~Moderator:~w~",
 	player_not_found = "Player not found.",
-	please_valid_duration = "~r~Please put a valid duration",
+	please_valid_duration = "~r~Please put a valid duration.",
 	cannot_find_player_uuid = "~r~Cannot find player UUID (report this).",
 	warn_reason_too_long = "~r~Warn reason too long.",
 	warned_player = "~b~%s (%s)~w~ has been warned.",
@@ -359,7 +344,6 @@ local my_language = {
 	deposit_money = "Deposit money",
 	read_history = "Read history",
 	manage_permissions = "Manage permissions",
-	get_a_debit_card = "Retrieve cards from bank",
 	use_debit_card = "Use debit card",
 	read_account_owner_name = "Read account owner name",
 	please_select_an_identity = "Please select an identity",
@@ -424,6 +408,8 @@ local my_language = {
 	no_debit_card_requested = "~r~Please request a new card before.",
 	new_card_active = "~r~Your new card is now active.",
 	wrong_card = "~r~This is not the right card",
+	no_account_linked_card = "~r~This card is not linked to any account.",
+	no_access_account = "~r~You do not have access to this account.",
 	card_is_disabled = "~r~This card is no longer working, probably disabled.",
 	refused = "Refused",
 	invalid_card = "Invalid card",
@@ -434,7 +420,7 @@ local my_language = {
 	transaction_failed_reason_x = "~r~The bank transaction failed.\n%s",
 	unable_to_find_bank_account = "~r~Unable to find the bank account.",
 	success_set_primary_account = "~g~You primary account has been updated.",
-	unable_to_find_account = "~r~Unable to find the bank account",
+	unable_to_find_account = "~r~Unable to find the bank account.",
 	invoice_x = "Invoice %s",
 	transfer_to_x = "Transfer to %s",
 	transfer_from_x = "Transfer from %s",
@@ -481,7 +467,7 @@ local my_language = {
 	add_collect_point = "Add collect spot position",
 	ltd = "Convenience Store",
 	hardware_store = "Hardware store",
-	garage = "Repair garage / LS Custom",
+	repair_garage = "Repair garage / LS Custom",
 	employee = "Employee",
 	ceo = "CEO",
 	item_name_incorrect = "The item name is too long or invalid.",
@@ -562,6 +548,7 @@ local my_language = {
 	stored_bike = "~g~You have picked up your bike.",
 	vehicle_commision = "You got ~g~%s$~w~ for selling this vehicle.",
 	vehicle_delivery = "Vehicle delivery",
+	car_dealer2 = "Vehicle dealer",
 	invalid_company_for_car_dealer = "~r~The target company is not compatible.",
 	target_does_not_have_x = "The target does not have ~r~d'%s~w~.",
 	vyou_bought_x_for_x = "You bought ~b~%s ~w~for ~g~$%s~w~.\n%s %s",
@@ -597,13 +584,12 @@ local my_language = {
 	ped_call_you = "~b~A customer calls you, go get him.",
 	move_client_will_call_you = "~b~Move around, a customer will call you if he wants a cab.",
 	drive_customer_to_destination_x = "~g~You must drive the customer to his destination:~y~ m\n~w~%s",
-	something_unexpected_happened = "~r~Something went wrong, reset the computer.",
 	client_bug_reset = "~r~Your customer is no longer in condition, find another one.",
 	you_enabled_taxi_computer = "You ~g~enabled~w~ your vehicle computer.",
 	you_disabled_taxi_computer = "You ~r~disabled~w~ your vehicle computer.",
 	limit_taxi_job = "~r~You have reached the daily taxi limit.",
 	success_taxi_job_paid = "~g~Congratulations, you have arrived at your destination. The customer paid ~b~%s$.",
-	
+
 	-- Survey
 	thank_for_answering_survey = "~g~Thank you for answering our questions!",
 
@@ -619,7 +605,6 @@ local my_language = {
 	computer = "Computer",
 	change_screen = "Change screen",
 	you_need_to_be_in_casino = "~r~You must be inside the casino.",
-	join_table = "join the table",
 	switch_to_table_view = "switch to table view",
 	turn_wheel = "turn the wheel",
 	open_panel = "access the panel",
@@ -674,7 +659,6 @@ local my_language = {
 	bed = "Bed",
 	couch = "Couch",
 	chair = "Chair",
-	storage = "Storage",
 	barbecues = "Barbecues",
 
 	-- pawnshop
@@ -690,7 +674,6 @@ local my_language = {
 	trade_offer_canceled = "Offer canceled, you have been too slow.",
 	dont_have_stolen_items = "~r~You do not have any stolen object.",
 	sold_stolen_items = "You sold ~b~%s~w~ stolen objects and got ~g~$%s~w~.",
-	trade_x_for_x = "You traded ~b~%sx %s~w~ and got ~g~$%s~w~.",
 	cannot_trade_item = "~r~You cannot trade this item.",
 	veh_info_trade = "~b~Information:~w~\n%s - %s\n%s",
 	unable_to_find_owner = "~r~Unable to find the owner.",
@@ -735,7 +718,6 @@ local my_language = {
 	max_speed = "Max speed",
 	acceleration = "Acceleration",
 	brake = "Brake",
-	suspension = "Suspension",
 
 	feature_gold_only = "This feature is reserved for ~y~gold members~w~.",
 	feature_diamond_only = "This feature is reserved for ~b~diamond members~w~.",
@@ -771,7 +753,6 @@ local my_language = {
 	entrance = "Entrance",
 	floors = "Floors list",
 	save = "Save",
-	real_estate_agent = "Real Estate Agent",
 	transfer_ownership = "Transfer property ownership: ~g~",
 	real_estate_service = "Real Estate Service",
 	entered_property = "~g~You entered the property.",
@@ -936,7 +917,6 @@ local my_language = {
 
 	-- Character creation
 	character_creation = "Character creation",
-	confirm = "confirm",
 	start_playing = "Start playing",
 	appearance = "appearance",
 	character_list = "character list",
@@ -1063,7 +1043,6 @@ local my_language = {
 	dispatch = "Dispatch",
 	call_taken = "~b~Call taken",
 	contact_distance_x = "Target at <C>~b~%sm</C>~w~ from you.",
-
 	store_spikestrip = "store the spikestrip",
 
 	-- Delivery
@@ -1095,7 +1074,6 @@ local my_language = {
 	unable_to_find_door = "~r~Unable to find this door.",
 
 	-- Drugs
-	drug_dealer = "Drug dealer",
 	enabled = "~g~enabled",
 	disabled = "~r~disabled",
 	you_toggled_drug_sale = "You %s~w~ drug sale mode.",
@@ -1183,7 +1161,6 @@ local my_language = {
 	right_arm = "right arm",
 	left_leg = "left leg",
 	right_leg = "right leg",
-	unknown = "unknown",
 	other = "other",
 	remove_tattoo = "Remove all tattoos",
 	-- Hairdress
@@ -1206,12 +1183,10 @@ local my_language = {
 	body_blemishes_2 = "Body blemishes 2",
 	opacity = "Alpha",
 	variations = "Variations",
-	filter = "Filter",
 	eyes_color = "Eyes color",
 
 	removed_all_tattooes = "You have removed all tattoos.",
 	you_paid_x_for_tattoo = "You paid ~g~$%s~w~ for your new tattoo.",
-	tattoo = "Tattoos",
 	no_chair_around = "~r~No haircut seat around.",
 	finish_haircut = "~b~finish the haircut",
 	hairdresser_menu = "open the hairdresser menu",
@@ -1268,7 +1243,6 @@ local my_language = {
 	x_want_to_enter_property = "~g~%s~w~ ask to enter your property ~b~(%s)~w~.",
 	no_property_name = "No name",
 	accept_job_offer_q = "~b~Do you want to accept this job offer?~n~Company:~w~ %s",
-	fine = "Fine",
 	emergency_call = "~b~Emergency call: %s",
 	emergency_call2 = "~b~Emergency call",
 	emergency_call_desc = "~b~Identity: ~w~%s~n~~b~Location:~n~~w~%s (%sm) %s",
@@ -1384,7 +1358,6 @@ local my_language = {
 	take_license = "Withdraw license",
 	interact_with_target = "Civil management",
 	traffic_management = "Traffic management",
-	revive = "Reanimate",
 	fine_verb = "Fine",
 	delete_zone_restriction = "Delete the restriction",
 	display_zone = "Display the zone",
@@ -1422,7 +1395,6 @@ local my_language = {
 	your_license_removed = "~r~Your %s has been revoked.",
 	target_already_own_x = "The character already owns:\n~r~%s",
 	you_paid_x_license = "You have paid ~g~$%s~w~, license fee.",
-	license = "License",
 	you_received_license_x = "You have received your: ~g~%s~w~.",
 	you_gave_license_x = "You gave: ~g~%s~w~ to ~g~%s~w~.",
 	college = "University",
@@ -1562,7 +1534,6 @@ local my_language = {
 	shepherd = "Shepherd",
 	westy = "Westy",
 	panther = "panther",
-
 	money = "Money",
 	dirty_money = "Dirty money",
 
@@ -1602,7 +1573,7 @@ local my_language = {
 	races_help = "Go to the south of LS to participate in the Filou cup",
 	usps_help = "Reach the warehouse of USPS to get a delivery truck. Drive your vehicle and delivery packages all over Los Santos.",
 
-	target = "Target",
+	target_place = "Target",
 	garbage_collector = "Garbage collector",
 	lspd = "LSPD",
 	bcso = "LSSD",
@@ -1617,7 +1588,7 @@ local my_language = {
 	job_taxi = "Taxi",
 	job_cnn = "CNN",
 	job_weazel = "Weazel News",
-	
+
 	x_cannot_afford = "~r~%s doesn't have enough money to pay.",
 	-- invoice/fine
 	you_paid_invoice_x = "You paid the ~r~%s~w~ bill.",
@@ -1671,7 +1642,6 @@ local my_language = {
 	you_deposited_clean_money_x = "You deposited ~g~%s$~w~.",
 	you_took_clean_money_x = "You withdrew ~g~%s$~w~.",
 
-
     not_enough_room_chest = "~r~There is not enough room in the trunk",
 	not_enough_of_x_in_chest = "~r~There is not enough %s in the trunk.",
 	you_deposited_x_in_chest = "You deposited ~g~%s %s~w~ in the trunk.",
@@ -1700,7 +1670,6 @@ local my_language = {
 	loot = "Search",
 	take = "Take",
 	pickup = "Pick up",
-	information = "Information",
 	-- inv
 	equip_weapon_slot_x = "Equip your weapon in slot %s",
 	kevlar_broke = "~r~AHH!~n~~w~Your armor broke.",
@@ -1728,7 +1697,7 @@ local my_language = {
 	success_burglary_flee = "~r~Burglary completed.You have left the area.",
 	steal = "steal",
 	bring_cardboard_to_truck = "Take the cardboard back to your truck.",
-	doing_something = "Action in progress",
+	doing_something2 = "Action in progress",
 
 	vehicle_seat_taken = "~r~This spot is no longer available.",
 	body_placed_veh_trunk = "~g~Your body has been placed in the trunk of a vehicle.",
@@ -1749,7 +1718,6 @@ local my_language = {
 	wep_delivery_too_soon = "~r~You cannot start a daytime delivery.",
 	basket_x_price_x = "~b~Current basket:%s\n~w~Total price: ~g~$%s",
 	see_order_details = "See my order",
-
 
 	black = "Black",
 	white = "White",
@@ -1875,9 +1843,6 @@ local my_language = {
 	seek_items = "items sought",
 
 	-- HUD
-	normal_hud = "HUD Normal",
-	cinema_hud = "Black bars",
-	no_hud = "No HUD",
 	hud_options_open = "Open HUD options",
 	binoculars_help_hands = "~r~You must have empty hands to use your binoculars.",
 	drug = "Drug",
@@ -1896,11 +1861,10 @@ local my_language = {
 	spatialization_voice = "Spatialization (VOICE)",
 	loading_music = "Loading music",
 	category = "Category",
-	type = "Type",
 	preferred_mood = "Favorite mood",
 	preferred_movement_style = "Favorite move",
 	key = "Key",
-	enter_to_confirm = "ENTER to validate the bind",
+	enter_to_confirm_bind = "ENTER to validate the bind",
 	you_can_bind_animation_to_key = "You must select the animation to bind on the keypad.",
 	hide_barber_shops = "Hide the barbers",
 	hide_weapon_shops = "Hide gun stores",
@@ -1927,7 +1891,6 @@ local my_language = {
 	set_primary_phone_on = "Set your primary phone",
 	save_data_phone = "Save phone data",
 	load_data_phone = "This allows you to retrieve your old contacts",
-	cancel_call = "Cancel call",
 	duty_status = "On duty",
 	disconnect = "~r~Disconnect",
 	sync_character = "Synchronize my character",
@@ -2029,12 +1992,12 @@ local my_language = {
 	-- pvoice
 	change_voice_intensity = "Change the intensity of your voice",
 	new_voice_intensity = "New intensity set: %s",
-	whisper = "~g~Whispering",
-	normal = "~g~Normal",
-	yell = "~r~Yelling",
-	speaker = "~r~Speaker",
-	mute = "~g~muted",
-	unmuted = "~g~unmuted",
+	voice_whisper = "~g~Whispering",
+	voice_normal = "~g~Normal",
+	voice_yell = "~r~Yelling",
+	voice_speaker = "~r~Speaker",
+	voice_mute = "~g~muted",
+	voice_unmuted = "~g~unmuted",
 	pvoice_restarted = "~g~[pVoice]~w~ The voice chat restarted. Reconnect to your radio if you were already connected.",
 	pvoice_toggled_radio = "~b~Radio:\n~w~You %s~w~ your radio.",
 	pvoice_toggled_mute = "You %s~w~ your voice on the radio.",
@@ -2044,7 +2007,6 @@ local my_language = {
 	toggle_radio_menu = "Open the radio menu",
 	pvoice_connected_global = "~g~Connected to the global voice chat.",
 	pvoice_disconnected_global = "~r~Disconnected from the global voice chat.",
-	pvoice_restarted = "~g~The voice chat is restarting.",
 
 	job = "Job",
 	sex = "Sex",
@@ -2067,7 +2029,7 @@ local my_language = {
 	mat = "Mat",
 	metalic = "Metalic",
 	chrome = "Chrome",
-	
+
 	-- LS Custom
 	modifications_classiques = "Classic modifications",
 	modifications_custom = "Special modifications",
@@ -2132,7 +2094,6 @@ local my_language = {
 	ice = "ICE",
 	haut_parleur_coffre = "Speaker back doors",
 	hydrolique = "Hydraulics",
-	moteur = "Engine",
 	filtres_air = "Air filter",
 	entretoises = "Spacers",
 	arc_couverture = "Arch",
@@ -2144,10 +2105,8 @@ local my_language = {
 	default = "Default",
 	type = "Type",
 	normal = "Normal",
-	black = "Black",
 	black_smoke = "Black smoke",
 	simple_smoke = "Simple smoke",
-	stock = "Stock",
 	limo = "Limousine",
 	sa_black = "San Andreas black",
 	sa_blue = "San Andreas blue",
@@ -2184,6 +2143,7 @@ local my_language = {
 	clean_your_veh = "~b~wash the vehicle",
 	enter_lscustom = "enter in the ~b~LS Custom~w~.",
 	take_a_screenshot = "Take a screenshot",
+
 	healing_wounds = "Healing wounds",
 	cannot_be_revived = "~r~You cannot be revived.",
 	revived_wounded = "~g~Reanimated\n~w~You have just been revived, you are injured.",
@@ -2201,10 +2161,8 @@ local my_language = {
 	put_on_stretcher = "Put player on the stretcher",
 	check_wounds = "Check wounds",
 	heal = "Heal",
-	revive = "Reaninate",
 	stop2 = "Stop",
 	examine = "Examine",
-	take_notes = "Take notes",
 	take_pictures = "Take pictures",
 	hospital_outfit = "Hospital outfit",
 	sent_to_hospital_x = "You have been transported to ~g~%s~w~.",
@@ -2212,7 +2170,7 @@ local my_language = {
 	hospital = "Hospital",
 	taxi_hospital = "Need a taxi at the hospital",
 	need_car_dealer = "Need a car dealer",
-	need_store_manager = "Need a store manage",
+	need_store_manager = "Need a store manager",
 	need_darnell_bros = "Need Darnell Bros",
 	need_pawnshop_bc = "Need Pawnshop BC",
 	need_pawnshop_ls = "Need Pawnshop LS",
@@ -2231,7 +2189,6 @@ local my_language = {
 	sandyshore_hospital = "Sandy Shore Care Centre",
 	westdyke_hospital = "Westdyke Medical Center",
 	bronx_hospital = "Bronx Emergency Center",
-	illegal_items_confiscated = "~o~Inventory\n~w~Your illegal assets have been confiscated.",
 
 	alcool_test_x = "~r~Alcohol in blood:\n%s g/L",
 	drug_test_x = "~r~Drugs in blood:\n%s g/L",
@@ -2243,7 +2200,6 @@ local my_language = {
 	to_ltd_bc = "~o~to the LTD BC",
 	to_ltd_ls = "~o~to the LTD LS",
 	to_pawnshop = "~b~to the Pawnshops",
-	to_doa = "~b~to the DOA",
 	to_darnell = "~b~to Darnell Bros",
 	to_car_dealer = "~b~to the car dealers",
 	to_lawyer = "~y~to the lawyers",
@@ -2304,7 +2260,6 @@ local my_language = {
 	level_required_2 = "~r~You need to be level %s.",
 
 	your_character_does_not_need_job_outfit = "~r~You character does not need a job outfit.",
-	job_outfit = "Job outfit",
 	job_outfit_desc = "Purchase the mandatory outfit for this job.",
 	civil = "Civilian",
 	property_name = "Property name",
@@ -2326,7 +2281,6 @@ local my_language = {
 
 	rental = "Rental",
 	hq = "Head-quarters",
-	property = "Property",
 	garage2 = "Garage",
 
 	start_beginner_guide = "~g~start the beginner guide (useful)",
@@ -2335,7 +2289,7 @@ local my_language = {
 	not_rent_model = "~r~This vehicle is not a model from our offer.",
 	renting_car = "You are now renting a ~g~%s~w~ for free.\nDo not forget to return it.",
 	wait_rent_again_x = "You need to wait ~r~%s~w~ before renting a new car.\n~b~You can bring back your old model to bypass it.",
-	
+
 	-- perms
 	kick_member = "Kick members",
 	edit_member = "Edit members",
@@ -2366,7 +2320,6 @@ local my_language = {
 	red_kick = "Kick",
 	crew_name = "Crew name",
 	slogan = "Catchphrase",
-	information = "information",
 	boss_rank = "Boss rank name",
 	member_rank = "Newbie rank name",
 	member = "Member",
@@ -2380,7 +2333,6 @@ local my_language = {
 	invite_someone = "invite someone",
 	stats = "Stats",
 	total_ranks = "Rank count",
-	total_members = "Member count",
 	level = "Level",
 	actions = "actions",
 	crew_manager = "crew manager",
@@ -2414,7 +2366,6 @@ local my_language = {
 	report_reason = "Report reason",
 	report_player = "Report player",
 	server_id = "Server ID",
-	tattoo_verb = "Tattoo",
 	handcuff_verb = "Handcuff",
 	uncuff_verb = "Remove handcuff",
 
@@ -2431,13 +2382,11 @@ local my_language = {
 	cancel_your_task = "~r~cancel your task",
 	need_empty_fuel_canister = "~r~You do not have any empty fuel canister.",
 	filling_canister = "~b~Filling the fuel canister.",
-	give_cash = "Give cash",
 
 	-- casino menu
 	start_game = "Start game",
 	start_race = "Start race",
 	reset_game = "Reset game",
-	join_table = "Join table",
 	turn_roulette = "Turn roulette",
 	dealer_menu = "Menu dealer",
 	chips_d = "Chips for $",
@@ -2507,7 +2456,7 @@ local my_language = {
 	gesture_me = "Me?",
 	gesture_no_way = "No way",
 	gesture_nod_no_hard = "No hard",
-	gesture_nod_no_hard = "No soft",
+	gesture_nod_no_soft = "No soft",
 	gesture_nod_yes_hard = "Yes hard",
 	gesture_nod_yes_soft = "Yes soft",
 	gesture_pleased = "Pleased",
@@ -2676,13 +2625,12 @@ local my_language = {
 	-- New life
 	place_help_with_rotation_prop = "Press ~INPUT_CONTEXT~ to place it here.\nUse ~INPUT_CELLPHONE_LEFT~ or ~INPUT_CELLPHONE_RIGHT~ to rotate it.",
 	place_help_prop = "Press ~INPUT_CONTEXT~ to place it here.",
-	
+
 	wet_weed = "Wet weed",
 
 	too_far_from_hacking_spot = "~r~You are too far from the hacking spot.",
 	security_disabled_you_break = "~r~Security disabled.\n~w~You can now steal all jewels (only you)",
 	jewel_need_rifle_weapon = "~r~You need a rifle or a shotgun for this heist.",
-	security_disabled_you_break = "~r~The security of the trays has been disabled.",
 	jewel_store_robbed = "The jewel store is being robbed.",
 	jewel_steal_all_items = "You need to steal all the items before leaving with the jewels.",
 	jewel_press_e_break_glass = "Press ~INPUT_CONTEXT~ to break the glass.",
@@ -2797,7 +2745,6 @@ local my_language = {
 	push_the_veh = "push the vehicle",
 	vehicle = "Vehicle",
 	other_player = "Other player",
-	property = "Property",
 	raw_oil = "Raw oil",
 	purified_oil = "Purified oil",
 	fuel_barrel = "Fuel barrel",
@@ -2811,7 +2758,6 @@ local my_language = {
 	harvest = "Harvest",
 	no_more_wood = "~r~This tree has been completely harvested.",
 	lumberjack = "Lumberjack",
-	stop = "Stop",
 	police_badge = "Police badge",
 	no_organization = "~r~You are not part of any organization.",
 	no_crew2 = "~r~You are not part of any crew.",
@@ -2880,7 +2826,6 @@ local my_language = {
 	quit_upgrade = "Quit upgrade menu",
 	toggle_lab = "Toggle lab",
 	lithium = "Lithium",
-	red_phosphorus = "Red phosphorus",
 	acetone = "Acetone",
 	toggle_centrifuge = "start the centrifuge",
 	ephedrine = "Ephedrine",
@@ -2904,7 +2849,6 @@ local my_language = {
 	x_lab_equipment_working_fine = "Your ~b~%s~w~ is working fine.",
 	start_fridge = "start fridge process",
 	added_lab_x_equipment = "You added ~g~%s~w~ to your lab.",
-	methylamine = "Methylamine",
 	meth_box = "Meth box",
 	open_meth_box = "open a meth box",
 	you_packed_meth_quality_x = "You packed ~b~1x~w~ bag of ~b~Meth~w~.\nQuality: ~g~%s%%",
@@ -2916,8 +2860,6 @@ local my_language = {
 	btcdealer_only_takes_x = "~r~The dealer only trades $%s minimum.",
 	not_enough_ingredients_for_recipe = "~r~You do not have the ingredients to prepare this recipe.",
 	craft_not_ready = "~r~The recipe is not ready yet.",
-	chocolate = "Chocolate",
-	flour = "Flour",
 	butter = "Butter",
 	egg = "Egg",
 	milk = "Milk",
@@ -2925,7 +2867,6 @@ local my_language = {
 	white_cheese = "White cheese",
 	yogurt = "Yogurt",
 	apple = "Apple",
-	pastry = "Pastry",
 	brown_sugar = "Brown sugar",
 	mascarpone = "Mascarpone",
 	biscuit = "Biscuit",
@@ -2935,11 +2876,9 @@ local my_language = {
 	strawberries = "Strawberries",
 	potato = "Potato",
 	vegetable_oil = "Vegetable oil",
-	bread = "Bread",
 	mussels = "Mussels",
 	onion = "Onion",
 	rice = "Rice",
-	salt = "Salt",
 	red_pepper = "Red pepper",
 	cheddar = "Cheddar",
 	tomato = "Tomato",
@@ -2961,7 +2900,6 @@ local my_language = {
 	sloppy_joes = "Sloppy joes",
 	steak_fries = "Steak fries",
 	cheeseburger = "Cheeseburger",
-	hot_dog = "Hot dog",
 	lasagna = "Lasagna",
 	cheese = "Cheese",
 	thanksgiving_turkey = "Thanksgiving turkey",
@@ -3107,10 +3045,6 @@ local my_language = {
 	cash_to_chip = "$ to chip",
 	chip_to_cash = "Chip to $",
 	togggle_casino = "Togggle casino",
-	start_game = "Start game",
-	start_race = "Start race",
-	reset_game = "Reset game",
-	rob_shop = "Rob shop",
 	give_cash = "Give cash",
 	hood_closed = "~r~The vehicle's hood is closed.",
 	mechanic_action_complete = "~g~The repair of the vehicle part is completed.",
@@ -3123,10 +3057,7 @@ local my_language = {
 	parts = "Parts",
 	repairParts = "Repair parts",
 	repairMode = "Repair mode",
-	cancel = "Cancel",
 	miles = "Miles",
-	install = "Install",
-	repair = "Repair",
 	replace = "Replace",
 	inspect = "Inspect",
 	nos = "NOS",
@@ -3138,12 +3069,16 @@ local my_language = {
 	stock_brakes = "Stock brakes",
 	engine = "Engine",
 	oil = "Oil",
-	transmission = "Transmission",
 	tire = "Tire",
 	brakes = "Brakes",
 	scrap = "Scrap",
 	inspect_vehicle = "Inspect vehicle",
 	repair_job_required = "~r~You need to visite a garage and talk to someone for this repair.",
+	ranger = "Ranger",
+	rangers = "Rangers",
+	ltd_ls = "LTD LS",
+	darnell = "Darnell Bros",
+	ltd_bc = "LTD BC",
 }
 
 AddLanguage("en", my_language)

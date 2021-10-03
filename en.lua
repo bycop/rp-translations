@@ -2305,12 +2305,8 @@ local my_language = {
 	add_property_roommate = "Add property room mate",
 	sell_property = "Sell property",
 	perm_see_bank_accounts = "See all bank accounts",
-	perm_created_bank_account = "Create bank account",
 	perm_wire_money = "Wire bank money",
 	perm_see_bank_transactions = "See bank transactions",
-	perm_create_credit_card = "Create new credit card",
-	perm_block_credit_card = "Block credit card",
-	perm_retrieve_credit_card = "Retrieve new credit card",
 	perm_use_credit_card = "Use credit card",
 	perm_manage_vehicles_player_menu = "Manage vehicles player menu",
 
@@ -2360,8 +2356,6 @@ local my_language = {
 	changes_saved_on = "The changes made on <C>~g~%s</C>~w~ have been saved.",
 	crew_hq_already_property = "~r~The HQ of the crew is already here.",
 	crew_hq_sets = "~g~Congratulation.\n~w~The crew HQ has been set here.",
-	pickup_item = "~g~pickup the item",
-	get_me = "Get me!",
 
 	report_reason = "Report reason",
 	report_player = "Report player",

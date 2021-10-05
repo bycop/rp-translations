@@ -3094,6 +3094,8 @@ local my_language = {
 	take_radio = "Prendre la radio",
 	open_radio = "Ouvrir la radio",
 	speaker = "Haut-parleur",
+	pool_type_8 = "8 boules",
+	pool_type_classic = "Classique",
 }
 
 AddLanguage("fr", my_language)

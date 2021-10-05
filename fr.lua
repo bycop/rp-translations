@@ -3090,7 +3090,10 @@ local my_language = {
 	get_to_your_floor = "Rejoindre votre étage",
 	hotel_room_of_x = "Chambre ~g~%s~w~\nOccupant: ~b~%s",
 	hotel = "Hotel",
-	controlling_drug_zone = "Vous contrôlez maintenant une nouvelle zone de drogue.\n~b~%s"
+	controlling_drug_zone = "Vous contrôlez maintenant une nouvelle zone de drogue.\n~b~%s",
+	take_radio = "Prendre la radio",
+	open_radio = "Ouvrir la radio",
+	speaker = "Haut-parleur",
 }
 
 AddLanguage("fr", my_language)

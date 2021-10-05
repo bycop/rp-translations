@@ -3090,7 +3090,10 @@ local my_language = {
 	get_to_your_floor = "Get to your floor",
 	hotel_room_of_x = "Room ~g~%s~w~\nOccupant: ~b~%s",
 	hotel = "Hotel",
-	controlling_drug_zone = "You are now controlling a new drug zone.\n~b~%s"
+	controlling_drug_zone = "You are now controlling a new drug zone.\n~b~%s",
+	take_radio = "Take radio",
+	open_radio = "Open radio",
+	speaker = "Speaker",
 }
 
 AddLanguage("en", my_language)

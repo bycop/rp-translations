@@ -100,7 +100,7 @@ local my_language = {
 	notepad = "Notepad",
 	paint_spray = "Paint spray can",
 	hacking_phone = "Hacking phone",
-	lspd_outfit = "LSPD outfit",
+	lspd_outfit = "SAPD outfit",
 	lssd_outfit = "LSSD outfit",
 	ems_outfit = "EMS outfit",
 	drill = "Drill",
@@ -1343,7 +1343,7 @@ local my_language = {
 	place_in_trunk = "Place in trunk",
 	tattoo_verb = "Tattoo",
 	haircut_verb = "Haircut",
-	call_lspd_reinforcements = "Call LSPD reinforcements",
+	call_lspd_reinforcements = "Call SAPD reinforcements",
 	call_reinforcements = "call reinforcements",
 	pickup_closest_prop = "Pick up nearby object",
 	police_barrier = "Police barrier",
@@ -1575,7 +1575,7 @@ local my_language = {
 
 	target_place = "Target",
 	garbage_collector = "Garbage collector",
-	lspd = "LSPD",
+	lspd = "SAPD",
 	bcso = "LSSD",
 	ems = "EMS",
 	job_car_dealer = "Dealer",
@@ -3096,7 +3096,8 @@ local my_language = {
 	speaker = "Speaker",
 	pool_type_8 = "8 balls",
 	pool_type_classic = "Classic",
-	activated_phone_x = "You activated your phone ~g~%s~w~."
+	activated_phone_x = "You activated your phone ~g~%s~w~.",
+	none = "None",
 }
 
 AddLanguage("en", my_language)

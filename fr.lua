@@ -100,7 +100,7 @@ local my_language = {
 	notepad = "Bloc-notes",
 	paint_spray = "Paintspray",
 	hacking_phone = "Nokia piratage",
-	lspd_outfit = "Tenue LSPD",
+	lspd_outfit = "Tenue SAPD",
 	lssd_outfit = "Tenue LSSD",
 	ems_outfit = "Tenue EMS",
 	drill = "Perceuse",
@@ -1575,7 +1575,7 @@ local my_language = {
 
 	target_place = "Conforama",
 	garbage_collector = "Eboueur",
-	lspd = "LSPD",
+	lspd = "SAPD",
 	bcso = "LSSD",
 	ems = "EMS",
 	job_car_dealer = "Concessionnaire",
@@ -3096,7 +3096,8 @@ local my_language = {
 	speaker = "Haut-parleur",
 	pool_type_8 = "8 boules",
 	pool_type_classic = "Classique",
-	activated_phone_x = "Vous avez activé votre téléphone ~g~%s~w~."
+	activated_phone_x = "Vous avez activé votre téléphone ~g~%s~w~.",
+	none = "Aucun",
 }
 
 AddLanguage("fr", my_language)

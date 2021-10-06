@@ -3096,6 +3096,7 @@ local my_language = {
 	speaker = "Speaker",
 	pool_type_8 = "8 balls",
 	pool_type_classic = "Classic",
+	activated_phone_x = "You activated your phone ~g~%s~w~."
 }
 
 AddLanguage("en", my_language)

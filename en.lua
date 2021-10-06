@@ -3098,6 +3098,7 @@ local my_language = {
 	pool_type_classic = "Classic",
 	activated_phone_x = "You activated your phone ~g~%s~w~.",
 	none = "None",
+	give_money = "Give money",
 }
 
 AddLanguage("en", my_language)

@@ -3099,6 +3099,10 @@ local my_language = {
 	activated_phone_x = "You activated your phone ~g~%s~w~.",
 	none = "None",
 	give_money = "Give money",
+	repair_workbench = "Repair workbench",
+	cooking_workbench = "Cooking workbench",
+	check_jewels = "check jewels",
+	jewel_menu = "Jewel menu",
 }
 
 AddLanguage("en", my_language)

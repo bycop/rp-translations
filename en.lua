@@ -3103,6 +3103,7 @@ local my_language = {
 	cooking_workbench = "Cooking workbench",
 	check_jewels = "check jewels",
 	jewel_menu = "Jewel menu",
+	water_bottle = "Water bottle",
 }
 
 AddLanguage("en", my_language)

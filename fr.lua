@@ -3108,6 +3108,7 @@ local my_language = {
 	call_sa_cleaning = "~b~appeler SA Cleaning",
 	sa_cleaning = "SA Cleaning",
 	to_sa_cleaning = "~b~SA Cleaning",
+	water_bottle = "Bouteille d'eau",
 }
 
 AddLanguage("fr", my_language)

@@ -3109,6 +3109,8 @@ local my_language = {
 	sa_cleaning = "SA Cleaning",
 	to_sa_cleaning = "~b~SA Cleaning",
 	water_bottle = "Water bottle",
+
+	too_far_from_tag = "~r~You are too far from the spraying spot.",
 }
 
 AddLanguage("en", my_language)

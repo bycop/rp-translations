@@ -3122,6 +3122,7 @@ local my_language = {
 	dolphin_meat = "Dolphin meat",
 	humpback_meat = "Humpback meat",
 	stingray_meat = "Stingray meat",
+	hose_weapon = "Fire hose",
 }
 
 AddLanguage("en", my_language)

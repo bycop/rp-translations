@@ -3111,6 +3111,13 @@ local my_language = {
 	water_bottle = "Water bottle",
 
 	too_far_from_tag = "~r~You are too far from the spraying spot.",
+	outfit_customization = "Outfit customization",
+	you_equiped_item = "Equipping your ~g~%s~w~.",
+	no_weapon = "~r~You do not have any weapon equipped.",
+	no_need_ammo = "~r~You do not need to use any ammo with this weapon.",
+	not_right_ammo = "~r~You are not using the right ammo, you need ~b~%s~w~.",
+	you_used_ammo = "You loaded your ~b~%s~w~ with ~b~x%s~w~ of ~b~%s~w~.",
+	weapon_exlosive = "Exlosive",
 }
 
 AddLanguage("en", my_language)

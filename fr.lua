@@ -3111,6 +3111,13 @@ local my_language = {
 	water_bottle = "Bouteille d'eau",
 
 	too_far_from_tag = "~r~Vous êtes trop loin de votre zone de tag.",
+	outfit_customization = "Personnalisation des tenues",
+	you_equiped_item = "Vous avez équipé votre ~g~%s~w~.",
+	no_weapon = "~r~Vous n'avez aucune arme équipée.",
+	no_need_ammo = "~r~Vous n'avez pas besoin de munition pour cette arme.",
+	not_right_ammo = "~r~Vous n'utilisez pas les bonnes munitions, vous avez besoin de ~b~%s~w~.",
+	you_used_ammo = "Vous avez chargé votre ~b~%s~w~ avec ~b~x%s~w~ de ~b~%s~w~.",
+	weapon_exlosive = "Explosif",
 }
 
 AddLanguage("fr", my_language)

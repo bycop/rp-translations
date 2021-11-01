@@ -3118,6 +3118,10 @@ local my_language = {
 	not_right_ammo = "~r~Vous n'utilisez pas les bonnes munitions, vous avez besoin de ~b~%s~w~.",
 	you_used_ammo = "Vous avez chargé votre ~b~%s~w~ avec ~b~x%s~w~ de ~b~%s~w~.",
 	weapon_exlosive = "Explosif",
+
+	dolphin_meat = "Viande de doffin",
+	humpback_meat = "Viande de baleine",
+	stingray_meat = "Viande de raie grise",
 }
 
 AddLanguage("fr", my_language)

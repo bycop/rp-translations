@@ -3118,6 +3118,10 @@ local my_language = {
 	not_right_ammo = "~r~You are not using the right ammo, you need ~b~%s~w~.",
 	you_used_ammo = "You loaded your ~b~%s~w~ with ~b~x%s~w~ of ~b~%s~w~.",
 	weapon_exlosive = "Exlosive",
+
+	dolphin_meat = "Dolphin meat",
+	humpback_meat = "Humpback meat",
+	stingray_meat = "Stingray meat",
 }
 
 AddLanguage("en", my_language)

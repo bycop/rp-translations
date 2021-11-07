@@ -3123,6 +3123,11 @@ local my_language = {
 	humpback_meat = "Humpback meat",
 	stingray_meat = "Stingray meat",
 	hose_weapon = "Fire hose",
+
+	kevlar_stored = "~r~You stored your armor.",
+	seed_the_plant = "seed the plant",
+	harversted_x_x = "You harvested ~b~%sx ~g~%s~w~ from the plant.",
+	eat_meal_restaurant_more_food = "~r~You need to eat better food, like a meal in a restaurant to fix your hunger.",
 }
 
 AddLanguage("en", my_language)

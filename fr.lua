@@ -112,7 +112,7 @@ local my_language = {
 	coca = "Coca",
 	sulfuric_acid = "Acide sulfurique",
 	red_phosphorus = "Phosphore rouge",
-	weed_plant = "Plant de cannabis",
+	weed_plant = "Plant weed",
 	methylamine = "Méthylamine",
 	raw_iron = "Fer brut",
 	raw_metal = "Métal brut",
@@ -139,7 +139,7 @@ local my_language = {
 	paracetamol = "Paracétamol",
 	gas_mask = "Masque à gaz",
 	filter = "Filtre",
-	weed_seed = "Graîne de cannabis",
+	weed_seed = "Graîne weed",
 	raw_salmon = "Saumon cru",
 	grape = "Raisin",
 	sealed_case = "Caisse scellée",
@@ -3123,6 +3123,11 @@ local my_language = {
 	humpback_meat = "Viande de baleine",
 	stingray_meat = "Viande de raie grise",
 	hose_weapon = "Lance incendie",
+
+	kevlar_stored = "~r~Vous avez rangé votre kevlar.",
+	seed_the_plant = "planter la graine",
+	harversted_x_x = "Vous avez récolté ~b~%sx ~g~%s~w~ de la plante.",
+	eat_meal_restaurant_more_food = "~r~Vous devez manger de la meilleure nourriture, comme un repas dans un restaurant afin de résoudre votre faim.",
 }
 
 AddLanguage("fr", my_language)

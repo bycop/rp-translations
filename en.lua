@@ -3128,6 +3128,18 @@ local my_language = {
 	seed_the_plant = "seed the plant",
 	harversted_x_x = "You harvested ~b~%sx ~g~%s~w~ from the plant.",
 	eat_meal_restaurant_more_food = "~r~You need to eat better food, like a meal in a restaurant to fix your hunger.",
+
+	anim_request_sent = "~b~You sent a request to make a synced anim to the target.",
+	target_denied_synced_anim_request = "~r~The target denied your synchronized animation request.",
+	you_denied_synced_anim_request = "~r~You have denied the synchronized animation request.",
+	request_synced_anim_x = "~b~You received a synced animation request.\n~w~Press: ~g~E~w~ to accept or ~r~R~w~ to deny.",
+
+	synced_anims = "Synced anims",
+	anim_handshake = "Handshake",
+	anim_hug = "Hug",
+	anim_bro = "Bro",
+	anim_give = "Give",
+	anim_slap = "Slap",
 }
 
 AddLanguage("en", my_language)

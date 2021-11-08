@@ -3128,6 +3128,18 @@ local my_language = {
 	seed_the_plant = "planter la graine",
 	harversted_x_x = "Vous avez récolté ~b~%sx ~g~%s~w~ de la plante.",
 	eat_meal_restaurant_more_food = "~r~Vous devez manger de la meilleure nourriture, comme un repas dans un restaurant afin de résoudre votre faim.",
+
+	anim_request_sent = "~b~Vous avez envoyé une demande d'animation synchronisée à la cible.",
+	target_denied_synced_anim_request = "~r~La cible a refusé votre requête d'animation synchronisée.",
+	you_denied_synced_anim_request = "~r~Vous avez refusé la requête d'animation synchronisée.",
+	request_synced_anim_x = "~b~Vous avez reçu une demande d'animation synchronisée.\n~w~Appuyez sur: ~g~E~w~ pour accepter ~r~R~w~ pour refuser.",
+
+	synced_anims = "Animations sync",
+	anim_handshake = "Poignée de main",
+	anim_hug = "Calin",
+	anim_bro = "Bro",
+	anim_give = "Donner",
+	anim_slap = "Claque",
 }
 
 AddLanguage("fr", my_language)

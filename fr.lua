@@ -3140,6 +3140,8 @@ local my_language = {
 	anim_bro = "Bro",
 	anim_give = "Donner",
 	anim_slap = "Claque",
+
+	worklight_single = "Lampe de chantier",
 }
 
 AddLanguage("fr", my_language)

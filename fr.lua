@@ -932,8 +932,8 @@ local my_language = {
 	new_character = "nouveau personnage",
 	warning_headblend = "~r~Vous n'avez pas renseigné l'héritage de votre personnage.",
 	warning_overlays = "~r~Vous n'avez pas mis de sourcils/barbes/etc...",
-	warning_identity = "~r~Attention.~n~~w~Vous n'avez pas correctement indiqué le nom RP de votre personnage.",
-	warning_identity_2 = "~r~Attention.~n~~w~Vous n'avez pas correctement complété la catégorie identité.",
+	warning_identity = "⚠️ Vous n'avez pas correctement indiqué le nom RP de votre personnage.",
+	warning_identity_2 = "⚠️ Vous n'avez pas correctement complété la catégorie identité.",
 	warning_done_char = "Your character has been created.\n~g~Equip your tenue in your inventory with the TAB key",
 	spawn_point = "lieu d'apparition",
 	char_first_name = "Prénom",
@@ -3142,6 +3142,16 @@ local my_language = {
 	anim_slap = "Claque",
 
 	worklight_single = "Lampe de chantier",
+	["email"] = "Email",
+	lifeinvader = "LifeInvader",
+	lifeinvader_desc = "Créez un compte LifeInvader pour votre personnage.",
+	email_name = "Nom email",
+	email_domain = "Domaine",
+	email_extension = "Extension",
+	final_email = "Email final",
+	warning_email_data = "⚠️ Vous n'avez pas rempli la partie e-mail correctement.",
+	new_email_created = "Nous avons créé un e-mail pour vous.\n~b~%s",
+	new_email_failed = "~r~La création de votre e-mail a échoué.",
 }
 
 AddLanguage("fr", my_language)

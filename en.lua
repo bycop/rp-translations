@@ -3152,6 +3152,9 @@ local my_language = {
 	warning_email_data = "⚠️ You did not correctly fill the email tab.",
 	new_email_created = "We created an email for you.\n~b~%s",
 	new_email_failed = "~r~Your default email creation failed.",
+
+	press_harvest_weed = "Press ~INPUT_CONTEXT~ to harvest the plant.",
+	press_weed_dead = "Press ~INPUT_CONTEXT~ to clean up the dead plant.",
 }
 
 AddLanguage("en", my_language)

@@ -3155,6 +3155,16 @@ local my_language = {
 
 	press_harvest_weed = "Press ~INPUT_CONTEXT~ to harvest the plant.",
 	press_weed_dead = "Press ~INPUT_CONTEXT~ to clean up the dead plant.",
+
+	skin_classic = "Default",
+	skin_green = "Green",
+	skin_yellow = "Yellow",
+	skin_pink = "Pink",
+	skin_gold = "Gold",
+	skin_blue = "Blue",
+	skin_orange = "Orange",
+	customize_weapons = "customize my weapon",
+	weapon_skin = "Tint",
 }
 
 AddLanguage("en", my_language)

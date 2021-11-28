@@ -3165,6 +3165,8 @@ local my_language = {
 	skin_orange = "Orange",
 	customize_weapons = "customisation de mon arme",
 	weapon_skin = "Camouflage",
+
+	drop_the_bucket = "drop the bucket",
 }
 
 AddLanguage("fr", my_language)

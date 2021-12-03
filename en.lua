@@ -2814,6 +2814,7 @@ local my_language = {
 	carousel_cart_full = "~r~This seat is already taken.",
 	carousel_not_in = "~r~You are not seating in the carousel.",
 	enter_carousel = "enter the carousel",
+	drop_carousel = "drop the carousel",
 	exit_carousel = "exit the carousel",
 	start_carousel = "start the carousel",
 	fairground = "Fairground",
@@ -3168,6 +3169,7 @@ local my_language = {
 
 	drop_the_bucket = "drop the bucket",
 	weapon_pelle= "Shovel",
+	watches = "Watches",
 }
 
 AddLanguage("en", my_language)

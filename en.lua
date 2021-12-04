@@ -3170,6 +3170,7 @@ local my_language = {
 	drop_the_bucket = "drop the bucket",
 	weapon_pelle= "Shovel",
 	watches = "Watches",
+	e_cloth = "Cloth",
 }
 
 AddLanguage("en", my_language)

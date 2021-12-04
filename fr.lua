@@ -3171,6 +3171,9 @@ local my_language = {
 	weapon_pelle = "Pelle",
 	watches = "Montres",
 	e_cloth = "Tissu",
+	call_ems = "Urgences",
+	call_police = "911",
+	ocean_hospital = "Ocean Hospital",
 }
 
 AddLanguage("fr", my_language)

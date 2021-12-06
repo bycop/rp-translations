@@ -3214,6 +3214,7 @@ local my_language = {
 	kicking_the_ground = "Donner des coups de pied au sol",
 	hiding_weapon_behind_back = "Cacher une arme derrière son dos",
 	blacklist_jewel = "~r~Pénurie.~n~Votre %s est disponible à la bijouterie.",
+	blood_syringe = "Seringue sang",
 }
 
 AddLanguage("fr", my_language)

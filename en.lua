@@ -2312,6 +2312,7 @@ local my_language = {
 	perm_edit_web_card_phone_number = "Edit web card phone number",
 	perm_edit_web_card_details = "Edit web card details",
 	perm_web_delete_mail = "Delete group email",
+	perm_web_create_mail = "Create group email",
 
 	permission_level = "Permission grant",
 	red_delete = "Delete",

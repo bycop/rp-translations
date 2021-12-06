@@ -2309,6 +2309,9 @@ local my_language = {
 	perm_see_bank_transactions = "Voir les transactions bancaires",
 	perm_use_credit_card = "Utiliser la carte de crédit",
 	perm_manage_vehicles_player_menu = "Gérer les véhicules",
+	perm_edit_web_card_phone_number = "Modifier le numéro de téléphone de la carte web",
+	perm_edit_web_card_details = "Modifier les détails de la carte web",
+	perm_web_delete_mail = "Supprimer l'e-mail de groupe",
 
 	permission_level = "Permission grant",
 	red_delete = "Supprimer",

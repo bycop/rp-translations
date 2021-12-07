@@ -102,6 +102,7 @@ local my_language = {
 	hacking_phone = "Nokia piratage",
 	lspd_outfit = "Tenue SAPD",
 	lssd_outfit = "Tenue LSSD",
+	ranger_outfit = "Tenue Ranger",
 	ems_outfit = "Tenue EMS",
 	drill = "Perceuse",
 	bicycle = "Vélo",

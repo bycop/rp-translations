@@ -102,6 +102,7 @@ local my_language = {
 	hacking_phone = "Hacking phone",
 	lspd_outfit = "SAPD outfit",
 	lssd_outfit = "LSSD outfit",
+	ranger_outfit = "Ranger outfit",
 	ems_outfit = "EMS outfit",
 	drill = "Drill",
 	bicycle = "Bicycle",

@@ -3176,8 +3176,6 @@ local my_language = {
 	weapon_pelle= "Shovel",
 	watches = "Watches",
 	e_cloth = "Cloth",
-	call_ems = "EMS",
-	call_police = "911",
 	ocean_hospital = "Ocean Hospital",
 
 	redirect_traffic_one = "Rediriger le trafic 1",
@@ -3217,6 +3215,7 @@ local my_language = {
 	hiding_weapon_behind_back = "Cacher une arme derrière son dos",
 	blacklist_jewel = "~r~Shortage.~n~Your %s is only available in a jewelry.",
 	blood_syringe = "Blood syringe",
+	police = "911",
 }
 
 AddLanguage("en", my_language)

@@ -3219,6 +3219,8 @@ local my_language = {
 	already_stored_in_a_garage = "~r~Ce véhicule est déjà stocké dans un garage.",
 	use_atm = "utiliser le distributeur",
 	stop_helping = "arrêter d'aider",
+	attach_hair_desc = "Attacher vos cheveux",
+	anim_menu_desc = "Ouvrir le menu animation",
 }
 
 AddLanguage("fr", my_language)

@@ -3223,6 +3223,8 @@ local my_language = {
 	anim_menu_desc = "Ouvrir le menu animation",
 	attached_hairs = "Variation des cheveux attachés",
 	cereal = "Céréale",
+	weapon_briefcase = "Mallette",
+	weapon_briefcase_02 = "Mallette",
 }
 
 AddLanguage("fr", my_language)

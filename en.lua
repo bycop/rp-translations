@@ -3216,6 +3216,9 @@ local my_language = {
 	blacklist_jewel = "~r~Shortage.~n~Your %s is only available in a jewelry.",
 	blood_syringe = "Blood syringe",
 	police = "911",
+	already_stored_in_a_garage = "~r~This vehicle is already stored in a garage.",
+	use_atm = "use the ATM",
+	stop_helping = "stop helping",
 }
 
 AddLanguage("en", my_language)

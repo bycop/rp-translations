@@ -3216,6 +3216,9 @@ local my_language = {
 	blacklist_jewel = "~r~Pénurie.~n~Votre %s est disponible à la bijouterie.",
 	blood_syringe = "Seringue sang",
 	police = "911",
+	already_stored_in_a_garage = "~r~Ce véhicule est déjà stocké dans un garage.",
+	use_atm = "utiliser le distributeur",
+	stop_helping = "arrêter d'aider",
 }
 
 AddLanguage("fr", my_language)

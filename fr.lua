@@ -3221,6 +3221,8 @@ local my_language = {
 	stop_helping = "arrêter d'aider",
 	attach_hair_desc = "Attacher vos cheveux",
 	anim_menu_desc = "Ouvrir le menu animation",
+	attached_hairs = "Variation des cheveux attachés",
+	cereal = "Céréale",
 }
 
 AddLanguage("fr", my_language)

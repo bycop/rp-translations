@@ -1576,7 +1576,7 @@ local my_language = {
 
 	target_place = "Target",
 	garbage_collector = "Garbage collector",
-	lspd = "SAPD",
+	lspd = "911",
 	lssd = "LSSD",
 	ems = "EMS",
 	job_car_dealer = "Dealer",
@@ -3225,6 +3225,8 @@ local my_language = {
 	cereal = "Cereal",
 	weapon_briefcase = "Briefcase",
 	weapon_briefcase_02 = "Briefcase",
+	the_character = "The character",
+	health = "Health",
 }
 
 AddLanguage("en", my_language)

@@ -1997,8 +1997,8 @@ local my_language = {
 	voice_normal = "~g~Normal",
 	voice_yell = "~r~Crier",
 	voice_speaker = "~r~Mégaphone",
-	voice_mute = "~g~muted",
-	voice_unmuted = "~g~unmuted",
+	voice_muted = "~g~muté",
+	voice_unmuted = "~g~démuté",
 	pvoice_restarted = "~g~[pVoice]~w~ Le vocal vient de se lancer.. Pensez à connecter votre radio si vous étiez déjà connecté.",
 	pvoice_toggled_radio = "~b~Radio:\n~w~Vous avez %s~w~ votre radio.",
 	pvoice_toggled_mute = "Vous avez %s~w~ le mode muet de votre radio.",
@@ -3228,6 +3228,9 @@ local my_language = {
 	the_character = "Le personnage",
 	health = "Santé",
 	amount = "Amount",
+	mailbox_already_delivered = "~r~Vous avez déjà livré un paquet dans cette boîte aux lettres.",
+	no_slot_available_for_item = "~r~Vous n'avez pas d'emplacement disponible pour cet item.",
+	pick_up = "Récuperer",
 }
 
 AddLanguage("fr", my_language)

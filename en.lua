@@ -1997,7 +1997,7 @@ local my_language = {
 	voice_normal = "~g~Normal",
 	voice_yell = "~r~Yelling",
 	voice_speaker = "~r~Speaker",
-	voice_mute = "~g~muted",
+	voice_muted = "~g~muted",
 	voice_unmuted = "~g~unmuted",
 	pvoice_restarted = "~g~[pVoice]~w~ The voice chat restarted. Reconnect to your radio if you were already connected.",
 	pvoice_toggled_radio = "~b~Radio:\n~w~You %s~w~ your radio.",
@@ -3228,6 +3228,9 @@ local my_language = {
 	the_character = "The character",
 	health = "Health",
 	amount = "Amount",
+	mailbox_already_delivered = "~r~You already delivered a package in this mailbox today.",
+	no_slot_available_for_item = "~r~You do not have any slot available for this item.",
+		pick_up = "Pickup",
 }
 
 AddLanguage("en", my_language)

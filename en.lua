@@ -3227,6 +3227,7 @@ local my_language = {
 	weapon_briefcase_02 = "Briefcase",
 	the_character = "The character",
 	health = "Health",
+	amount = "Amount",
 }
 
 AddLanguage("en", my_language)

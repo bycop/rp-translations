@@ -3230,7 +3230,9 @@ local my_language = {
 	amount = "Amount",
 	mailbox_already_delivered = "~r~You already delivered a package in this mailbox today.",
 	no_slot_available_for_item = "~r~You do not have any slot available for this item.",
-		pick_up = "Pickup",
+	pick_up = "Pickup",
+	open_doors = "Open doors",
+	close_doors = "Close doors",
 }
 
 AddLanguage("en", my_language)

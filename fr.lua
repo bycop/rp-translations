@@ -3231,6 +3231,8 @@ local my_language = {
 	mailbox_already_delivered = "~r~Vous avez déjà livré un paquet dans cette boîte aux lettres.",
 	no_slot_available_for_item = "~r~Vous n'avez pas d'emplacement disponible pour cet item.",
 	pick_up = "Récuperer",
+	open_doors = "Ouvrir les portes",
+	close_doors = "Fermer les portes",
 }
 
 AddLanguage("fr", my_language)

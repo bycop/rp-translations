@@ -1818,6 +1818,7 @@ local my_language = {
 	noob_kit_desc = "Cet achat vous donne les informations de base afin de bien vous insérer dans le système illégal. Vous aurez notamment des localisations intéressantes mais aussi des explications.",
 	hacking_device_desc = "Cet appareil permet de pirater les systèmes de sécurité des banques <<Pacific>>.",
 	hacking_phone_desc = "Cet appareil permet de pirater les systèmes de sécurité des banques <<Fleeca>>.",
+	drill_desc = "Cet appareil vous permet de forer les ATM et les coffres-forts.",
 
 	weed_recolt_point = "Récolte graîne de cannabis",
 	weed_recolt_point_desc = "Localisation de la récolte de graîne de cannabis, première partie du circuit pour confectionner du cannabis.",
@@ -1944,7 +1945,7 @@ local my_language = {
 	character_not_yours = "Ce personnage n'est pas le vôtre.",
 	character_does_not_exist = "Ce personnage n'existe pas ou n'existe plus.",
 	loading_character = "Chargement de votre personnage...",
-	playtime_is = "~b~Votre temps de jeu sur Extinction:\n~w~%s",
+	playtime_is = "~b~Votre temps de jeu sur GLife:\n~w~%s",
 	dont_spam = "^1Do not spam!",
 
 	you_wiped_x = "Vous avez wipe %s.",

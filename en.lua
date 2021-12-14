@@ -1818,6 +1818,7 @@ local my_language = {
 	noob_kit_desc = "This purchase gives you the basic information to get into the illegal system. You will get interesting locations and explanations.",
 	hacking_device_desc = "This device allows you to hack into the security systems of <<Pacific>> banks.",
 	hacking_phone_desc = "This device allows you to hack into the security systems of <<Fleeca>> banks.",
+	drill_desc = "This device allows you to drill ATM and vaults.",
 
 	weed_recolt_point = "Cannabis seed harvest",
 	weed_recolt_point_desc = "Location of the cannabis seed harvest, first part of the circuit to make cannabis",
@@ -1944,7 +1945,7 @@ local my_language = {
 	character_not_yours = "This character is not yours.",
 	character_does_not_exist = "This character does not exist or does not longer exist.",
 	loading_character = "Loading your character...",
-	playtime_is = "~b~Your playtime on Extinction:\n~w~%s",
+	playtime_is = "~b~Your playtime on GLife:\n~w~%s",
 	dont_spam = "^1Do not spam!",
 
 	you_wiped_x = "You wiped %s.",

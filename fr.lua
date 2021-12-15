@@ -2794,7 +2794,7 @@ local my_language = {
 	chip2 = "Jetons",
 	cannot_bet_casino_closed = "~r~Vous ne pouvez pas parier que le casino est fermé.",
 	casino_games_toggled = "Les jeux de casino ont été %s~w~.",
-	sleeping_warning = "Vous dormez, déconnectez ou réveillez-vous.",
+	sleeping_warning = "Vous dormez, déconnectez, changez de personnage ou réveillez-vous.",
 	no_sleep_limit = "Vous ne pouvez pas dormir ici.\n~r~Maximum %s peuvent dormir ici.",
 	you_cannot_sleep_here = "~r~Vous ne pouvez pas dormir ici.",
 	plant_pot = "Pot",
@@ -3111,6 +3111,7 @@ local my_language = {
 	water_bottle = "Bouteille d'eau",
 
 	too_far_from_tag = "~r~Vous êtes trop loin de votre zone de tag.",
+	industrial_cat = "Industrie",
 }
 
 AddLanguage("fr", my_language)

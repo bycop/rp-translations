@@ -2800,7 +2800,7 @@ local my_language = {
 	chip2 = "Chips",
 	cannot_bet_casino_closed = "~r~You cannot bet the casino is closed",
 	casino_games_toggled = "Casino games have been %s~w~.",
-	sleeping_warning = "You are sleeping, disconnect or wake up!",
+	sleeping_warning = "You are sleeping, disconnect, switch to another character or wake up!",
 	no_sleep_limit = "You cannot sleep here.\n~r~Only %s can sleep here.",
 	you_cannot_sleep_here = "~r~You cannot sleep here.",
 	plant_pot = "Pot",
@@ -3118,6 +3118,7 @@ local my_language = {
 	water_bottle = "Water bottle",
 
 	too_far_from_tag = "~r~You are too far from the spraying spot.",
+	industrial_cat = "Industrial",
 	outfit_customization = "Outfit customization",
 	you_equiped_item = "Equipping your ~g~%s~w~.",
 	no_weapon = "~r~You do not have any weapon equipped.",

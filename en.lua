@@ -1672,6 +1672,7 @@ local my_language = {
 	take = "Take",
 	pickup = "Pick up",
 	-- inv
+	slot_already_taken = "~r~This inventory slot is already taken.",
 	equip_weapon_slot_x = "Equip your weapon in slot %s",
 	kevlar_broke = "~r~AHH!~n~~w~Your armor broke.",
 	open_inv = "Open the inventory",

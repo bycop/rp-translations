@@ -2171,6 +2171,7 @@ local my_language = {
 	sent_to_hospital_x = "Vous avez été transporté vers ~g~%s~w~.",
 	you_called_recently = "~r~Vous avez déjà appelé récemment.",
 	hospital = "Hôpital",
+	secret_service = "USSS",
 	taxi_hospital = "Besoin d'un taxi à l'hôpital",
 	need_car_dealer = "Besoin d'un concessionnaire",
 	need_store_manager = "Besoin d'un gestionnaire de magasin",
@@ -2208,6 +2209,7 @@ local my_language = {
 	to_car_dealer = "~b~aux concessionnaires",
 	to_lawyer = "~y~aux avocats",
 	to_taxi = "~y~aux taxi",
+	to_usss = "~y~à l'USSS",
 
 	-- Animations :dead:
 	seat_cool = "S'asseoir posé",

@@ -2190,6 +2190,7 @@ local my_language = {
 	call_burgershot = "~o~appeler le burgershot",
 	pillbox_hospital = "Pillbox Hills Medical Center",
 	sandyshore_hospital = "Sandy Shore Care Centre",
+	paleto_hospital = "Paleto Bay Care Center",
 	westdyke_hospital = "Westdyke Medical Center",
 	bronx_hospital = "Bronx Emergency Center",
 

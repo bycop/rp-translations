@@ -1234,6 +1234,7 @@ local my_language = {
 	call_accepted = "~g~You have accepted the call.",
 	call_denied = "~r~You have refused the call.",
 	call_ignored = "~r~You have ignored the call.",
+	call_cancelled = "~r~The call has been canceled.",
 	pay_accepted = "~g~You have accepted to pay.",
 	pay_denied = "~r~You have refused to pay.",
 	denied_job_offer = "~r~You have refused the job offer.",

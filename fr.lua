@@ -1590,6 +1590,7 @@ local my_language = {
 	job_taxi = "Taxi",
 	job_cnn = "CNN",
 	job_weazel = "Weazel News",
+	job_jewel = "Bijouterie",
 	
 	x_cannot_afford = "~r~%s n'a pas suffisamment d'argent pour payer.",
 	-- invoice/fine

@@ -908,6 +908,7 @@ local my_language = {
 	cloth_acc = "Acc",
 	cloth_badge = "Badge",
 	cloth_hats_helmets = "Chapeaux et casques",
+	bags = "Sacs",
 	manual_torso = "Torse",
 	manual_undershirt = "Sous-haut",
 	manual_neck = "Cou",
@@ -1299,6 +1300,7 @@ local my_language = {
 	vehicle_window = "Fenêtre",
 	win_up = "relevée",
 	win_down = "abaissée",
+	stuck_cooldown = "~r~Attendez un peu avant d'utiliser cette commande à nouveau.",
 
 	-- K9
 	not_developed = "WIP",

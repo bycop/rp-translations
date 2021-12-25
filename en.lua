@@ -908,6 +908,7 @@ local my_language = {
 	cloth_acc = "Acc",
 	cloth_badge = "Badge",
 	cloth_hats_helmets = "Hats and helmets",
+	bags = "Bags",
 	manual_torso = "Torso",
 	manual_undershirt = "Undershirt",
 	manual_neck = "Neck",
@@ -1299,6 +1300,7 @@ local my_language = {
 	vehicle_window = "Window",
 	win_up = "up",
 	win_down = "lowered",
+	stuck_cooldown = "~r~Please wait a little longer before trying again.",
 
 	-- K9
 	not_developed = "not finished",

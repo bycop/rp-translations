@@ -3149,6 +3149,13 @@ local my_language = {
 	kevlar_stored = "~r~Vous avez rangé votre kevlar.",
 	seed_the_plant = "planter la graine",
 	harversted_x_x = "Vous avez récolté ~b~%sx ~g~%s~w~ de la plante.",
+	farming_plant_cleaned = "~r~Vous avez nettoyé la plante morte.",
+	farming_plant_harvested = "~g~Vous avez récolté la plante.",
+	need_growth = "Croissance",
+	need_water = "Eau",
+	need_light = "Lumière",
+	need_air = "Air",
+
 	eat_meal_restaurant_more_food = "~r~Vous devez manger de la meilleure nourriture, comme un repas dans un restaurant afin de résoudre votre faim.",
 
 	anim_request_sent = "~b~Vous avez envoyé une demande d'animation synchronisée à la cible.",

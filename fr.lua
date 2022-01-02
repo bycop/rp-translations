@@ -2939,6 +2939,7 @@ local my_language = {
 	not_enough_fuel_in_pump = "~r~La pompe n'a plus assez de carburant.",
 	vehicle_tank_full = "~b~Le réservoir de carburant de votre véhicule est plein.",
 	pump_owner_x_is_now_x = "Le propriétaire de la pompe ~r~%s~w~ est désormais ~g~%s~w~.",
+	pump_fuel_x_is_now_x = "Le montant de l'essence de la pompe ~r~%s~w~ est désormais ~g~%s~w~.",
 	refilling_station_wait = "~r~Quelqu'un est en train de remplir la station, veuillez attendre.",
 	price_is_too_high = "~r~Le prix est trop haut.",
 	price_has_too_many_decimals = "~r~Le prix comporte trop de décimales.",

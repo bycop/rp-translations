@@ -307,6 +307,7 @@ local my_language = {
 	no_help = "Aucune aide n'est disponible.",
 
 	-- Admin
+	your_rank_is = "Votre rang est ~b~%s~w~.",
 	show_gamertags = "Afficher les gamertags",
 	other_options = "Autres options",
 	revive = "Réanimer",
@@ -1203,7 +1204,7 @@ local my_language = {
 	press_the_button = "Appuyez sur le bouton!",
 	skin_animal = "Dépècer un animal",
 	invalid_animal = "~r~Impossible de dépecer cet animal.",
-	skinned_animal = "Vous avez dépacé l'animal.\n~r~x%s %s",
+	skinned_animal = "Vous avez dépecé l'animal.\n~r~x%s %s",
 	meat_worthless = "~r~La viande de cet animal ne vaut rien.",
 	animal_already_skinned = "~r~Cet animal a déjà été dépecé.",
 	daily_limit_fishing = "~r~Vous avez atteint la limite de pêche.",
@@ -2866,7 +2867,7 @@ local my_language = {
 	added_lab_x_equipment = "Vous avez ajouté ~g~%s~w~ à votre labo.",
 	meth_box = "Caisse de meth",
 	open_meth_box = "ouvrir une caisse de meth",
-	you_packed_meth_quality_x = "Vous avez mis en sachez ~b~1x~w~ de ~b~Meth~w~.\nQualité: ~g~%s%%",
+	you_packed_meth_quality_x = "Vous avez mis en sachet ~b~1x~w~ de ~b~Meth~w~.\nQualité: ~g~%s%%",
 	adding_crystal = "Ajout de cristaux",
 	btc_trade_success = "Vous avez réussi à négocier ~g~$%s~w~ pour ~y~%s BTC~w~.\n~r~Les frais étaient de $%s.",
 	error_fetching_btc_price = "~r~Erreur de récupération du prix du BTC.",
@@ -3142,7 +3143,7 @@ local my_language = {
 	you_used_ammo = "Vous avez chargé votre ~b~%s~w~ avec ~b~x%s~w~ de ~b~%s~w~.",
 	weapon_exlosive = "Explosif",
 
-	dolphin_meat = "Viande de doffin",
+	dolphin_meat = "Viande de dauphin",
 	humpback_meat = "Viande de baleine",
 	stingray_meat = "Viande de raie grise",
 	hose_weapon = "Lance incendie",

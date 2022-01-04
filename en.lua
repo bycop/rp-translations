@@ -307,6 +307,7 @@ local my_language = {
 	no_help = "No help information is available.",
 
 	-- Admin
+	your_rank_is = "Your rank is ~b~%s~w~.",
 	show_gamertags = "Show gamertags",
 	other_options = "Other options",
 	revive = "Revive",

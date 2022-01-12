@@ -1608,6 +1608,7 @@ local my_language = {
 	you_sent_fine_of_x_to_x = "You have sent a fine of ~g~$%s~w~ to ~b~%s~w~.",
 	announcement = "Announcement",
 	you_cannot_create_announcement = "~r~You cannot create announcements.",
+	you_cannot_create_announcement_cooldown = "~r~You must wait before creating another announcement.",
 	paid_x_to_send_message_to_x = "~r~You paid ~b~%s$ ~r~to send your message to ~b~%s~r~.",
 	paid_x_taxes = "You paid ~g~%s$~w~ for taxes.",
 	brinks_chest_already = "~r~A colleague has already recently come by, the trunk is almost empty.",

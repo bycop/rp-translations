@@ -1391,6 +1391,7 @@ local my_language = {
 
 	you_cannot_purchase_this_license = "~r~You cannot purchase this license",
 	you_already_own_x = "You already own:\n~r~%s",
+	confirm_license_purchase = "Confirm license purchase (type 'yes' to confirm)",
 	success_license_purchase = "Congratulations, you have paid ~g~$%s\n~b~%s~w~",
 	degree = "Degree",
 	license_does_not_exist = "This license cannot be found.",

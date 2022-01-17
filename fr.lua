@@ -1391,6 +1391,7 @@ local my_language = {
 
 	you_cannot_purchase_this_license = "~r~Vous ne pouvez pas acheter cette licence",
 	you_already_own_x = "Vous possédez déjà:\n~r~%s",
+	confirm_license_purchase = "Confirmer l'achat (écrivez 'oui' pour confirmer)",
 	success_license_purchase = "Félicitations, vous avez payé ~g~$%s\n~b~%s~w~",
 	degree = "Diplôme",
 	license_does_not_exist = "Cette licence est introuvable.",

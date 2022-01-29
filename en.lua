@@ -2146,7 +2146,7 @@ local my_language = {
 	fill_fuel = "~g~fill the fuel tank~w~.",
 
 	invoice_amount = "Invoice amount",
-	vehicle_status = "Fuel: ~b~%sL~n~~w~Engine state: ~b~%s%~n~~w~Vehicle state: ~b~%s%",
+	vehicle_status = "Fuel: ~b~%sL~n~~w~Engine state: ~b~%s%%~n~~w~Vehicle state: ~b~%s%%",
 	vehicle_custom_status = "~b~Pieces state:~n~~w~Engine ~b~[%s]~n~~w~Brakes ~b~[%s]~n~~w~Suspension ~b~[%s]~n~~w~Transmission ~b~[%s]~n~~w~Turbo %s",
 	custom_installed = "~g~Installed",
 	custom_not_installed = "~r~Not-installed",

@@ -52,6 +52,7 @@ local my_language = {
 	loudspeaker = "Mégaphone",
 	handcuffs = "Menottes",
 	zipties = "Zip-ties",
+	rose = "Rose",
 	tshirt = "T-shirt",
 	cyanure_pill = "Cyanure",
 	fertilizer = "Engrais",

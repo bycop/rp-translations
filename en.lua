@@ -1047,7 +1047,7 @@ local my_language = {
 	removed_spikestrip = "You picked up your ~g~spike strip~w~.",
 
 	dispatch_message_nobody = "You sent a message %s~w~.\n~r~This service is currently unavailable",
-	dispatch_send_message = "You sent a message %s~w~.",
+	dispatch_send_message_x = "You sent a message %s~w~.",
 	invalid_phone_number = "~r~Invalid phone number.",
 	dispatch = "Dispatch",
 	call_taken = "~b~Call taken",

@@ -3037,6 +3037,7 @@ local my_language = {
 	oxygen_bottle = "Oxygen bottle",
 	perfusion = "Perfusion",
 	blood_perfusion = "Blood perfusion",
+	blood_type_kit = "Blood type test kit",
 	pills = "Pills",
 	ointment = "Ointment",
 	splint = "Splint",

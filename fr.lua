@@ -3037,6 +3037,7 @@ local my_language = {
 	oxygen_bottle = "Bouteille d'oxygène",
 	perfusion = "Perfusion",
 	blood_perfusion = "Perfusion sanguine",
+	blood_type_kit = "Kit de test groupe sanguin",
 	pills = "Comprimés",
 	ointment = "Pommade",
 	splint = "Attelle",

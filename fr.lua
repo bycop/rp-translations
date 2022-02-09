@@ -534,6 +534,7 @@ local my_language = {
 	you_got_deposit_from_vehicle = "Vous avez récupéré la caution de ~b~%s$~w~ du véhicule.",
 	you_deposited_x_for_vehicle = "Vous avez payé ~b~%s$~w~ pour sortir votre véhicule.",
 	no_deposit_veh = "~r~Aucune caution en attente.",
+	not_job_vehicle = "~r~Ce véhicule n'est pas un véhicule métier.",
 	unable_to_find_property = "~r~Cette propriété est introuvable.",
 	garage_full = "~r~Votre garage est plein.",
 	incorrect_vehicle = "~r~Le véhicule est incorrect",

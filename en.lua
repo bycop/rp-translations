@@ -534,6 +534,7 @@ local my_language = {
 	you_got_deposit_from_vehicle = "You got back your ~b~%s$~w~ deposit.",
 	you_deposited_x_for_vehicle = "You deposited ~b~%s$~w~ for your vehicle.",
 	no_deposit_veh = "~r~No deposit pending.",
+	not_job_vehicle = "~r~This vehicle is not a job vehicle.",
 	unable_to_find_property = "~r~This property cannot be found.",
 	garage_full = "~r~Your garage is full.",
 	incorrect_vehicle = "~r~This vehicle is incorrect.",

@@ -2193,6 +2193,7 @@ local my_language = {
 	need_darnell_bros = "Besoin de Darnell Bros",
 	need_pawnshop_bc = "Besoin de Pawnshop BC",
 	need_pawnshop_ls = "Besoin de Pawnshop LS",
+	need_jeweler = "Besoin d'un bijoutier",
 	need_someone = "Besoin de quelqu'un",
 	call_a_taxi = "~y~appeler un taxi",
 	call_car_dealer = "~b~appeler un concessionnaire",
@@ -2203,6 +2204,7 @@ local my_language = {
 	call_garage_bc = "~o~appeler le garage BC",
 	call_garage_ls = "~o~appeler le garage LS",
 	call_ltd_bc = "~o~appeler le LTD BC",
+	call_jeweler = "~o~appeler un bijoutier",
 	call_burgershot = "~o~appeler le burgershot",
 	pillbox_hospital = "Pillbox Hills Medical Center",
 	sandyshore_hospital = "Sandy Shore Care Centre",
@@ -2225,6 +2227,7 @@ local my_language = {
 	to_lawyer = "~y~aux avocats",
 	to_taxi = "~y~aux taxi",
 	to_usss = "~y~à l'USSS",
+	to_jewellery = "~y~à la bijouterie",
 
 	-- Animations :dead:
 	seat_cool = "S'asseoir posé",

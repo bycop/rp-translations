@@ -1872,6 +1872,7 @@ local my_language = {
 	character_settings = "Character options",
 	settings = "Options",
 	map = "Map",
+	disable_idle_cam = "Disable idle cameras",
 	show_street_labels = "Show street labels (while in a car only)",
 	keep_flashlight_on = "Keep flashlight on",
 	call_taken_notifications = "Notifications call taken",

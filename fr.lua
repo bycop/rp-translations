@@ -3305,6 +3305,13 @@ local my_language = {
 	pick_up = "Récuperer",
 	open_doors = "Ouvrir les portes",
 	close_doors = "Fermer les portes",
+
+	must_own_vehicle = "~r~Vous devez être le propriétaire du véhicule.",
+	already_has_key = "~r~La cible que vous avez sélectionnée possède déjà la clé de ce véhicule..",
+	give_key_to_target = "Vous avez donné la clé de ~g~votre véhicule~s~ à la cible.",
+	press_enter_rem_key = "Appuyez sur ~g~ENTRER~s~ pour retirer l'accès.",
+	give_key_to_target_title = "Donner la clé à la cible",
+	remove_key_from_target = "Vous avez retiré l'accès ~g~au véhicule~s~ à cible.",
 }
 
 AddLanguage("fr", my_language)

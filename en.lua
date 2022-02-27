@@ -3304,6 +3304,13 @@ local my_language = {
 	pick_up = "Pickup",
 	open_doors = "Open doors",
 	close_doors = "Close doors",
+
+	must_own_vehicle = "~r~You must be the owner of the vehicle.",
+	already_has_key = "~r~The target you selected already has the key of this vehicle.",
+	give_key_to_target = "You succesfuly gave the key of ~g~this vehicle~s~ to the target.",
+	press_enter_rem_key = "Press ~g~ENTER~s~ to remove the access.",
+	give_key_to_target_title = "Give key to target",
+	remove_key_from_target = "You succesfuly removed the key of ~g~this vehicle~s~ from the target.",
 }
 
 AddLanguage("en", my_language)

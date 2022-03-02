@@ -3311,6 +3311,8 @@ local my_language = {
 	press_enter_rem_key = "Press ~g~ENTER~s~ to remove the access.",
 	give_key_to_target_title = "Give key to target",
 	remove_key_from_target = "You succesfuly removed the key of ~g~this vehicle~s~ from the target.",
+	cannot_drop_item_x = "You cannot drop ~r~%s~s~.",
+	keys = "Keys",
 }
 
 AddLanguage("en", my_language)

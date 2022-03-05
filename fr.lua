@@ -3314,6 +3314,7 @@ local my_language = {
 	remove_key_from_target = "Vous avez retiré l'accès ~g~au véhicule~s~ à cible.",
 	cannot_drop_item_x = "Vous ne pouvez pas jeter ~r~%s~s~.",
 	keys = "Clés",
+	cannot_move_items_with_different_volume = "~r~Vous ne pouvez pas switch des items avec un volume différent.",
 }
 
 AddLanguage("fr", my_language)

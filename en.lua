@@ -3314,6 +3314,11 @@ local my_language = {
 	cannot_drop_item_x = "You cannot drop ~r~%s~s~.",
 	keys = "Keys",
 	cannot_move_items_with_different_volume = "~r~You cannot switch items with different volume.",
+	cannot_pickup_not_clean_plant = "~r~The plant must be clean and not seeded to be picked up.",
+	farming_plant_picked_up = "~g~You picked up the plant pot.",
+	snitch = "Snitch",
+	plant_attacked_distance_x = "A plant you own has been destroyed by someone. ~y~(%sm)",
+	cannot_abort_this_mission = "~r~You cannot abort this mission.",
 }
 
 AddLanguage("en", my_language)

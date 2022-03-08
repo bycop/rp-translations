@@ -1293,6 +1293,7 @@ local my_language = {
 	lift_anchor = "You have ~r~lift~w~ the anchor!",
 	vehicle_not_moving = "You must be at a standstill.",
 	vehicle_moving_too_fast = "You are driving too fast to activate the speed limiter.",
+	cannot_access_pub_trunk = "~r~Trunk is completely locked, you can't access it.",
 	surf_stored = "You have ~g~stored your surf board~w~.",
 	image_link = "Image link",
 	zones_commands = "Available commands:\n /zone name\n /zone info\n /zone quit",

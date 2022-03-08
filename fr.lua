@@ -1293,6 +1293,7 @@ local my_language = {
 	lift_anchor = "Vous avez ~r~levé~w~ l'ancre !",
 	vehicle_not_moving = "Vous devez être à l'arrêt.",
 	vehicle_moving_too_fast = "Vous roulez trop vite pour activer le limitateur.",
+	cannot_access_pub_trunk = "~r~Ce coffre est sécurisé, vous ne pouvez pas y accéder.",
 	surf_stored = "Vous avez ~g~rangé votre planche de surf~w~.",
 	image_link = "Lien de l'image",
 	zones_commands = "Commandes disponibles:\n /zone name\n /zone info\n /zone quit",

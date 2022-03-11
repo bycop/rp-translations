@@ -3321,6 +3321,12 @@ local my_language = {
 	snitch = "Poucave",
 	plant_attacked_distance_x = "Une plante que vous possédez a été détruite par quelqu'un. ~y~(%sm)",
 	cannot_abort_this_mission = "~r~Vous ne pouvez pas annuler cette mission.",
+
+	methylamine_desc  = "Un baril de méthylamine pour la chimie.",
+	acetone_desc  = "Une bouteille d'acétone fraîchement créée par le Humane Lab.",
+	ammonia_desc  = "Un baril d'ammoniaque importé de Chine.",
+	equipments = "Equipements",
+	you_are_not_allowed_to_do_that = "~r~Vous n'êtes pas autorisé à faire ça.",
 }
 
 AddLanguage("fr", my_language)

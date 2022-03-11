@@ -292,7 +292,7 @@ local my_language = {
 	no_activity = "~r~Unknown activity.",
 	cant_sell_this_item = "~r~You cannot sell this item.",
 	incorrect_price = "~r~Incorrect price.",
-	no_company = "~r~Your company does not excist.",
+	no_company = "~r~Your company does not exist.",
 	trade_x_for_x_and_got_x = "You traded ~b~%sx %s~w~ for ~b~%s~w~ and got ~g~%s$~w~.",
 	trade_x_for_x = "You traded ~b~%sx %s~w~ for ~g~$%s~w~.",
 	work_limit = "~r~You reached the daily work limit.",
@@ -3320,6 +3320,12 @@ local my_language = {
 	snitch = "Snitch",
 	plant_attacked_distance_x = "A plant you own has been destroyed by someone. ~y~(%sm)",
 	cannot_abort_this_mission = "~r~You cannot abort this mission.",
+
+	methylamine_desc  = "A barrel of methylamine for chemistry.",
+	acetone_desc  = "A bottle of acetone freshly created by the Humane Lab.",
+	ammonia_desc  = "A barrel of ammonia imported from China.",
+	equipments = "Equipments",
+	you_are_not_allowed_to_do_that = "~r~You are not allowed to do that.",
 }
 
 AddLanguage("en", my_language)

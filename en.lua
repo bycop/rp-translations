@@ -3352,6 +3352,7 @@ local my_language = {
 	animal_food = "Animal food",
 	pet_fed_x = "You fed your pet with ~g~%s~w~.",
 	cannot_feed_pet_with_this_food = "~r~You cannot feed your pet with this food.",
+	afk_rewarded_x = "You received ~g~$%s~w~ for being AFK.",
 }
 
 AddLanguage("en", my_language)

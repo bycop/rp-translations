@@ -1544,10 +1544,10 @@ local my_language = {
 	pug = "Pug",
 	rabbit = "Rabbit",
 	rat = "Rat",
-	retriever = "retriever",
+	retriever = "Golden Retriever",
 	shepherd = "Shepherd",
 	westy = "Westy",
-	panther = "panther",
+	panther = "Panther",
 	money = "Money",
 	dirty_money = "Dirty money",
 

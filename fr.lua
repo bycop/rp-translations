@@ -490,6 +490,7 @@ local my_language = {
 	only_gouv = "~r~Seul un membre du gouvernement peut créer une entreprise",
 	you_are_already_ceo = "~r~Vous êtes déjà chef d'une entreprise.",
 	you_paid_x_for_company = "Vous avez payé ~g~$%s~w~ pour la création de votre entreprise.",
+	dont_forget_register_business_cityhall = "~g~N'oubliez pas de déclarer votre entreprise auprès de votre mairie !",
 	business_creation_failed = "~r~La création de votre entreprise a échoué.",
 	changed_saved_sync_soon = "~g~Vos changements ont bien été sauvegardés.\n~w~Ces changements seront synchronisés dans quelques minutes.",
 	you_changed_your_company_name = "Vous avez modifié le nom de votre entreprise pour ~b~%s~w~.",
@@ -2384,6 +2385,8 @@ local my_language = {
 	crew_kick_success = "Vous avez exclu <C>~b~%s</C>~w~ de votre groupe.",
 	first_rank_warning = "Le premier rang est le rang 'par défaut'",
 
+	you_cannot_delete_role_you_are_in = "~r~Vous ne pouvez pas supprimer un rang dans lequel vous êtes membre.",
+	cannot_delete_role_in_use = "~r~Vous ne pouvez pas supprimer un rang qui est attribué à des membres.",
 	you_updated_this = "Vous avez mis à jour %s en ~g~<C>%s</C>~w~.",
 	changes_saved_on = "Les modifications apportées de <C>~g~%s</C>~w~ ont été sauvegardés.",
 	crew_hq_already_property = "~r~Le QG est déjà là.",

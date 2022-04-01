@@ -486,6 +486,7 @@ local my_language = {
 	item_already_used_channel = "L'item que vous avez sélectionnez est déjà utilisé dans votre circuit.",
 	incompatible_item = "L'objet que vous avez sélectionnez est incompatible.",
 	business_name_invalid = "~r~Le nom de votre business est incorrect.",
+	business_not_enough_playtime = "~r~Vous n'avez pas le temps de jeu requis (7 jours) pour créer un business.",
 	need_to_be_close_gouv = "~r~Vous devez être à côté d'un membre du gouvernement.",
 	only_gouv = "~r~Seul un membre du gouvernement peut créer une entreprise",
 	you_are_already_ceo = "~r~Vous êtes déjà chef d'une entreprise.",

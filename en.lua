@@ -486,6 +486,7 @@ local my_language = {
 	item_already_used_channel = "The item you selected is already part of your production channel.",
 	incompatible_item = "This object is invalid.",
 	business_name_invalid = "~r~Your business name format is invalid.",
+	business_not_enough_playtime = "~r~You don't have the required playtime (7 days) to create a business.",
 	need_to_be_close_gouv = "~r~You need to be with a government member.",
 	only_gouv = "~r~Only government members can create companies.",
 	you_are_already_ceo = "~r~You are already the CEO of a company.",

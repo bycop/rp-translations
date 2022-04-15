@@ -1555,6 +1555,7 @@ local my_language = {
 
 	-- Map
 	police_station = "Police Station",
+	fire_station = "Fire Station",
 	pacific_bank = "Pacific Bank",
 	mask_shop = "Mask store",
 	drug_store = "Pharmacy",

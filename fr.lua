@@ -2792,6 +2792,7 @@ local my_language = {
 	not_fatal = "non fatal",
 	bullet_proof_x = "Douille %sm (%s)",
 	speed_limit_abuse_message = "~r~Excès de vitesse: ~w~+%s km/h\n~r~Amende: ~w~$%s",
+	speed_limit_cop_message = "~b~Plaque flashée: ~r~%s\n~b~Rue: ~w~%s\n~b~Modèle: ~w~%s~r~ +%skm/h",
 	speed_radar_created = "~g~You created a new speed radar.",
 	speed_radar_updated = "~b~Speed radar successfully updated.",
 	speed_radar_deleted = "~r~You deleted the speed radar.",

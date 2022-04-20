@@ -3403,6 +3403,7 @@ local my_language = {
 	peck = "Peck",
 	idle = "Idle",
 	afk_rewarded_x = "You received ~g~$%s~w~ for being AFK.",
+	share_key_max = "You cannot share your vehicle keys to more than ~r~%s players~w~.",
 }
 
 AddLanguage("en", my_language)

@@ -1732,6 +1732,7 @@ local my_language = {
 	basket_empty_wep_crew = "~r~Your basket is empty.Do you have the required crew level for these weapons?",
 	atm_already_robbed_today = "~r~This ATM has already been robbed today.",
 	already_robbed_shop_today = "~r~You already robbed a supermarket or an ATM today.",
+	cannot_rob_now = "~r~You cannot rob now.",
 	shop_robbbery = "Supermarket robbery",
 	network_hack = "Antenna hacking",
 	bank_robbery = "Bank robbery",

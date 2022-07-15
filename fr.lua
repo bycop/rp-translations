@@ -1732,6 +1732,7 @@ local my_language = {
 	basket_empty_wep_crew = "~r~Votre panier est vide.\nAvez-vous le niveau de crew requis pour ces armes?",
 	atm_already_robbed_today = "~r~Cet ATM a déjà été braqué aujourd'hui.",
 	already_robbed_shop_today = "~r~Vous avez déjà braqué une supérette ou un ATM aujourd'hui.",
+	cannot_rob_now = "~r~Vous ne pouvez pas braquer à cette heure-là.",
 	shop_robbbery = "Braquage de superette",
 	network_hack = "Piratage antenne",
 	bank_robbery = "Braquage Banque",

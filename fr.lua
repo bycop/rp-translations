@@ -25,6 +25,7 @@ local my_language = {
 	cleaning_kit = "Kit de lavage",
 	fishing_rod = "Canne à pêche",
 	furniture = "Meuble",
+	furniture2 = "Meuble",
 	cloth = "Vêtement",
 	accessory = "Accessoire",
 	gloves = "Gants",

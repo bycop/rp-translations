@@ -1352,7 +1352,7 @@ local my_language = {
 	you_uncuffed_someone = "Vous avez démenotté ~g~quelqu'un~w~.",
 	target_not_cuffed = "~r~La personne n'est pas menottée.",
 	free = "Relâcher",
-	drag = "Porter",
+	drag = "Traîner",
 	plates = "Plaques",
 	plate = "Plaque",
 	place_in_car = "Mettre dans le véhicule",
@@ -3407,6 +3407,8 @@ local my_language = {
 	idle = "Attente",
 	afk_rewarded_x = "Vous avez reçu ~g~$%s~w~ pour votre AFK.",
 	share_key_max = "Vous ne pouvez pas partager les clés de votre véhicule avec plus de ~r~%s joueurs~w~.",
+	release = "libérer",
+	carry = "Porter",
 }
 
 AddLanguage("fr", my_language)

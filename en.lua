@@ -336,6 +336,7 @@ local my_language = {
 	send_private_msg = "Send private message",
 	goto_player = "Goto player",
 	bring_player = "Bring player",
+	return_player = "Return player from bring position",
 	kick_player = "Kick player",
 	warn_player = "Warn player",
 	warns_list = "Warns list",

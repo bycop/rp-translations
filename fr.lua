@@ -336,6 +336,7 @@ local my_language = {
 	send_private_msg = "Envoyer un message privé",
 	goto_player = "Se téléporter au joueur",
 	bring_player = "Téléporter le joueur sur soi",
+	return_player = "Retourner le joueur à sa position avant bring",
 	kick_player = "Kick le joueur",
 	warn_player = "Avertir le joueur",
 	warns_list = "Liste des warns",

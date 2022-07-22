@@ -345,6 +345,8 @@ local my_language = {
 	invalid_entity = "~r~L'entité est invalide.",
 	invalid_property_id = "~r~L'ID de propriété est invalide.",
 	property_not_found = "~r~Aucune propriété trouvée avec cet ID.",
+	vehicle_not_found = "~r~Aucun véhicule sorti trouvé avec cette plaque.",
+	vehicle_net_error = "~r~Impossible de récupérer le véhicule.",
 
 	-- Bank
 	read_bank_balance = "Voir le montant",

@@ -345,6 +345,8 @@ local my_language = {
 	invalid_entity = "~r~Invalid entity.",
 	invalid_property_id = "~r~Invalid property ID.",
 	property_not_found = "~r~Property not found with this ID.",
+	vehicle_not_found = "~r~No spawned vehicle found with this plate.",
+	vehicle_net_error = "~r~Vehicle entity network error.",
 
 	-- Bank
 	read_bank_balance = "Read account balance",

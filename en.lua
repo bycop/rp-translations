@@ -343,6 +343,8 @@ local my_language = {
 	warn_reason_too_long = "~r~Warn reason too long.",
 	warned_player = "~b~%s (%s)~w~ has been warned.",
 	invalid_entity = "~r~Invalid entity.",
+	invalid_property_id = "~r~Invalid property ID.",
+	property_not_found = "~r~Property not found with this ID.",
 
 	-- Bank
 	read_bank_balance = "Read account balance",

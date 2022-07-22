@@ -343,6 +343,8 @@ local my_language = {
 	warn_reason_too_long = "~r~La raison de l'avertissement est trop longue.",
 	warned_player = "Votre avertissement pour ~b~%s (%s)~w~ a bien été enregistré.",
 	invalid_entity = "~r~L'entité est invalide.",
+	invalid_property_id = "~r~L'ID de propriété est invalide.",
+	property_not_found = "~r~Aucune propriété trouvée avec cet ID.",
 
 	-- Bank
 	read_bank_balance = "Voir le montant",

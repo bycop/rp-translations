@@ -3055,6 +3055,7 @@ local my_language = {
 	pump_money_is_empty = "~r~La pompe ne contient pas d'argent.",
 	pump_money_transfered = "~g~$%s~w~ ont été transférés sur le compte bancaire de l'entreprise.",
 	refill_station = "recharger la station",
+	stop_refill_station = "arrêter de recharger la station",
 	fuel_amount = "Montant d'essence",
 	fuel_money = "Solde d'argent",
 	pump_menu = "Menu de la pompe",

@@ -3055,6 +3055,7 @@ local my_language = {
 	pump_money_transfered = "~g~$%s~w~ have been transfered to the companty bank account.",
 	refill_pump_x = "You added ~g~+%s gal~w~ of fuel in the pump.",
 	refill_station = "refill the station",
+	stop_refill_station = "stop refilling the station",
 	fuel_amount = "Amount of fuel in the pump",
 	fuel_money = "Amount of money in the pump",
 	pump_menu = "Pump menu",

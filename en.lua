@@ -3408,6 +3408,8 @@ local my_language = {
 	share_key_max = "You cannot share your vehicle keys to more than ~r~%s players~w~.",
 	release = "Release",
 	carry = "Carry",
+	bet_too_low_x = "You must bet at least ~r~$%s~w~.",
+	bet_limit_x = "You can bet a maximum of ~r~$%s~w~.",
 }
 
 AddLanguage("en", my_language)

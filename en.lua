@@ -3223,6 +3223,7 @@ local my_language = {
 	hotel_room_of_x = "Room ~g~%s~w~\nOccupant: ~b~%s",
 	hotel = "Hotel",
 	controlling_drug_zone = "You are now controlling a new drug zone.\n~b~%s",
+	nosell_drug_zone = "You are not in a sales area.",
 	take_radio = "Take radio",
 	open_radio = "Open radio",
 	speaker = "Speaker",

@@ -3438,6 +3438,9 @@ local my_language = {
 	carry = "Carry",
 	bet_too_low_x = "You must bet at least ~r~$%s~w~.",
 	bet_limit_x = "You can bet a maximum of ~r~$%s~w~.",
+	cups = "Cups",
+	spawn_bumpercars = "spawn bumpercars",
+	bumpercars_already_spawned = "~r~The bumper cars have already been spawned.",
 }
 
 AddLanguage("en", my_language)

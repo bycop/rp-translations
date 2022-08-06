@@ -3439,6 +3439,9 @@ local my_language = {
 	carry = "Porter",
 	bet_too_low_x = "You must bet at least ~r~$%s~w~.",
 	bet_limit_x = "Vous pouvez parier un maximum de ~r~$%s~w~.",
+	cups = "Tasses",
+	spawn_bumpercars = "faire apparaître les auto tamponneuses",
+	bumpercars_already_spawned = "~r~Les autos tamponneuses ont déjà été créées.",
 }
 
 AddLanguage("fr", my_language)

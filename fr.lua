@@ -3442,6 +3442,7 @@ local my_language = {
 	cups = "Tasses",
 	spawn_bumpercars = "faire apparaître les auto tamponneuses",
 	bumpercars_already_spawned = "~r~Les autos tamponneuses ont déjà été créées.",
+	reached_max_daily_earning = "~r~Vous avez atteint la limite maximale de gains quotidiens.\n~w~Revenez demain.",
 }
 
 AddLanguage("fr", my_language)

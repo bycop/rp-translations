@@ -3441,6 +3441,7 @@ local my_language = {
 	cups = "Cups",
 	spawn_bumpercars = "spawn bumpercars",
 	bumpercars_already_spawned = "~r~The bumper cars have already been spawned.",
+	reached_max_daily_earning = "~r~You have reached the maximum daily earning limit.\n~w~Come back tomorrow.",
 }
 
 AddLanguage("en", my_language)

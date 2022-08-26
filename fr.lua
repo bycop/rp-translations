@@ -3443,6 +3443,19 @@ local my_language = {
 	spawn_bumpercars = "faire apparaître les auto tamponneuses",
 	bumpercars_already_spawned = "~r~Les autos tamponneuses ont déjà été créées.",
 	reached_max_daily_earning = "~r~Vous avez atteint la limite maximale de gains quotidiens.\n~w~Revenez demain.",
+	use_phone_booth = "Appuyez sur %s pour ~b~utiliser la cabine~w~.\nPrix: ~g~$%s",
+	leave_booth = "~b~quitter la cabine téléphonique",
+	created_items = "Eléments créés",
+	display = "Afficher",
+	print = "Créer",
+	create_new_image_item = "Créer un nouvel item",
+	to_confirm_write_yes = "Pour confirmer, écrivez Oui",
+	item_image_successfully_created = "~g~L'item image a été créé avec succès.\n~w~Créez l'item en utilisant le menu /imageItem.",
+	print_item_image_x = "Vous avez fabriqué ~g~%s~w~ item image (%s).",
+	image_item_notepad = "Bloc-note",
+	image_item_news = "Journal",
+	image_item_book = "Livre",
+	you_deleted_image_item = "Vous avez supprimé les données de cet item image.",
 }
 
 AddLanguage("fr", my_language)

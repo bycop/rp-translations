@@ -3442,6 +3442,19 @@ local my_language = {
 	spawn_bumpercars = "spawn bumpercars",
 	bumpercars_already_spawned = "~r~The bumper cars have already been spawned.",
 	reached_max_daily_earning = "~r~You have reached the maximum daily earning limit.\n~w~Come back tomorrow.",
+	use_phone_booth = "Press %s to ~b~use to phone booth~w~.\nPrice: ~g~$%s",
+	leave_booth = "~b~leave the phone booth",
+	created_items = "Created items",
+	display = "Display",
+	print = "Print",
+	create_new_image_item = "Create a new image item",
+	to_confirm_write_yes = "To confirm, write Yes",
+	item_image_successfully_created = "~g~The image item has been successfully created.\n~w~Create the item using the /imageItem menu.",
+	print_item_image_x = "You printed ~g~%s~w~ image item (%s).",
+	image_item_notepad = "Notepad",
+	image_item_news = "Newspaper",
+	image_item_book = "Book",
+	you_deleted_image_item = "You removed this image item data.",
 }
 
 AddLanguage("en", my_language)

@@ -3456,6 +3456,9 @@ local my_language = {
 	image_item_news = "Journal",
 	image_item_book = "Livre",
 	you_deleted_image_item = "Vous avez supprimé les données de cet item image.",
+	open_dumpster = "~b~ouvrir la poubelle",
+	stop_action = "~b~stopper l'action",
+	looting_dumpster = "Ouverture de la poubelle",
 }
 
 AddLanguage("fr", my_language)

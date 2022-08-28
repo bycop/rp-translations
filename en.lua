@@ -3455,6 +3455,9 @@ local my_language = {
 	image_item_news = "Newspaper",
 	image_item_book = "Book",
 	you_deleted_image_item = "You removed this image item data.",
+	open_dumpster = "~b~open dumpster",
+	stop_action = "~b~stop action",
+	looting_dumpster = "Looting dumpster",
 }
 
 AddLanguage("en", my_language)

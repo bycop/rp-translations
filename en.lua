@@ -788,6 +788,7 @@ local my_language = {
 	create_property = "Create a property",
 	entrance = "Entrance",
 	floors = "Floors list",
+	duplicate_floor = "Duplicate floor",
 	save = "Save",
 	transfer_ownership = "Transfer property ownership: ~g~",
 	real_estate_service = "Real Estate Service",

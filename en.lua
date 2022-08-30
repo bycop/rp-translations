@@ -3458,6 +3458,12 @@ local my_language = {
 	open_dumpster = "~b~open dumpster",
 	stop_action = "~b~stop action",
 	looting_dumpster = "Looting dumpster",
+	scan_weapon_in_hand = "~b~scan the weapon in your hand",
+	weapon_no_id = "~r~This weapon has no ID tied to itself.",
+	weapon_id_is_x = "The weapon ID is ~b~%s~w~.",
+	analyzing_weapon = "Analyzing weapon",
+	no_county_tied_to_phone = "~r~There is not any county indicator on your phone.",
+	citizenship = "Citizenship",
 }
 
 AddLanguage("en", my_language)

@@ -3459,6 +3459,12 @@ local my_language = {
 	open_dumpster = "~b~ouvrir la poubelle",
 	stop_action = "~b~stopper l'action",
 	looting_dumpster = "Ouverture de la poubelle",
+	scan_weapon_in_hand = "~b~scanner l'arme dans vos mains",
+	weapon_no_id = "~r~Votre arme n'a aucune ID liée.",
+	weapon_id_is_x = "L'ID de votre arme est ~b~%s~w~.",
+	analyzing_weapon = "Analyse de l'arme",
+	no_county_tied_to_phone = "Vous n'avez pas de comté lié à votre téléphone.",
+	citizenship = "Citoyenneté",
 }
 
 AddLanguage("fr", my_language)

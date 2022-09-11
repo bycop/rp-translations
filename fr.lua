@@ -3487,6 +3487,7 @@ local my_language = {
 	credit_modifications_saved = "~g~Les crédits d'État et les avantages ont été mis à jour.",
 	gov_ls = "Gouvernement LS",
 	gov_bc = "Gouvernement BC",
+	fuel_tax = "Taxe sur l'essence",
 }
 
 AddLanguage("fr", my_language)

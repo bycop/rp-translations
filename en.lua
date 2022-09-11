@@ -3488,6 +3488,7 @@ local my_language = {
 	gov_ls = "Government LS",
 	gov_bc = "Government BC",
 	set_sale_commission_x = "Votre commission de vente est de ~g~$%s",
+	fuel_tax = "Fuel tax",
 }
 
 AddLanguage("en", my_language)

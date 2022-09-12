@@ -3041,7 +3041,7 @@ local my_language = {
 	craft_success = "La fabrication de ~b~%sx ~g~%s~w~ est terminée.",
 	phone_number_of_x = "Téléphone de ~b~%s:~w~\n%s",
 	fuel_price = "Prix de l'essence par litre",
-	press_context_fuel_pump_data = "Appuyez sur ~INPUT_CONTEXT~ pour utiliser la pompe.\nPrix: ~g~$%s/L\n~w~Pompe: ~b~%sL",
+	press_context_fuel_pump_data = "Appuyez sur ~INPUT_CONTEXT~ pour utiliser la pompe.\nPrix: ~g~$%s/L\n~w~Taxe: ~g~%s%%\n~w~Pompe: ~b~%sL",
 	press_context_fuel_pomp_use = "~INPUT_CONTEXT~ pour quitter la pompe\n~INPUT_RELOAD~ pour remplir votre réservoir.\n~g~Réservoir: %s/%s",
 	someone_driving_cant = "~r~Quelqu'un conduit le véhicule.\n~w~Vous ne pouvez pas faire ça.",
 	refill_vehicle_x = "Vous avez versé ~g~+%sL~w~ d'essence dans votre véhicule pour ~g~$%s",
@@ -3488,6 +3488,8 @@ local my_language = {
 	gov_ls = "Gouvernement LS",
 	gov_bc = "Gouvernement BC",
 	fuel_tax = "Taxe sur l'essence",
+	deny_invoice = "~r~Vous avez annulé le paiement de la facture.",
+	received_commission_for_sale_x = "Vous avez reçu ~g~$%s~w~ de commission pour cette vente",
 }
 
 AddLanguage("fr", my_language)

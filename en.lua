@@ -3491,6 +3491,8 @@ local my_language = {
 	fuel_tax = "Fuel tax",
 	deny_invoice = "~r~You canceled the invoice payment.",
 	received_commission_for_sale_x = "You received ~g~$%s~w~ as commission for this sale.",
+	toggle_for_world = "Toggle for world",
+	toggle_project_world_x = "You have %s the project ~b~%s~w~ for the world.",
 }
 
 AddLanguage("en", my_language)

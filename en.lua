@@ -3494,6 +3494,10 @@ local my_language = {
 	toggle_for_world = "Toggle for world",
 	toggle_project_world_x = "You have %s the project ~b~%s~w~ for the world.",
 	commission = "Commission",
+	target_did_not_pay_fine = "The target did not pay the fine.",
+	target_did_not_pay_invoice = "The target did not pay the invoice.",
+	job_service = "Company service",
+	org_service = "Organization service",
 }
 
 AddLanguage("en", my_language)

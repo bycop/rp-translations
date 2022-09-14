@@ -3493,6 +3493,10 @@ local my_language = {
 	toggle_for_world = "Activer/désactiver pour le monde",
 	toggle_project_world_x = "Vous avez %s le projet ~b~%s~w~ pour tout le monde.",
 	commission = "Commission",
+	target_did_not_pay_fine = "La cible n'a pas payé l'amende.",
+	target_did_not_pay_invoice = "La cible n'a pas payé la facture.",
+	job_service = "Service entreprise",
+	org_service = "Service organisation",
 }
 
 AddLanguage("fr", my_language)

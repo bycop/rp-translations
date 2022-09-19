@@ -3498,6 +3498,13 @@ local my_language = {
 	target_did_not_pay_invoice = "The target did not pay the invoice.",
 	job_service = "Company service",
 	org_service = "Organization service",
+	purchase_hotel_room = "Rent/Extend your hotel room",
+	delamain_coming_paid_x = "Delamain will drive you to your destination.\nYou paid ~g~$%s",
+	delamain_called_arriving_shortly = "Delamain will be arriving shortly.\n~b~Please wait here a few minutes.",
+	delamain_wait_between_call_x = "You have to wait ~r~%s seconds~w~ before calling Delamain again.",
+	delamain_pay_x = "pay $%s for Delamain service",
+	delamain_place_destination_marker = "Please place a marker on the map where you want Delamain to bring you.\n~r~Press %s to confirm.",
+	delamain_arrived_enter_inside = "Delamain has arrived.\n~b~Enter the vehicle to go to your destination.",
 }
 
 AddLanguage("en", my_language)

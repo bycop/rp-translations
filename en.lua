@@ -1642,7 +1642,7 @@ local my_language = {
 	fine = "Fine",
 	x_refused_to_pay = "~r~%s refused to pay.",
 	you_refused_to_pay = "~r~You refused to pay.",
-	you_sent_invoice_of_x_to_x = "You sent an invoice from ~g~$%s~w~ to ~b~%s~w~.",
+	you_sent_invoice_of_x_to_x = "You sent an invoice of ~g~$%s~w~ to ~b~%s~w~.",
 	you_sent_fine_of_x_to_x = "You have sent a fine of ~g~$%s~w~ to ~b~%s~w~.",
 	announcement = "Announcement",
 	you_cannot_create_announcement = "~r~You cannot create announcements.",
@@ -3498,7 +3498,14 @@ local my_language = {
 	target_did_not_pay_invoice = "The target did not pay the invoice.",
 	job_service = "Company service",
 	org_service = "Organization service",
-	failed_to_load_item_x = "Failed to load prop using model ~r~%s~w~."
+	failed_to_load_item_x = "Failed to load prop using model ~r~%s~w~.",
+	purchase_hotel_room = "Rent/Extend your hotel room",
+	delamain_coming_paid_x = "Delamain will drive you to your destination.\nYou paid ~g~$%s",
+	delamain_called_arriving_shortly = "Delamain will be arriving shortly.\n~b~Please wait here a few minutes.",
+	delamain_wait_between_call_x = "You have to wait ~r~%s seconds~w~ before calling Delamain again.",
+	delamain_pay_x = "pay $%s for Delamain service",
+	delamain_place_destination_marker = "Please place a marker on the map where you want Delamain to bring you.\n~r~Press %s to confirm.",
+	delamain_arrived_enter_inside = "Delamain has arrived.\n~b~Enter the vehicle to go to your destination.",
 }
 
 AddLanguage("en", my_language)

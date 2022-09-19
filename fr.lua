@@ -3497,6 +3497,7 @@ local my_language = {
 	target_did_not_pay_invoice = "La cible n'a pas payé la facture.",
 	job_service = "Service entreprise",
 	org_service = "Service organisation",
+	failed_to_load_item_x = "Échec du chargement du prop ~r~%s~w~."
 }
 
 AddLanguage("fr", my_language)

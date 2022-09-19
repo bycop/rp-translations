@@ -3498,6 +3498,7 @@ local my_language = {
 	target_did_not_pay_invoice = "The target did not pay the invoice.",
 	job_service = "Company service",
 	org_service = "Organization service",
+	failed_to_load_item_x = "Failed to load prop using model ~r~%s~w~."
 }
 
 AddLanguage("en", my_language)

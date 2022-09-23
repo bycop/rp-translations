@@ -3541,6 +3541,9 @@ local my_language = {
 	border_out_teleported_seconds = "~r~You are outside the county borders. You will be teleported back in a few seconds.",
 	border_allowed_to_enter_x = "You have been allowed to enter the ~b~county of %s~w~.",
 	cross_automated_border = "cross the automated border",
+	allow_border_travel = "Allow border travel",
+	border_x_now_x = "Border ~b~'%s'~w~ is now %s.",
+	open_border = "Open border",
 }
 
 AddLanguage("en", my_language)

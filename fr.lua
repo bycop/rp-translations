@@ -3541,6 +3541,9 @@ local my_language = {
 	border_out_teleported_seconds = "~r~Vous êtes en dehors des frontières du comté. Vous serez téléporté en arrière dans quelques secondes.",
 	border_allowed_to_enter_x = "Vous avez été autorisé à entrer le ~b~comté de %s~w~.",
 	cross_automated_border = "traverser la frontière automatique",
+	allow_border_travel = "Autoriser le passage frontière",
+	border_x_now_x = "Frontière ~b~'%s'~w~ est désormais %s.",
+	open_border = "Frontière ouverte",
 }
 
 AddLanguage("fr", my_language)

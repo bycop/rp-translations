@@ -3544,6 +3544,9 @@ local my_language = {
 	allow_border_travel = "Allow border travel",
 	border_x_now_x = "Border ~b~'%s'~w~ is now %s.",
 	open_border = "Open border",
+	border_cannot_drop_items_near = "~r~You cannot drop items near the border.",
+	border_illegal_items_veh_nearby = "~r~You cannot cross the border with a vehicle with illegal items nearby.~w~\n%s",
+	border_illegal_items_inv = "~r~You cannot cross the border with illegal items in your inventory.~w~\n%s",
 }
 
 AddLanguage("en", my_language)

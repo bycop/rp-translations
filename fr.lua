@@ -3538,6 +3538,9 @@ local my_language = {
 	delamain_deny_change_01 = "Notre itinéraire a été arrangé et payé à l'avance. Je n'ai pas la liberté de le modifier.",
 	delamain_deny_change_02 = "Je m'excuse, mais cela ne sera pas possible.",
 	delamain_arrive_destination = "Nous sommes arrivés à votre destination.",
+	border_out_teleported_seconds = "~r~Vous êtes en dehors des frontières du comté. Vous serez téléporté en arrière dans quelques secondes.",
+	border_allowed_to_enter_x = "Vous avez été autorisé à entrer le ~b~comté de %s~w~.",
+	cross_automated_border = "traverser la frontière automatique",
 }
 
 AddLanguage("fr", my_language)

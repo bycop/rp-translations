@@ -3541,6 +3541,9 @@ local my_language = {
 	border_out_teleported_seconds = "~r~Vous êtes en dehors des frontières du comté. Vous serez téléporté en arrière dans quelques secondes.",
 	border_allowed_to_enter_x = "Vous avez été autorisé à entrer le ~b~comté de %s~w~.",
 	cross_automated_border = "traverser la frontière automatique",
+	border_cannot_drop_items_near = "~r~Vous ne pouvez pas déposer d'objets près de la frontière.",
+	border_illegal_items_veh_nearby = "~r~Vous ne pouvez pas franchir la frontière avec un véhicule contenant des biens illégaux à proximité.~w~\n%s",
+	border_illegal_items_inv = "~r~Vous ne pouvez pas traverser la frontière avec des biens illégaux dans votre inventaire.~w~\n%s",
 }
 
 AddLanguage("fr", my_language)

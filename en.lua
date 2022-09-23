@@ -3541,6 +3541,9 @@ local my_language = {
 	border_out_teleported_seconds = "~r~You are outside the county borders. You will be teleported back in a few seconds.",
 	border_allowed_to_enter_x = "You have been allowed to enter the ~b~county of %s~w~.",
 	cross_automated_border = "cross the automated border",
+	border_cannot_drop_items_near = "~r~You cannot drop items near the border.",
+	border_illegal_items_veh_nearby = "~r~You cannot cross the border with a vehicle with illegal items nearby.~w~\n%s",
+	border_illegal_items_inv = "~r~You cannot cross the border with illegal items in your inventory.~w~\n%s",
 }
 
 AddLanguage("en", my_language)

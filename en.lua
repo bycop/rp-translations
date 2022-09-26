@@ -3549,6 +3549,7 @@ local my_language = {
 	border_illegal_items_inv = "~r~You cannot cross the border with illegal items in your inventory.~w~\n%s",
 	basketball = "Basketball",
 	basketball_hoop = "Basketball Hoop",
+	delamain_cannot_call_taxi_service = "~r~Delamain does not take call if the taxi's company has drivers available.",
 }
 
 AddLanguage("en", my_language)

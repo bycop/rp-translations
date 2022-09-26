@@ -3547,6 +3547,8 @@ local my_language = {
 	border_cannot_drop_items_near = "~r~You cannot drop items near the border.",
 	border_illegal_items_veh_nearby = "~r~You cannot cross the border with a vehicle with illegal items nearby.~w~\n%s",
 	border_illegal_items_inv = "~r~You cannot cross the border with illegal items in your inventory.~w~\n%s",
+	basketball = "Basketball",
+	basketball_hoop = "Basketball Hoop",
 }
 
 AddLanguage("en", my_language)

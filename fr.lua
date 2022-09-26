@@ -3547,6 +3547,8 @@ local my_language = {
 	border_cannot_drop_items_near = "~r~Vous ne pouvez pas déposer d'objets près de la frontière.",
 	border_illegal_items_veh_nearby = "~r~Vous ne pouvez pas franchir la frontière avec un véhicule contenant des biens illégaux à proximité.~w~\n%s",
 	border_illegal_items_inv = "~r~Vous ne pouvez pas traverser la frontière avec des biens illégaux dans votre inventaire.~w~\n%s",
+	basketball = "Ballon de basket",
+	basketball_hoop = "Pannier de basket",
 }
 
 AddLanguage("fr", my_language)

@@ -3550,6 +3550,8 @@ local my_language = {
 	basketball = "Basketball",
 	basketball_hoop = "Basketball Hoop",
 	delamain_cannot_call_taxi_service = "~r~Delamain does not take call if the taxi's company has drivers available.",
+	drug_zone_info_owned = "You control this territory.",
+	drug_zone_info_not_owned = "You do not control this territory.",
 }
 
 AddLanguage("en", my_language)

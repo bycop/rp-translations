@@ -3225,7 +3225,7 @@ local my_language = {
 	updated_room_expiration_time = "Vous avez mis à jour le temps d'expiration de la chambre.",
 	created_room_x_for_x = "Vous avez créé une nouvelle chambre d'hôtel pour ~g~%s~w~.\nChambre~b~ %s",
 	get_to_your_floor = "Rejoindre votre étage",
-	hotel_room_of_x = "Chambre ~g~%s~w~\nOccupant: ~b~%s",
+	hotel_room_of_x_expiration_x = "Chambre ~g~%s~w~\nOccupant: ~b~%s\n~w~Expire le: ~b~%s",
 	hotel = "Hotel",
 	controlling_drug_zone = "Vous contrôlez maintenant une nouvelle zone de drogue.\n~b~%s",
 	nosell_drug_zone = "Vous n'êtes pas sur une zone de vente.",
@@ -3555,6 +3555,9 @@ local my_language = {
 	drug_zone_info_owned_x = "Vous contrôlez ce territoire | Ventes totales de votre crew: ^2%s^0",
 	drug_zone_info_not_owned_x = "Vous ne contrôlez pas ce territoire | Ventes totales de votre crew: ^2%s^0",
 	border_cannot_go_to_open = "~r~Vous ne pouvez pas passer par la frontière automatisée lorsqu'une autre douane est ouverte.",
+	created_room_x_for_x_price = "Vous avez créé une nouvelle chambre d'hôtel pour ~g~%s~w~.\nChambre~b~ %s\n~w~Prix: ~g~$%s",
+	hotel_extend_only_x_days = "Vous pouvez seulement prolonger votre chambre d'hôtel ~r~%s jour(s)~w~ avant l'expiration.",
+	hotel_updated_room_expiration_time_price_x_x = "Vous avez mis à jour le temps d'expiration de votre chambre d'hôtel. ~b~(%s)\n~w~Prix: ~g~$%s",
 }
 
 AddLanguage("fr", my_language)

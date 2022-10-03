@@ -3225,7 +3225,7 @@ local my_language = {
 	updated_room_expiration_time = "You updated the room expiration time.",
 	created_room_x_for_x = "You created a new hotel room for ~g~%s~w~.\nRoom~b~ %s",
 	get_to_your_floor = "Get to your floor",
-	hotel_room_of_x = "Room ~g~%s~w~\nOccupant: ~b~%s",
+	hotel_room_of_x_expiration_x = "Room ~g~%s~w~\nOccupant: ~b~%s\n~w~Expires at: ~b~%s",
 	hotel = "Hotel",
 	controlling_drug_zone = "You are now controlling a new drug zone.\n~b~%s",
 	nosell_drug_zone = "You are not in a sales area.",
@@ -3555,6 +3555,9 @@ local my_language = {
 	drug_zone_info_owned = "You control this territory.",
 	drug_zone_info_not_owned = "You do not control this territory.",
 	border_cannot_go_to_open = "~r~You cannot use the automated border while another border custom is open.",
+	created_room_x_for_x_price = "You created a new hotel room for ~g~%s~w~.\nRoom~b~ %s\n~w~Price: ~g~$%s",
+	hotel_extend_only_x_days = "You can only extend your hotel room ~r~%s day(s)~w~ before expiration.",
+	hotel_updated_room_expiration_time_price_x_x = "You have updated the expiration time of your hotel room. ~b~(%s)\n~w~Price: ~g~$%s",
 }
 
 AddLanguage("en", my_language)

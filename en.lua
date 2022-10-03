@@ -3554,6 +3554,7 @@ local my_language = {
 	delamain_cannot_call_taxi_service = "~r~Delamain does not take call if the taxi's company has drivers available.",
 	drug_zone_info_owned = "You control this territory.",
 	drug_zone_info_not_owned = "You do not control this territory.",
+	border_cannot_go_to_open = "~r~You cannot use the automated border while another border custom is open.",
 }
 
 AddLanguage("en", my_language)

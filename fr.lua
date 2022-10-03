@@ -3554,6 +3554,7 @@ local my_language = {
 	delamain_cannot_call_taxi_service = "~r~Delamain ne prend pas d'appel si l'entreprise de taxi a des chauffeurs disponibles.",
 	drug_zone_info_owned_x = "Vous contrôlez ce territoire | Ventes totales de votre crew: ^2%s^0",
 	drug_zone_info_not_owned_x = "Vous ne contrôlez pas ce territoire | Ventes totales de votre crew: ^2%s^0",
+	border_cannot_go_to_open = "~r~Vous ne pouvez pas passer par la frontière automatisée lorsqu'une autre douane est ouverte.",
 }
 
 AddLanguage("fr", my_language)

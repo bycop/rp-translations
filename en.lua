@@ -3558,6 +3558,18 @@ local my_language = {
 	created_room_x_for_x_price = "You created a new hotel room for ~g~%s~w~.\nRoom~b~ %s\n~w~Price: ~g~$%s",
 	hotel_extend_only_x_days = "You can only extend your hotel room ~r~%s day(s)~w~ before expiration.",
 	hotel_updated_room_expiration_time_price_x_x = "You have updated the expiration time of your hotel room. ~b~(%s)\n~w~Price: ~g~$%s",
+	-- Raid
+    	raid_menu = "Foreclosure Menu", 
+    	raid_foreclose_property_actual = "Foreclose the current property.",
+    	raid_foreclose_vehicle_near = "Foreclose the nearest vehicle.",
+    	raid_not_in_property = "~r~You are not in a property..",
+    	raid_property_does_not_exist = "~r~This property does not exist.",
+    	raid_property_finish = "~g~Foreclose of the property completed",
+    	raid_property_foreclose_your_property = "~r~You cannot foreclose on your property or the property already belongs to the LSPD.",
+    	raid_vehicle_foreclose_your_vehicle = "~r~You cannot foreclose your vehicle or the Vehicle already belongs to the LSPD.",
+    	raid_vehicle_does_not_exist = "~r~The vehicle is not registered.",
+    	raid_vehicle_finish = "You have foreclose the vehicle \nPlate: ~b~%s",
+    	raid_vehicle_distance = "~r~The vehicle is not beside you.", 
 }
 
 AddLanguage("en", my_language)

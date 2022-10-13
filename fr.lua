@@ -1111,7 +1111,7 @@ local my_language = {
 
 	-- Door
 	door_no_key = "~r~Vous n'avez pas la clé de cette porte.",
-	you_x_the_door = "door_no_key",
+	you_x_the_door = "Vous avez %s~w~ la porte.",
 	unlocked = "~g~déverrouillé",
 	locked = "~r~verrouillé",
 	unable_to_find_door = "~r~Porte introuvable.",

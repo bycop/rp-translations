@@ -1406,6 +1406,7 @@ local my_language = {
 	traffic_management = "gestion du trafic",
 	fine_verb = "Amender",
 	delete_zone_restriction = "Supprimer la restriction",
+	zero_to_stop_trafic = "0 pour arrêter le trafic.",
 	display_zone = "Afficher la zone",
 	zone_speed = "Vitesse de la zone",
 	zero_to_stop_traffic = "0 pour ne plus avancer",

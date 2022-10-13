@@ -1406,6 +1406,7 @@ local my_language = {
 	traffic_management = "Traffic management",
 	fine_verb = "Fine",
 	delete_zone_restriction = "Delete the restriction",
+	zero_to_stop_trafic = "0 to stop traffic.",
 	display_zone = "Display the zone",
 	zone_speed = "Speed of the zone",
 	zero_to_stop_traffic = "0 to stop",

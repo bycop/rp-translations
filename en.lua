@@ -3585,6 +3585,8 @@ local my_language = {
     raid_vehicle_finish = "You have foreclose the vehicle \nPlate: ~b~%s",
     raid_vehicle_distance = "~r~The vehicle is not beside you.",
 	drug_cannot_time = "~r~You cannot do that at this time.",
+	delete_property = "Delete property",
+	property_deleted = "~r~Property deleted.",
 }
 
 AddLanguage("en", my_language)

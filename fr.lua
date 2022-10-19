@@ -3585,6 +3585,8 @@ local my_language = {
     raid_vehicle_finish = "Vous avez saisi le véhicule \nPlaque: ~b~%s",
     raid_vehicle_distance = "~r~Le véhicule n'est pas à côté de vous.",
 	drug_cannot_time = "~r~Vous ne pouvez pas le faire pour le moment.",
+	delete_property = "Supprimer la propriété",
+	property_deleted = "~r~Propriété supprimée.",
 }
 
 AddLanguage("fr", my_language)

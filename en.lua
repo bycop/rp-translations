@@ -1637,6 +1637,7 @@ local my_language = {
 	target_place = "Target",
 	garbage_collector = "Garbage collector",
 	lspd = "911",
+	bcso = "BCSO",
 	lssd = "LSSD",
 	ems = "EMS",
 	job_car_dealer = "Dealer",

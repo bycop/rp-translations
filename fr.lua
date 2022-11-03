@@ -1636,7 +1636,8 @@ local my_language = {
 
 	target_place = "Conforama",
 	garbage_collector = "Eboueur",
-	lspd = "SAPD",
+	lspd = "LSPD",
+	bcso = "BCSO",
 	lssd = "LSSD",
 	ems = "EMS",
 	job_car_dealer = "Concessionnaire",

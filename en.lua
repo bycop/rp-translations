@@ -3588,6 +3588,7 @@ local my_language = {
 	drug_cannot_time = "~r~You cannot do that at this time.",
 	delete_property = "Delete property",
 	property_deleted = "~r~Property deleted.",
+	you_collected_x_quality_x = "You collected ~b~%sx %s~w~ with a quality of ~g~%s%%~w~.",
 }
 
 AddLanguage("en", my_language)

@@ -1117,8 +1117,8 @@ local my_language = {
 	transfer_to_delivery_company_failed = "~r~The transfer to the delivery company did not work, report it.",
 	you_delivered_x = "You delivered ~r~%s. ~g~+$%s",
 	no_more_items_to_delivery = "~r~You have sold all the items you can deliver to this location.",
-	order_paid_delivery_x = "~g~Order:\n~w~You paid ~g~%s$~w~ to get ~g~%s~w~.",
-	order_paid_delivery_x_2 = "~g~Order:\n~w~The company paid ~g~%s$~w~ to get ~g~%s~w~.",
+	order_paid_delivery_x = "~g~Order:\n~w~You paid ~g~%s$~w~ to get ~g~%sx %s~w~.",
+	order_paid_delivery_x_2 = "~g~Order:\n~w~The company paid ~g~%s$~w~ to get ~g~%sx %s~w~.",
 
 	-- Door
 	door_no_key = "~r~You don't have the key to this door.",
@@ -3589,6 +3589,7 @@ local my_language = {
 	delete_property = "Delete property",
 	property_deleted = "~r~Property deleted.",
 	you_collected_x_quality_x = "You collected ~b~%sx %s~w~ with a quality of ~g~%s%%~w~.",
+	emergency_stock = "Emergency stock",
 }
 
 AddLanguage("en", my_language)

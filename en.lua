@@ -3590,6 +3590,7 @@ local my_language = {
 	property_deleted = "~r~Property deleted.",
 	you_collected_x_quality_x = "You collected ~b~%sx %s~w~ with a quality of ~g~%s%%~w~.",
 	emergency_stock = "Emergency stock",
+	chess_board = "Chess board",
 }
 
 AddLanguage("en", my_language)

@@ -3591,6 +3591,13 @@ local my_language = {
 	you_collected_x_quality_x = "Vous avez collecté ~b~%sx %s~w~ avec une qualité de ~g~%s%%~w~.",
 	emergency_stock = "Stock d'urgence",
 	chess_board = "Échiquier",
+	hold_key_to_pee = "Maintenez ~y~G~w~ pour uriner.",
+	press_key_to_stun = "Appuyez sur ~y~G~w~ pour 'utiliser' le tazer.",
+	press_key_to_vape = "Appuyez sur ~y~G~w~ pour vapoter.",
+	press_key_to_camera = "Appuyez sur ~y~G~w~ pour utiliser le flash de la caméra.",
+	press_key_to_make_it_rain = "Appuyez sur ~y~G~w~ pour lancer des billets.",
+	hold_key_to_spray_champ = "Maintenez ~y~G~w~ pour vaporiser du champagne.",
+	press_key_leafblower = "Appuyez sur ~y~G~w~ pour utiliser le souffleur à feuilles.",
 }
 
 AddLanguage("fr", my_language)

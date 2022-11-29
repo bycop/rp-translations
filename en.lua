@@ -3591,13 +3591,13 @@ local my_language = {
 	you_collected_x_quality_x = "You collected ~b~%sx %s~w~ with a quality of ~g~%s%%~w~.",
 	emergency_stock = "Emergency stock",
 	chess_board = "Chess board",
-	hold_key_to_pee = "Hold ~y~G~w~ to pee.",
-	press_key_to_stun = "Press ~y~G~w~ to 'use' stun gun.",
-	press_key_to_vape = "Press ~y~G~w~ to vape.",
-	press_key_to_camera = "Press ~y~G~w~ to use camera flash.",
-	press_key_to_make_it_rain = "Press ~y~G~w~ to make it rain.",
-	hold_key_to_spray_champ = "Hold ~y~G~w~ to spray champagne",
-	press_key_leafblower = "Press ~y~G~w~ to use the leaf blower.",
+	hold_key_to_pee = "Hold ~INPUT_DETONATE~ to pee.",
+	press_key_to_stun = "Press ~INPUT_DETONATE~ to 'use' stun gun.",
+	press_key_to_vape = "Press ~INPUT_DETONATE~ to vape.",
+	press_key_to_camera = "Press ~INPUT_DETONATE~ to use camera flash.",
+	press_key_to_make_it_rain = "Press ~INPUT_DETONATE~ to make it rain.",
+	hold_key_to_spray_champ = "Hold ~INPUT_DETONATE~ to spray champagne",
+	press_key_leafblower = "Press ~INPUT_DETONATE~ to use the leaf blower.",
 }
 
 AddLanguage("en", my_language)

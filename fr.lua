@@ -1923,6 +1923,7 @@ local my_language = {
 	settings = "Options",
 	map = "Carte",
 	disable_idle_cam = "Désactiver le mode inactif des caméras",
+	break_inventory = "Pouvoir parler avec l'inventaire ouvert",
 	show_street_labels = "Afficher les noms de rue (uniquement en véhicule)",
 	keep_flashlight_on = "Garder lampe-torche allumée",
 	call_taken_notifications = "Notifications appel pris",

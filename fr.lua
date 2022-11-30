@@ -3595,11 +3595,11 @@ local my_language = {
 	chess_board = "Échiquier",
 	hold_key_to_pee = "Maintenez ~INPUT_DETONATE~ pour uriner.",
 	press_key_to_stun = "Appuyez sur ~INPUT_DETONATE~ pour 'utiliser' le tazer.",
-	press_key_to_vape = "Appuyez sur ~INPUT_DETONATE~ pour vapoter.",
+	press_key_to_vape = "Maintenez ~INPUT_DETONATE~ pour vapoter.",
 	press_key_to_camera = "Appuyez sur ~INPUT_DETONATE~ pour utiliser le flash de la caméra.",
-	press_key_to_make_it_rain = "Appuyez sur ~INPUT_DETONATE~ pour lancer des billets.",
+	press_key_to_make_it_rain = "Maintenez ~INPUT_DETONATE~ pour lancer des billets.",
 	hold_key_to_spray_champ = "Maintenez ~INPUT_DETONATE~ pour vaporiser du champagne.",
-	press_key_leafblower = "Appuyez sur ~INPUT_DETONATE~ pour utiliser le souffleur à feuilles.",
+	press_key_leafblower = "Maintenez ~INPUT_DETONATE~ pour utiliser le souffleur à feuilles.",
 }
 
 AddLanguage("fr", my_language)

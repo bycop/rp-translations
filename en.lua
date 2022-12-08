@@ -1925,7 +1925,6 @@ local my_language = {
 	settings = "Options",
 	map = "Map",
 	disable_idle_cam = "Disable idle cameras",
-
 	break_inventory = "Hides the character in the inventory and allows to move with the inventory open",
 	show_street_labels = "Show street labels (while in a car only)",
 	keep_flashlight_on = "Keep flashlight on",

@@ -1924,8 +1924,9 @@ local my_language = {
 	character_settings = "Character options",
 	settings = "Options",
 	map = "Map",
-	disable_idle_cam = "Disable idle cameras",
-	break_inventory = "Be able to speak with the inventory open",
+	disable_idle_cam = "Disable idle cameras",Masque le personnage dans l’inventaire et permet de se déplacer l’inventaire ouvert
+
+	break_inventory = "Hides the character in the inventory and allows to move with the inventory open",
 	show_street_labels = "Show street labels (while in a car only)",
 	keep_flashlight_on = "Keep flashlight on",
 	call_taken_notifications = "Notifications call taken",

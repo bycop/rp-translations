@@ -745,6 +745,7 @@ local my_language = {
 	you_purchased_x_for_x = "You purchased ~b~%sx %s~w~ for ~g~$%s~w~.",
 	cannot_buy_ask_garage = "~r~You cannot purchase items here, please contact the garages on duty.",
 	modifications_saved_cloth = "~g~The changes to your outfit have been saved.",
+	modifications_saved_weapon = "~g~The changes to your weapon have been saved.",
 	-- veh shop
 	car_dealer = "Car dealership",
 	helicopter_dealer = "Helicopter dealership",

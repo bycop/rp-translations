@@ -3611,7 +3611,10 @@ local my_language = {
 
 	sleeping_bag = "Sac de couchage",
 	chest_item = "Coffre",
-	filter_navigate = "Seuls quelques modèles sont affichés, utilisez le filtre ~b~(F)~w~ pour trouver le modèle que vous voulez.",
+	filter_navigate = "Utilisez le filtre ~b~(F)~w~ pour trouver le modèle que vous voulez. ~r~(R)~w~ pour ajouter le modèle aux favoris.",
+	press_r_to_remove = "Appuyez sur ~r~R~w~ pour supprimer le modèle de la liste.",
+	project_already_loaded = "~r~Ce projet est déjà ouvert.",
+	create_new_project = "Créer un nouveau projet",
 	all_models = "Tous les modèles",
 	cat_building = "Construction",
 	cat_floors = "Sols",
@@ -3642,6 +3645,7 @@ local my_language = {
 	cat_lamps = "Lampes",
 	cat_wallart = "Affiches & Mur",
 	cat_decorations = "Décorations",
+	cat_favorites = "Favoris",
 }
 
 AddLanguage("fr", my_language)

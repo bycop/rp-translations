@@ -3612,7 +3612,10 @@ local my_language = {
 
 	sleeping_bag = "Sleeping bag",
 	chest_item = "Chest",
-	filter_navigate = "Only a few models are displayed, use the filter ~b~(F)~w~ to find the model you want.",
+	filter_navigate = "Use the filter ~b~(F)~w~ to find the model you want. ~r~(R)~w~ to add the model to your favorites.",
+	press_r_to_remove = "Press ~b~R~w~ to remove the model from the list.",
+	project_already_loaded = "~r~This project is already loaded.",
+	create_new_project = "Create a new project",
 	all_models = "All models",
 	cat_building = "Building",
 	cat_floors = "Floors",
@@ -3643,6 +3646,7 @@ local my_language = {
 	cat_lamps = "Lamps",
 	cat_wallart = "Wall Art",
 	cat_decorations = "Decorations",
+	cat_favorites = "Favorites",
 }
 
 AddLanguage("en", my_language)

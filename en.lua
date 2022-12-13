@@ -2834,7 +2834,7 @@ local my_language = {
 	loading_project_x = "Loading your project: %s",
 	loading_project_objects_x = "~b~Loading your project %s\n~w~%s props",
 	list_of_items = "Item list",
-	send_to_server = "Send to server",
+	save_server = "Save on server",
 	invalid_model = "~r~This model is invalid.",
 	name_too_short = "~r~The name is too short.",
 	project_options = "Project options",
@@ -3616,6 +3616,11 @@ local my_language = {
 	press_r_to_remove = "Press ~b~R~w~ to remove the model from the list.",
 	project_already_loaded = "~r~This project is already loaded.",
 	create_new_project = "Create a new project",
+	locked_description = "If an item is locked you will not be able to move or rotate it.",
+	lock_all_items = "Lock all items",
+	you_locked_all_items = "🔒 ~g~You locked all of your project items.",
+	define_project_center = "Define the center of the project. The project will be loaded from this position.",
+	duplicate = "Duplicate",
 	all_models = "All models",
 	cat_building = "Building",
 	cat_floors = "Floors",
@@ -3647,6 +3652,12 @@ local my_language = {
 	cat_wallart = "Wall Art",
 	cat_decorations = "Decorations",
 	cat_favorites = "Favorites",
+	cat_nursery = "Nursery",
+	cat_livingroom = "Living room",
+	cat_christmas = "Christmas",
+	pro_commission = "Property commission",
+	veh_commission = "Vehicle commission",
+	offshore_transfer = "Offshore transfer",
 }
 
 AddLanguage("en", my_language)

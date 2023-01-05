@@ -3658,6 +3658,14 @@ local my_language = {
 	pro_commission = "Property commission",
 	veh_commission = "Vehicle commission",
 	offshore_transfer = "Offshore transfer",
+
+	gcoins_wallet_updated = "~g~You GCoins wallet has been updated.\n~w~+%s GCoins",
+	not_enough_gcoins = "~r~You do not have enough GCoins.",
+	gcoins_something_went_wrong = "~r~Something went wrong.",
+	you_bought_with_gcoins = "You bought ~g~%s~w~ for ~b~%s GCoins~w~.",
+	open_premium_shop = "Open premium shop",
+
+	property_cannot_update_owned_pro = "~r~You cannot update a property is owned by a player.",
 }
 
 AddLanguage("en", my_language)

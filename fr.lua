@@ -3679,6 +3679,7 @@ local my_language = {
 
 	property_cannot_update_owned_pro = "~r~Vous ne pouvez pas mettre à jour une propriété achetée par un joueur.",
 	property_sell = "Vendre la propriété",
+	property_only_sell_civil = "~r~Vous ne pouvez pas vendre une propriété entreprise/organisation.",
 }
 
 AddLanguage("fr", my_language)

@@ -3681,6 +3681,8 @@ local my_language = {
 	property_cannot_update_owned_pro = "~r~You cannot update a property is owned by a player.",
 	property_sell = "Sell property",
 	property_only_sell_civil = "~r~You cannot sell a property from a company/organization.",
+	weapon_pepperspray = "Pepper spray",
+	weapon_antidote = "Antidote",
 }
 
 AddLanguage("en", my_language)

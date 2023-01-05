@@ -3665,6 +3665,7 @@ local my_language = {
 	open_premium_shop = "Ouvrir la boutique premium",
 
 	property_cannot_update_owned_pro = "~r~Vous ne pouvez pas mettre à jour une propriété achetée par un joueur.",
+	property_sell = "Vendre la propriété",
 }
 
 AddLanguage("fr", my_language)

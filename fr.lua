@@ -3676,7 +3676,7 @@ local my_language = {
 	not_enough_gcoins = "~r~Vous n'avez pas suffisamment de GCoins.",
 	gcoins_something_went_wrong = "~r~Quelque chose s'est mal passé.",
 	you_bought_with_gcoins = "Vous avez acheté ~g~%s~w~ pour ~b~%s GCoins~w~.",
-	open_glife_menu = "Ouvrir le menu GLife",
+	open_glife_menu = "Ouvrir le dashboard RP",
 
 	property_cannot_update_owned_pro = "~r~Vous ne pouvez pas mettre à jour une propriété achetée par un joueur.",
 	property_sell = "Vendre la propriété",
@@ -3856,6 +3856,8 @@ local my_language = {
 	talk_to_lester = "~b~parler à Lester",
 	deliver_jewels = "Livrer les bijoux",
 	company_will_be_marked_inactive_in_x = "Votre entreprise sera marquée comme hors service dans ~r~%s minutes~w~.",
+	armory = "Armurerie",
+	already_purchased = "~r~Vous avez déjà acheté cet item.",
 }
 
 AddLanguage("fr", my_language)

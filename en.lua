@@ -3864,6 +3864,14 @@ local my_language = {
 	company_will_be_marked_inactive_in_x = "The company will be marked as off-duty in ~r~%s minutes~w~.",
 	armory = "Armory",
 	already_purchased = "~r~You have already purchased this item.",
+	glife_welcome_lite = "Open the ^2RP dashboard^8 with ^2F4^7 for help and info.",
+	hello = "Hello",
+	press_x_crate = "Press ~INPUT_CELLPHONE_SELECT~ to open another crate or ~INPUT_CELLPHONE_CANCEL~ to leave.",
+	crate_received_x_type_x = "You received a ~b~%s~w~ case.\n~w~Type ~g~/armurerie~w~ to open it.",
+	crates = "Cases",
+	crate_no_more = "~r~You don't have any more case of this type to open.",
+	gcoins_received_x = "You received ~y~%s GCoins~w~.",
+	loot_crate_open_message = "~b~Loot crate rewards are delivered immediately, vehicles can be retrieved from the pound yard.",
 }
 
 AddLanguage("en", my_language)

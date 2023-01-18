@@ -3858,6 +3858,14 @@ local my_language = {
 	company_will_be_marked_inactive_in_x = "Votre entreprise sera marquée comme hors service dans ~r~%s minutes~w~.",
 	armory = "Armurerie",
 	already_purchased = "~r~Vous avez déjà acheté cet item.",
+	glife_welcome_lite = "Ouvrez le ^2Dashboard RP^7 avec ^2F4^7 pour de l'aide et des informations.",
+	hello = "Bonjour",
+	press_x_crate = "Appuyez sur ~INPUT_CELLPHONE_SELECT~ pour ouvrir une autre caisse ou ~INPUT_CELLPHONE_CANCEL~ pour partir.",
+	crate_received_x_type_x = "Vous avez reçu une caisse ~b~%s~w~.\n~w~Tapez ~g~/armurerie~w~ pour l'ouvrir.",
+	crates = "Caisses",
+	crate_no_more = "~r~Vous n'avez plus de caisse de ce type à ouvrir.",
+	gcoins_received_x = "Vous avez reçu ~y~%s GCoins~w~.",
+	loot_crate_open_message = "~b~Les récompenses des caisses loot sont livrées immédiatement, les véhicules peuvent être récupérés de la fourrière.",
 }
 
 AddLanguage("fr", my_language)

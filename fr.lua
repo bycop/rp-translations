@@ -3866,6 +3866,22 @@ local my_language = {
 	crate_no_more = "~r~Vous n'avez plus de caisse de ce type à ouvrir.",
 	gcoins_received_x = "Vous avez reçu ~y~%s GCoins~w~.",
 	loot_crate_open_message = "~b~Les récompenses des caisses loot sont livrées immédiatement, les véhicules peuvent être récupérés de la fourrière.",
+	add_pound_yard = "Ajouter une fourrière",
+	add_ls_custom = "Ajouter un LS Custom",
+	weapon_nailgun = "Pistolet à clous",
+	poster = "Affiche",
+	invalid_poster_config = "~r~Configuration de l'affiche invalide.",
+	poster_successfully_created = "~g~Vous avez enregistré votre affiche avec succès.",
+	you_deleted_poster = "~r~Vous avez supprimé cette affiche.",
+	created_posters = "Affiches créées",
+	create_new_poster = "Créer une nouvelle affiche",
+	print_poster_x = "Vous avez fabriqué ~g~%s~w~ affiche (%s).",
+	poster_placement_instructions = "~INPUT_CONTEXT~ pour placer l'affiche.\n~INPUT_RELOAD~ pour annuler.",
+	poster_placed_in_property = "~g~Vous avez placé l'affiche dans votre propriété.",
+	poster_placed = "~g~Vous avez placé l'affiche à l'endroit sélectionné.",
+	poster_picked_up_x = "Vous avez ramassé l'affiche ~b~\"%s\"~w~.",
+	invalid_poster_image = "~r~L'image que vous avez fournie est trop grande ou invalide. (2Mo max)",
+	poster_invalid_link = "~r~Le lien que vous avez fourni est invalide. Doit être https et se terminer par .png.",
 }
 
 AddLanguage("fr", my_language)

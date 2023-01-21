@@ -3872,6 +3872,23 @@ local my_language = {
 	crate_no_more = "~r~You don't have any more case of this type to open.",
 	gcoins_received_x = "You received ~y~%s GCoins~w~.",
 	loot_crate_open_message = "~b~Loot crate rewards are delivered immediately, vehicles can be retrieved from the pound yard.",
+	add_pound_yard = "Add pound yard",
+	add_ls_custom = "Add LS Custom",
+	weapon_nailgun = "Nailgun",
+	poster = "Poster",
+	invalid_poster_config = "~r~Invalid poster configuration.",
+	poster_successfully_created = "~g~You successfully registered your poster.",
+	you_deleted_poster = "~r~You deleted this poster.",
+	created_posters = "Created posters",
+	create_new_poster = "Create a new poster",
+	print_poster_x = "You printed ~g~%s~w~ poster (%s).",
+	poster_placement_instructions = "~INPUT_CONTEXT~ to confirm the poster placement.\n~INPUT_RELOAD~ to cancel.",
+	cannot_place_on_floor = "~r~You cannot place it on the floor.",
+	poster_placed_in_property = "~g~You placed the poster in your property.",
+	poster_placed = "~g~You successfully placed the poster.",
+	poster_picked_up_x = "You picked up the poster ~b~\"%s\"~w~.",
+	invalid_poster_image = "~r~The image you provided is too big or invalid. (2Mo max)",
+	poster_invalid_link = "~r~The link you provided is invalid. Must be https and ends with .png.",
 }
 
 AddLanguage("en", my_language)

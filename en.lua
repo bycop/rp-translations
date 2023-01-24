@@ -3609,6 +3609,7 @@ local my_language = {
 	you_collected_x_quality_x = "You collected ~b~%sx %s~w~ with a quality of ~g~%s%%~w~.",
 	emergency_stock = "Emergency stock",
 	chess_board = "Chess board",
+	checker_board = "Checker board",
 	hold_key_to_pee = "Hold ~y~G~w~ to pee.",
 	press_key_to_stun = "Press ~y~G~w~ to 'use' stun gun.",
 	press_key_to_vape = "Press ~y~G~w~ to vape.",
@@ -3889,6 +3890,8 @@ local my_language = {
 	poster_picked_up_x = "You picked up the poster ~b~\"%s\"~w~.",
 	invalid_poster_image = "~r~The image you provided is too big or invalid. (2Mo max)",
 	poster_invalid_link = "~r~The link you provided is invalid. Must be https and ends with .png.",
+	casino_fee_transaction = "~r~You paid ~b~$%s~r~ as transaction fee.",
+	casino_max_chip_transfer_per_day_x = "~b~You reached the maximum of chips transfer per day.\n~w~You can still request ~r~%s~w~ chips.",
 }
 
 AddLanguage("en", my_language)

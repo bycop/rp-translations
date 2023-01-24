@@ -3609,6 +3609,7 @@ local my_language = {
 	you_collected_x_quality_x = "Vous avez collecté ~b~%sx %s~w~ avec une qualité de ~g~%s%%~w~.",
 	emergency_stock = "Stock d'urgence",
 	chess_board = "Échiquier",
+	checker_board = "Damier",
 	hold_key_to_pee = "Maintenez ~y~G~w~ pour uriner.",
 	press_key_to_stun = "Appuyez sur ~y~G~w~ pour 'utiliser' le tazer.",
 	press_key_to_vape = "Appuyez sur ~y~G~w~ pour vapoter.",
@@ -3882,6 +3883,8 @@ local my_language = {
 	poster_picked_up_x = "Vous avez ramassé l'affiche ~b~\"%s\"~w~.",
 	invalid_poster_image = "~r~L'image que vous avez fournie est trop grande ou invalide. (2Mo max)",
 	poster_invalid_link = "~r~Le lien que vous avez fourni est invalide. Doit être https et se terminer par .png.",
+	casino_fee_transaction = "~r~Vous avez payé ~b~$%s~r~ comme frais de transaction.",
+	casino_max_chip_transfer_per_day_x = "~b~Vous avez atteint le maximum de transfert de jetons par jour.\n~w~Vous pouvez toujours demander ~r~%s~w~ jetons.",
 }
 
 AddLanguage("fr", my_language)

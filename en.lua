@@ -3892,6 +3892,18 @@ local my_language = {
 	poster_invalid_link = "~r~The link you provided is invalid. Must be https and ends with .png.",
 	casino_fee_transaction = "~r~You paid ~b~$%s~r~ as transaction fee.",
 	casino_max_chip_transfer_per_day_x = "~b~You reached the maximum of chips transfer per day.\n~w~You can still request ~r~%s~w~ chips.",
+	healed_player = "You healed ~b~%s~w~.",
+	photomode_fov = "Field Of View",
+	photomode_roll = "Roll",
+	photomode_dofstrength = "DOF Strength",
+	photomode_dofneardistance = "DOF Near Distance",
+	photomode_doffardistance = "DOF Far Distance",
+	photomode_showplayer = "Show Players",
+	photomode_showvehicle = "Show Vehicles",
+	photomode_expression = "Expression",
+	photomode_timecycle = "Timecycle",
+	photomode = "Photo Mode",
+	camera_instructions_new = "~INPUT_VEH_AIM~ to toggle the mouse\n~INPUT_CELLPHONE_CAMERA_GRID~ to hide\n~INPUT_FRONTEND_RRIGHT~ to leave\nYou have access to the animation menu.",
 }
 
 AddLanguage("en", my_language)

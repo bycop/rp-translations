@@ -3885,6 +3885,18 @@ local my_language = {
 	poster_invalid_link = "~r~Le lien que vous avez fourni est invalide. Doit être https et se terminer par .png.",
 	casino_fee_transaction = "~r~Vous avez payé ~b~$%s~r~ comme frais de transaction.",
 	casino_max_chip_transfer_per_day_x = "~b~Vous avez atteint le maximum de transfert de jetons par jour.\n~w~Vous pouvez toujours demander ~r~%s~w~ jetons.",
+	healed_player = "Vous avez soigné ~b~%s~w~.",
+	photomode_fov = "Field Of View",
+	photomode_roll = "Rotation",
+	photomode_dofstrength = "DOF Force",
+	photomode_dofneardistance = "DOF Distance proche",
+	photomode_doffardistance = "DOF Distance loin",
+	photomode_showplayer = "Afficher joueurs",
+	photomode_showvehicle = "Afficher véhicules",
+	photomode_expression = "Expression",
+	photomode_timecycle = "Filtre",
+	photomode = "Mode Photo",
+	camera_instructions_new = "~INPUT_VEH_AIM~ pour activer la souris\n~INPUT_CELLPHONE_CAMERA_GRID~ pour cacher\n~INPUT_FRONTEND_RRIGHT~ pour quitter\nVous avez accès au menu d'animations.",
 }
 
 AddLanguage("fr", my_language)

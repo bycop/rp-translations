@@ -3909,6 +3909,12 @@ local my_language = {
 	photomode = "Photo Mode",
 	camera_instructions_new = "~INPUT_VEH_AIM~ to toggle the mouse\n~INPUT_CELLPHONE_CAMERA_GRID~ to hide\n~INPUT_FRONTEND_RRIGHT~ to leave\nYou have access to the animation menu.",
 	poster_limit_in_zone = "~r~There are too many posters in that area, choose another spot.",
+	premium_veh_desc = "Transfer or spawn your premium vehicle",
+	spawn_on_me = "Spawn on me",
+	must_be_close_garage_spawn = "~r~You must be close to a garage to spawn the vehicle.",
+	vehicle_purchased_before_today = "~r~You cannot spawn this vehicle as it was not purchased today.",
+	vehicle_already_owned_character = "~r~You cannot transfer a vehicle your character already owns.",
+	spawn_vehicle_with_vehmenu = "You can use ~b~/vehmenu~w~ to spawn the vehicle at your position.",
 }
 
 AddLanguage("en", my_language)

@@ -3902,6 +3902,12 @@ local my_language = {
 	photomode = "Mode Photo",
 	camera_instructions_new = "~INPUT_VEH_AIM~ pour activer la souris\n~INPUT_CELLPHONE_CAMERA_GRID~ pour cacher\n~INPUT_FRONTEND_RRIGHT~ pour quitter\nVous avez accès au menu d'animations.",
 	poster_limit_in_zone_fr = "~r~Il y a trop d'affiches dans cette zone, choisissez un autre endroit.",
+	premium_veh_desc = "Transférer ou faire apparaître votre véhicule premium",
+	spawn_on_me = "Faire apparaître sur moi",
+	must_be_close_garage_spawn = "~r~Vous devez être à proximité d'un garage pour faire apparaître le véhicule.",
+	vehicle_purchased_before_today = "~r~Vous ne pouvez pas faire spawn ce véhicule car il n'a pas été acheté aujourd'hui.",
+	vehicle_already_owned_character = "~r~Vous ne pouvez pas transférer un véhicule que votre personnage possède déjà.",
+	spawn_vehicle_with_vehmenu = "Vous pouvez utiliser ~b~/vehmenu~w~ pour faire apparaître le véhicule (via Premium).",
 }
 
 AddLanguage("fr", my_language)

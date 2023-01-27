@@ -3710,6 +3710,7 @@ local my_language = {
 	you_joined_nightclub = "~g~You joined the nightclub.",
 	pearls_sea_food = "Pearls Sea Food",
 	burgershot_mall = "Burgershot",
+	burgershot = "Burgershot",
 	aldentes_mall = "Aldentes",
 	cluckingbell_mall = "Cluckingbell",
 	bean_machine = "Bean Machine",
@@ -3717,6 +3718,7 @@ local my_language = {
 	paleto_dinner = "Paleto Dinner",
 	luchetti = "Luchetti",
 	only_restaurant_business = "~r~You can only claim this restaurant with a restaurant business.",
+	only_restaurant_job = "~r~This job is only for restaurant businesses.",
 	leave_restaurant_control_too_far = "~r~You are too far from the restaurant. You will be kicked from the active employees.",
 	leave_nightclub_control_too_far = "~r~You are too far from the nightclub. You will be kicked from the active employees.",
 	mission_simeon = "Simeon's Missions",
@@ -3906,6 +3908,7 @@ local my_language = {
 	photomode_timecycle = "Timecycle",
 	photomode = "Photo Mode",
 	camera_instructions_new = "~INPUT_VEH_AIM~ to toggle the mouse\n~INPUT_CELLPHONE_CAMERA_GRID~ to hide\n~INPUT_FRONTEND_RRIGHT~ to leave\nYou have access to the animation menu.",
+	poster_limit_in_zone = "~r~There are too many posters in that area, choose another spot.",
 }
 
 AddLanguage("en", my_language)

@@ -2792,7 +2792,7 @@ local my_language = {
 	jewel_press_e_break_glass = "Appuyez sur ~INPUT_CONTEXT~ pour briser la vitre.",
 	jewel_leave_store = "Quittez le magasin dès que possible.",
 	total_gains = "Gains",
-	jewelery_robbery = "Vol dans une bijouterie",
+	jewelery_robbery = "Braquage bijouterie",
 	alarm = "Alarme",
 	jewel_store = "Bijouterie",
 	message_too_long = "~r~Le message est trop long.",
@@ -3703,13 +3703,15 @@ local my_language = {
 	you_joined_restaurant = "~g~Vous avez rejoint le restaurant.",
 	pearls_sea_food = "Pearls Sea Food",
 	burgershot_mall = "Burgershot",
+	burgershot = "Burgershot",
 	aldentes_mall = "Aldentes",
 	cluckingbell_mall = "Cluckingbell",
 	bean_machine = "Bean Machine",
 	last_train = "Last Train",
 	paleto_dinner = "Paleto Dinner",
 	luchetti = "Luchetti",
-	only_restaurant_business = "~r~Vous ne pouvez réclamer ce restaurant avec une entreprise restaurant.",
+	only_restaurant_business = "~r~Vous ne pouvez pas réclamer ce restaurant sans une entreprise restaurant.",
+	only_restaurant_job = "~r~Ce métier est seulement pour les entreprises de restauration.",
 	leave_restaurant_control_too_far = "~r~Vous êtes trop loin du restaurant. Vous allez être expulsé des employés actifs.",
 	mission_simeon = "Mission Simeon",
 	the_palace = "The Palace",
@@ -3899,6 +3901,7 @@ local my_language = {
 	photomode_timecycle = "Filtre",
 	photomode = "Mode Photo",
 	camera_instructions_new = "~INPUT_VEH_AIM~ pour activer la souris\n~INPUT_CELLPHONE_CAMERA_GRID~ pour cacher\n~INPUT_FRONTEND_RRIGHT~ pour quitter\nVous avez accès au menu d'animations.",
+	poster_limit_in_zone_fr = "~r~Il y a trop d'affiches dans cette zone, choisissez un autre endroit.",
 }
 
 AddLanguage("fr", my_language)

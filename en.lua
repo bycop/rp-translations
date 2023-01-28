@@ -3915,6 +3915,7 @@ local my_language = {
 	vehicle_purchased_before_today = "~r~You cannot spawn this vehicle as it was not purchased today.",
 	vehicle_already_owned_character = "~r~You cannot transfer a vehicle your character already owns.",
 	spawn_vehicle_with_vehmenu = "You can use ~b~/vehmenu~w~ to spawn the vehicle at your position.",
+	premium_vehicle_not_tradeable = "~r~Premium vehicles cannot be traded",
 }
 
 AddLanguage("en", my_language)

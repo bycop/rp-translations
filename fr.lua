@@ -3912,6 +3912,7 @@ local my_language = {
 	spawn_vehicle_with_vehmenu = "Vous pouvez utiliser ~b~/vehmenu~w~ pour faire apparaître le véhicule (via Premium).",
 	premium_vehicle_not_tradeable = "~r~Les véhicules premium ne peuvent pas être échangés.",
 	hairshop_business = "Coiffeur",
+	poster_not_allowed = "~r~Vous n'avez pas la permission de placer des affiches dehors.",
 }
 
 AddLanguage("fr", my_language)

@@ -3913,6 +3913,7 @@ local my_language = {
 	spawn_vehicle_with_vehmenu = "You can use ~b~/vehmenu~w~ to spawn the vehicle at your position.",
 	premium_vehicle_not_tradeable = "~r~Premium vehicles cannot be traded",
 	hairshop_business = "Hair Salons",
+	poster_not_allowed = "~r~You are not allowed to place poster outside.",
 }
 
 AddLanguage("en", my_language)

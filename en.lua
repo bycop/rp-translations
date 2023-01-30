@@ -3914,6 +3914,7 @@ local my_language = {
 	premium_vehicle_not_tradeable = "~r~Premium vehicles cannot be traded",
 	hairshop_business = "Hair Salons",
 	poster_not_allowed = "~r~You are not allowed to place poster outside.",
+	budgetscale_too_high = "Your setting ~r~Extended Texture Budget~w~ is a bit high.\nThis could cause in-game freezes.",
 }
 
 AddLanguage("en", my_language)

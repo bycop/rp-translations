@@ -3913,6 +3913,7 @@ local my_language = {
 	premium_vehicle_not_tradeable = "~r~Les véhicules premium ne peuvent pas être échangés.",
 	hairshop_business = "Coiffeur",
 	poster_not_allowed = "~r~Vous n'avez pas la permission de placer des affiches dehors.",
+	budgetscale_too_high = "Votre option ~r~Extended Texture Budget~w~ est un peu haute.\nCela peut provoquer des freezes en jeu.",
 }
 
 AddLanguage("fr", my_language)

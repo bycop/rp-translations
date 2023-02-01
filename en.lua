@@ -1128,7 +1128,7 @@ local my_language = {
 
 	-- Door
 	door_no_key = "~r~You don't have the key to this door.",
-	you_x_the_door = "You %s~w~ the door.",
+	you_x_the_door = "You %s~w~ the door. (%s)",
 	unlocked = "~g~unlocked",
 	locked = "~r~locked",
 	unable_to_find_door = "~r~Unable to find this door.",
@@ -3937,6 +3937,10 @@ local my_language = {
 	door_deleted = "~r~You deleted the door.",
 	door_placed = "~g~You placed the door properly.",
 	door_edited = "~g~You edited the door properly.",
+	door_already_exists = "~r~This door already exists.",
+	door_not_registered = "~r~This door is not registered.",
+	door_model_not_supported_report = "~r~This door model is not supported, please report it if it is a door (%s).",
+	set_presets = "Set presets",
 }
 
 AddLanguage("en", my_language)

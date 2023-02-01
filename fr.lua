@@ -1128,7 +1128,7 @@ local my_language = {
 
 	-- Door
 	door_no_key = "~r~Vous n'avez pas la clé de cette porte.",
-	you_x_the_door = "Vous avez %s~w~ la porte.",
+	you_x_the_door = "Vous avez %s~w~ la porte. (%s)",
 	unlocked = "~g~déverrouillé",
 	locked = "~r~verrouillé",
 	unable_to_find_door = "~r~Porte introuvable.",
@@ -3936,6 +3936,10 @@ local my_language = {
 	door_deleted = "~r~Vous avez supprimé la porte.",
 	door_placed = "~g~Vous avez placé la porte.",
 	door_edited = "~g~Vous avez édité la porte.",
+	door_already_exists = "~r~Cette porte a déjà été enregistrée.",
+	door_not_registered = "~r~Cette porte n'est pas enregistrée.",
+	door_model_not_supported_report = "~r~Ce modèle de porte n'est pas pris en charge, veuillez le signaler s'il s'agit d'une porte (%s).",
+	set_presets = "Définir les préréglages",
 }
 
 AddLanguage("fr", my_language)

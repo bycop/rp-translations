@@ -3940,6 +3940,7 @@ local my_language = {
 	door_not_registered = "~r~Cette porte n'est pas enregistrée.",
 	door_model_not_supported_report = "~r~Ce modèle de porte n'est pas pris en charge, veuillez le signaler s'il s'agit d'une porte (%s).",
 	set_presets = "Définir les préréglages",
+	door_manager = "Gestionnaire de porte",
 }
 
 AddLanguage("fr", my_language)

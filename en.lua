@@ -3941,6 +3941,7 @@ local my_language = {
 	door_not_registered = "~r~This door is not registered.",
 	door_model_not_supported_report = "~r~This door model is not supported, please report it if it is a door (%s).",
 	set_presets = "Set presets",
+	door_manager = "Door manager",
 }
 
 AddLanguage("en", my_language)

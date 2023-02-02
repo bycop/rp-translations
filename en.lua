@@ -3942,6 +3942,7 @@ local my_language = {
 	door_model_not_supported_report = "~r~This door model is not supported, please report it if it is a door (%s).",
 	set_presets = "Set presets",
 	door_manager = "Door manager",
+	group_vehicle_only_traded_between = "~r~Vehicles from business/organization/crew can only be traded between the same type of group.",
 }
 
 AddLanguage("en", my_language)

@@ -3941,6 +3941,7 @@ local my_language = {
 	door_model_not_supported_report = "~r~Ce modèle de porte n'est pas pris en charge, veuillez le signaler s'il s'agit d'une porte (%s).",
 	set_presets = "Définir les préréglages",
 	door_manager = "Gestionnaire de porte",
+	group_vehicle_only_traded_between = "~r~Les véhicules de l'entreprise/organisation/crew ne peuvent être échangés qu'entre le même type de groupe.",
 }
 
 AddLanguage("fr", my_language)

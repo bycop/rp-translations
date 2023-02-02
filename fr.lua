@@ -3942,6 +3942,12 @@ local my_language = {
 	set_presets = "Définir les préréglages",
 	door_manager = "Gestionnaire de porte",
 	group_vehicle_only_traded_between = "~r~Les véhicules de l'entreprise/organisation/crew ne peuvent être échangés qu'entre le même type de groupe.",
+	manage_key_item = "Gérer l'objet clé",
+	key_unique_id = "ID unique",
+	get_key = "Obtenir la clé",
+	door_key_id_not_set = "~r~L'ID de la clé n'est pas défini.",
+	door_do_not_forget_save_changes = "~r~N'oubliez pas de sauvegarder les changements.",
+	door_received_x_keys_id = "Vous avez reçu ~b~%s clés~w~ avec l'ID ~r'~%s'~w~.",
 }
 
 AddLanguage("fr", my_language)

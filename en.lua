@@ -3943,6 +3943,12 @@ local my_language = {
 	set_presets = "Set presets",
 	door_manager = "Door manager",
 	group_vehicle_only_traded_between = "~r~Vehicles from business/organization/crew can only be traded between the same type of group.",
+	manage_key_item = "Manage key item",
+	key_unique_id = "Key unique ID",
+	get_key = "Get key",
+	door_key_id_not_set = "~r~This door key ID is not set.",
+	door_do_not_forget_save_changes = "~r~Do not forget to save the changes.",
+	door_received_x_keys_id = "You received ~b~%s~w~ keys with ID ~r~'%s'~w~.",
 }
 
 AddLanguage("en", my_language)

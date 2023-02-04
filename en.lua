@@ -3949,6 +3949,10 @@ local my_language = {
 	door_key_id_not_set = "~r~This door key ID is not set.",
 	door_do_not_forget_save_changes = "~r~Do not forget to save the changes.",
 	door_received_x_keys_id = "You received ~b~%s~w~ keys with ID ~r~'%s'~w~.",
+	use_keypad = "Use keypad",
+	register_closest_keypad = "Register closest keypad",
+	no_keypad_found = "~r~No keypad found.",
+	door_locked_with_keypad_or_button = "~r~This door is locked with a keypad or a button.",
 }
 
 AddLanguage("en", my_language)

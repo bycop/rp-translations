@@ -1951,7 +1951,7 @@ local my_language = {
 	category = "Catégorie",
 	preferred_mood = "Humeur favorite",
 	preferred_movement_style = "Démarche favorite",
-	key = "Touche",
+	key = "Clé",
 	enter_to_confirm_bind = "ENTRER pour valider le bind.",
 	you_can_bind_animation_to_key = "Vous devez sélectionner l'animation à bind sur le pavé numérique.",
 	hide_barber_shops = "Masquer les barbiers",
@@ -3948,6 +3948,10 @@ local my_language = {
 	door_key_id_not_set = "~r~L'ID de la clé n'est pas défini.",
 	door_do_not_forget_save_changes = "~r~N'oubliez pas de sauvegarder les changements.",
 	door_received_x_keys_id = "Vous avez reçu ~b~%s clés~w~ avec l'ID ~r'~%s'~w~.",
+	use_keypad = "Utiliser le keypad",
+	register_closest_keypad = "Enregistrer le keypad le plus proche",
+	no_keypad_found = "~r~Aucun keypad n'a été trouvé.",
+	door_locked_with_keypad_or_button = "~r~Cette porte est verrouillée avec un keypad ou un bouton.",
 }
 
 AddLanguage("fr", my_language)

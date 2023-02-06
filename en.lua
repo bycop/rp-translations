@@ -3953,6 +3953,8 @@ local my_language = {
 	register_closest_keypad = "Register closest keypad",
 	no_keypad_found = "~r~No keypad found.",
 	door_locked_with_keypad_or_button = "~r~This door is locked with a keypad or a button.",
+	target_character = "Target character",
+	char_renamed = "You renamed ~b~%s~w~ to ~r~%s~w~.",
 }
 
 AddLanguage("en", my_language)

@@ -3952,6 +3952,8 @@ local my_language = {
 	register_closest_keypad = "Enregistrer le keypad le plus proche",
 	no_keypad_found = "~r~Aucun keypad n'a été trouvé.",
 	door_locked_with_keypad_or_button = "~r~Cette porte est verrouillée avec un keypad ou un bouton.",
+	target_character = "Personnage cible",
+	char_renamed = "Vous avez renommé ~b~%s~w~ en ~r~%s~w~.",
 }
 
 AddLanguage("fr", my_language)

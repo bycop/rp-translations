@@ -3705,6 +3705,7 @@ local my_language = {
 	you_joined_restaurant = "~g~You joined the restaurant.",
 	you_joined_nightclub = "~g~You joined the nightclub.",
 	you_joined_hairdresser = "~g~You joined the hairshop.",
+	you_joined_tattooshop = "~g~You joined the tattoo artist job.",
 	pearls_sea_food = "Pearls Sea Food",
 	burgershot_mall = "Burgershot",
 	burgershot = "Burgershot",
@@ -3913,6 +3914,7 @@ local my_language = {
 	spawn_vehicle_with_vehmenu = "You can use ~b~/vehmenu~w~ to spawn the vehicle at your position.",
 	premium_vehicle_not_tradeable = "~r~Premium vehicles cannot be traded",
 	hairshop_business = "Hair Salons",
+	tattoo_business = "Tattoo Shops",
 	poster_not_allowed = "~r~You are not allowed to place poster outside.",
 	budgetscale_too_high = "Your setting ~r~Extended Texture Budget~w~ is a bit high.\nThis could cause in-game freezes.",
 	door_creator = "Door Creator",
@@ -3955,6 +3957,7 @@ local my_language = {
 	door_locked_with_keypad_or_button = "~r~This door is locked with a keypad or a button.",
 	target_character = "Target character",
 	char_renamed = "You renamed ~b~%s~w~ to ~r~%s~w~.",
+	not_close_tattoo_shop = "~r~You must be close to a tattoo shop.",
 }
 
 AddLanguage("en", my_language)

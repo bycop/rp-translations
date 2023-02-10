@@ -3980,6 +3980,11 @@ local my_language = {
 	treasure_earning_limit_reached = "~r~You reached the treasure earning limit for today.",
 	treasure_item = "Treasure item",
 	weapon_canette = "Can",
+	market = "Market",
+	fish = "Fish",
+	meat = "Meat",
+	treasure = "Treasure",
+	sell_treasure_items_desc = "Sell treasure items you collected with your digi scanner",
 }
 
 AddLanguage("en", my_language)

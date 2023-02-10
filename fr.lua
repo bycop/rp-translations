@@ -3979,6 +3979,10 @@ local my_language = {
 	treasure_earning_limit_reached = "~r~Vous avez atteint la limite de gains via les trésors.",
 	treasure_item = "Trésor",
 	weapon_canette = "Canette",
+	market = "Marché",
+	fish = "Poisson",
+	meat = "Viande",
+	sell_treasure_items_desc = "Vendre les objets de trésor que vous avez collectés avec votre digi scanner.",
 }
 
 AddLanguage("fr", my_language)

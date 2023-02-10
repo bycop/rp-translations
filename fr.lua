@@ -3983,6 +3983,9 @@ local my_language = {
 	fish = "Poisson",
 	meat = "Viande",
 	sell_treasure_items_desc = "Vendre les objets de trésor que vous avez collectés avec votre digi scanner.",
+	all = "Tous",
+	county = "Comté",
+	message = "Message",
 }
 
 AddLanguage("fr", my_language)

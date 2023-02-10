@@ -3985,6 +3985,9 @@ local my_language = {
 	meat = "Meat",
 	treasure = "Treasure",
 	sell_treasure_items_desc = "Sell treasure items you collected with your digi scanner",
+	all = "All",
+	county = "County",
+	message = "Message",
 }
 
 AddLanguage("en", my_language)

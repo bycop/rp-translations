@@ -3988,6 +3988,9 @@ local my_language = {
 	all = "All",
 	county = "County",
 	message = "Message",
+	enter_position = "Enter position",
+	uwu_cafe = "UwU Cafe",
+	mirror_park_tavern = "Mirror Park Tavern",
 }
 
 AddLanguage("en", my_language)

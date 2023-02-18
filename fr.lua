@@ -3958,6 +3958,10 @@ local my_language = {
 	enter_position = "Entrez la position",
 	uwu_cafe = "Uwu Cafe",
 	mirror_park_tavern_fr = "Mirror Park Tavern",
+	you_created_cargo_x = "Vous avez créé un cargo de ~b~%sx %s~w~.",
+	cargo_crate = "Cargo",
+	cargo_crate_of_x = "Cargo (%sx %s)",
+	you_opened_cargo_x = "Vous avez ouvert un cargo de ~b~%sx %s~w~.",
 }
 
 AddLanguage("fr", my_language)

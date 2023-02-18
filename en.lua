@@ -3960,6 +3960,10 @@ local my_language = {
 	enter_position = "Enter position",
 	uwu_cafe = "UwU Cafe",
 	mirror_park_tavern = "Mirror Park Tavern",
+	you_created_cargo_x = "You created a cargo of ~b~%sx %s~w~.",
+	cargo_crate = "Cargo",
+	cargo_crate_of_x = "Cargo (%sx %s)",
+	you_opened_cargo_x = "You opened a cargo of ~b~%sx %s~w~.",
 }
 
 AddLanguage("en", my_language)

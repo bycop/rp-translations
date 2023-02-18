@@ -125,8 +125,8 @@ local my_language = {
 	tool = "Iron tool",
 	electronic_component = "Electronic component",
 	motherboard = "Motherboard",
-	steel_tool = "Reinforced steel",
-	metal_tool = "Reinforced metal",
+	steel_tool = "Strong steel",
+	metal_tool = "Strong metal",
 	sodium = "Sodium",
 	chemical_solution = "Chemical solution",
 	rolling_paper = "Rolling paper",
@@ -3962,8 +3962,11 @@ local my_language = {
 	mirror_park_tavern = "Mirror Park Tavern",
 	you_created_cargo_x = "You created a cargo of ~b~%sx %s~w~.",
 	cargo_crate = "Cargo",
-	cargo_crate_of_x = "Cargo (%sx %s)",
+	empty_cargo_crate = "Empty cargo",
 	you_opened_cargo_x = "You opened a cargo of ~b~%sx %s~w~.",
+	cannot_cargo_item = "~r~You cannot put this item in a cargo.",
+	opening_cargo = "Opening cargo",
+	assembling_cargo = "Assembling cargo",
 }
 
 AddLanguage("en", my_language)

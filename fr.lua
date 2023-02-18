@@ -125,8 +125,8 @@ local my_language = {
 	tool = "Outil en fer",
 	electronic_component = "Composant électronique",
 	motherboard = "Carte mère",
-	steel_tool = "Acier renforcé",
-	metal_tool = "Métal renforcé",
+	steel_tool = "Acier fort",
+	metal_tool = "Métal fort",
 	sodium = "Sodium",
 	chemical_solution = "Solution chimique",
 	rolling_paper = "Papier à rouler",
@@ -3960,8 +3960,11 @@ local my_language = {
 	mirror_park_tavern_fr = "Mirror Park Tavern",
 	you_created_cargo_x = "Vous avez créé un cargo de ~b~%sx %s~w~.",
 	cargo_crate = "Cargo",
-	cargo_crate_of_x = "Cargo (%sx %s)",
+	empty_cargo_crate = "Cargo vide",
 	you_opened_cargo_x = "Vous avez ouvert un cargo de ~b~%sx %s~w~.",
+	cannot_cargo_item = "~r~Vous ne pouvez pas mettre cet objet dans un cargo.",
+	opening_cargo = "Ouverture du cargo",
+	assembling_cargo = "Assemblage du cargo",
 }
 
 AddLanguage("fr", my_language)

@@ -3240,6 +3240,7 @@ local my_language = {
 	activated_phone_x = "You activated your phone ~g~%s~w~.",
 	none = "None",
 	give_money = "Give money",
+	give_dirty_money = "Give dirty money",
 	repair_workbench = "Repair workbench",
 	cooking_workbench = "Cooking workbench",
 	check_jewels = "check jewels",

@@ -3968,6 +3968,8 @@ local my_language = {
 	cannot_cargo_item = "~r~You cannot put this item in a cargo.",
 	opening_cargo = "Opening cargo",
 	assembling_cargo = "Assembling cargo",
+	invalid_tp_spot = "~r~Invalid teleport spot name.",
+	refreshed_tp_spots = "~g~Refreshed teleport spots list.",
 }
 
 AddLanguage("en", my_language)

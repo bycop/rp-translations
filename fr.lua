@@ -3966,6 +3966,8 @@ local my_language = {
 	cannot_cargo_item = "~r~Vous ne pouvez pas mettre cet objet dans un cargo.",
 	opening_cargo = "Ouverture du cargo",
 	assembling_cargo = "Assemblage du cargo",
+	invalid_tp_spot = "~r~Ce point de téléportation n'existe pas.",
+	refreshed_tp_spots = "~g~Liste des points de TP mise à jour.",
 }
 
 AddLanguage("fr", my_language)

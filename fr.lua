@@ -804,7 +804,6 @@ local my_language = {
 	new = "Nouveau",
 	property_modification = "edition maison",
 	edit_floors = "editer etage(s)",
-	this_property_is_a_garage = "Cette propriété est un garage",
 	place = "Placer",
 	create_property = "Créer une propriété",
 	entrance = "Entrée",
@@ -3966,6 +3965,20 @@ local my_language = {
 	cannot_cargo_item = "~r~Vous ne pouvez pas mettre cet objet dans un cargo.",
 	opening_cargo = "Ouverture du cargo",
 	assembling_cargo = "Assemblage du cargo",
+	property_commission_too_high_x = "~r~Facture invalide.\n~w~La commission est au dessus de la limite imposée ~r~%s%%~w~.",
+	weapon_max_ammo = "~r~Vous avez atteint la limite de munition dans votre arme.",
+	bounds = "Limites",
+	remove_bound = "Supprimer la limite",
+	add_bound = "Ajouter une limite",
+	property_bounds_incorrect = "~r~Les limites de la propriété sont incorrectes, il vous faut au moins 4 points.",
+	show_property_bounds = "Afficher les limites de la propriété",
+	property_no_bounds_set = "~r~Aucune limite n'est définie pour cette propriété.",
+	mapeditor_property_updated_to_x = "Vous avez mis à jour votre propriété de projet id en ~g~%s~w~.",
+	project_item_out_of_bound = "~r~Vous ne pouvez pas activer ce projet, un objet est en dehors des limites (%s).",
+	display_bounds = "Afficher les limites",
+	mapping_id = "Mapping ID",
+	disable_mapping = "Désactiver le mapping",
+	toggle_for_property_exterior = "Activer/désactiver pour l'extérieur de la propriété.",
 }
 
 AddLanguage("fr", my_language)

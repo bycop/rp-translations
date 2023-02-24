@@ -3983,6 +3983,7 @@ local my_language = {
 	mapping_id = "Mapping ID",
 	disable_mapping = "Disable mapping",
 	toggle_for_property_exterior = "Toggle for property exterior",
+	property_bounds_reset = "~r~Bounds of the property have been reset too.",
 }
 
 AddLanguage("en", my_language)

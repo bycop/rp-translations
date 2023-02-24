@@ -3981,6 +3981,7 @@ local my_language = {
 	mapping_id = "Mapping ID",
 	disable_mapping = "Désactiver le mapping",
 	toggle_for_property_exterior = "Activer/désactiver pour l'extérieur de la propriété.",
+	property_bounds_reset = "~r~Les limites de la propriété ont été réinitialisées aussi.",
 }
 
 AddLanguage("fr", my_language)

@@ -1707,7 +1707,7 @@ local my_language = {
 	you_picked_up_x = "You picked up ~b~%s~w~.",
 	you_picked_up_xmoney = "You picked up %s$~w~.",
 
-	you_gave_x_to = "You gave ~g~%s %s~w~ to ~g~someone~w~.",
+	you_gave_x_x_to = "You gave ~g~%s %s~w~ to ~g~someone~w~.",
 	someone_gave_you_x_x = "Someone gave you ~g~%s %s~w~.",
 	collected_water_bottle = "You collected ~b~10L of water~w~, your bottle is full.",
 	you_unsealed_x_x = "You have unsealed ~b~x%s items~w~.",

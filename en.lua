@@ -4002,6 +4002,10 @@ local my_language = {
 	add_chest = "Add chest",
 	chest_creator = "Chest creator",
 	chest_not_registered = "~r~This chest is not registered.",
+	map_editor_description = "Use the map editor tool to decorate your property.",
+	entity_sets_description = "Some specific interiors have variations that you can modify from this menu.",
+	door_manager_description = "Use the door manager to manage the doors of your property.",
+	chest_creator_description = "Use the place storage spots in your property.",
 }
 
 AddLanguage("en", my_language)

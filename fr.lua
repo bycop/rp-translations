@@ -4000,6 +4000,10 @@ local my_language = {
 	add_chest = "Ajouter un coffre",
 	chest_creator = "Créateur de coffre",
 	chest_not_registered = "~r~Ce coffre n'est pas enregistré.",
+	map_editor_description = "Utilisez l'outil map editor pour décorer votre propriété.",
+	entity_sets_description = "Certains intérieurs spécifiques ont des variations que vous pouvez modifier à partir de ce menu.",
+	door_manager_description = "Utilisez le gestionnaire de porte pour gérer les portes de votre propriété.",
+	chest_creator_description = "Utilisez le créateur de coffre pour placer des coffres dans votre propriété.",
 }
 
 AddLanguage("fr", my_language)

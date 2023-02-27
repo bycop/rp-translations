@@ -4006,6 +4006,7 @@ local my_language = {
 	entity_sets_description = "Some specific interiors have variations that you can modify from this menu.",
 	door_manager_description = "Use the door manager to manage the doors of your property.",
 	chest_creator_description = "Use the place storage spots in your property.",
+	illegal_action_locked_only_secondary = "~r~This action is limited to secondary and primary groups only.",
 }
 
 AddLanguage("en", my_language)

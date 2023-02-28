@@ -4005,6 +4005,7 @@ local my_language = {
 	door_manager_description = "Utilisez le gestionnaire de porte pour gérer les portes de votre propriété.",
 	chest_creator_description = "Utilisez le créateur de coffre pour placer des coffres dans votre propriété.",
 	illegal_action_locked_only_secondary = "~r~Cette action est limitée aux groupes secondaires et principaux uniquement.",
+	show_player_blips = "Afficher les blips des joueurs",
 }
 
 AddLanguage("fr", my_language)

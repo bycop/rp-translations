@@ -4007,6 +4007,7 @@ local my_language = {
 	door_manager_description = "Use the door manager to manage the doors of your property.",
 	chest_creator_description = "Use the place storage spots in your property.",
 	illegal_action_locked_only_secondary = "~r~This action is limited to secondary and primary groups only.",
+	show_player_blips = "Show player blips",
 }
 
 AddLanguage("en", my_language)

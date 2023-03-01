@@ -4008,6 +4008,9 @@ local my_language = {
 	chest_creator_description = "Use the place storage spots in your property.",
 	illegal_action_locked_only_secondary = "~r~This action is limited to secondary and primary groups only.",
 	show_player_blips = "Show player blips",
+	gamertag_distance = "Gamertag distance",
+	e_cigarette = "E-cigarette",
+	weapon_anim = "weapon animation",
 }
 
 AddLanguage("en", my_language)

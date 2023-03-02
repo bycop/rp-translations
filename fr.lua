@@ -4011,6 +4011,9 @@ local my_language = {
 	weapon_anim = "animation d'arme",
 	gruppe_6 = "Gruppe 6",
 	to_gruppe6 = "~y~à Gruppe 6",
+	icon_url = "URL de l'icône",
+	url_too_long = "~r~L'URL est trop longue.",
+	image_url_invalid = "~r~L'URL de l'image est invalide.",
 }
 
 AddLanguage("fr", my_language)

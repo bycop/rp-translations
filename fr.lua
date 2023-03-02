@@ -4009,6 +4009,8 @@ local my_language = {
 	gamertag_distance = "Distance du gamertag",
 	e_cigarette = "E-cigarette",
 	weapon_anim = "animation d'arme",
+	gruppe_6 = "Gruppe 6",
+	to_gruppe6 = "~y~à Gruppe 6",
 }
 
 AddLanguage("fr", my_language)

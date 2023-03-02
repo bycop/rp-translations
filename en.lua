@@ -1375,7 +1375,7 @@ local my_language = {
 	place_in_trunk = "Place in trunk",
 	tattoo_verb = "Tattoo",
 	haircut_verb = "Haircut",
-	call_lspd_reinforcements = "Call SAPD reinforcements",
+	call_lspd_reinforcements = "Call reinforcements",
 	call_reinforcements = "call reinforcements",
 	pickup_closest_prop = "Pick up nearby object",
 	police_barrier = "Police barrier",
@@ -4011,6 +4011,8 @@ local my_language = {
 	gamertag_distance = "Gamertag distance",
 	e_cigarette = "E-cigarette",
 	weapon_anim = "weapon animation",
+	gruppe_6 = "Gruppe 6",
+	to_gruppe6 = "~y~to Gruppe 6",
 }
 
 AddLanguage("en", my_language)

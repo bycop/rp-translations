@@ -4016,6 +4016,7 @@ local my_language = {
 	icon_url = "Icon URL",
 	url_too_long = "~r~The URL is too long.",
 	image_url_invalid = "~r~The image URL is invalid.",
+	weapon_crossbow = "Crossbow",
 }
 
 AddLanguage("en", my_language)

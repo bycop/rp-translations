@@ -3282,6 +3282,7 @@ local my_language = {
 	target_denied_synced_anim_request = "~r~The target denied your synchronized animation request.",
 	you_denied_synced_anim_request = "~r~You have denied the synchronized animation request.",
 	request_synced_anim_x = "~b~You received a synced animation request.\n~w~Press: ~g~E~w~ to accept or ~r~R~w~ to deny.",
+	wait_before_new_request = "~r~You must wait before sending a new request.",
 
 	synced_anims = "Synced anims",
 	anim_handshake = "Handshake",

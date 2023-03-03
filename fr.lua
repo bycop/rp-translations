@@ -4016,6 +4016,7 @@ local my_language = {
 	url_too_long = "~r~L'URL est trop longue.",
 	image_url_invalid = "~r~L'URL de l'image est invalide.",
 	weapon_crossbow = "Arbalète",
+	addon_cloth_manual = "Vous devez adapter les sous-hauts / bras pour les vêtements moddés via le mode manuel dans le menu d'avant",
 }
 
 AddLanguage("fr", my_language)

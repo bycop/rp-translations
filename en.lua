@@ -4018,6 +4018,7 @@ local my_language = {
 	url_too_long = "~r~The URL is too long.",
 	image_url_invalid = "~r~The image URL is invalid.",
 	weapon_crossbow = "Crossbow",
+	addon_cloth_manual = "You must adapt the undershirts / arms for clothes modified via manual mode in the menu before",
 }
 
 AddLanguage("en", my_language)

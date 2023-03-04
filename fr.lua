@@ -966,6 +966,7 @@ local my_language = {
 	spawn_point = "lieu d'apparition",
 	char_first_name = "Prénom",
 	char_last_name = "Nom",
+	char_birth_date = "Date de naissance",
 	char_birthplace = "Lieu de naissance",
 	char_birthday = "Jour de naissance",
 	char_birthmonth = "Mois de naissance",
@@ -4015,8 +4016,6 @@ local my_language = {
 	icon_url = "URL de l'icône",
 	url_too_long = "~r~L'URL est trop longue.",
 	image_url_invalid = "~r~L'URL de l'image est invalide.",
-	weapon_crossbow = "Arbalète",
-	addon_cloth_manual = "Vous devez adapter les sous-hauts / bras pour les vêtements moddés via le mode manuel dans le menu d'avant",
 }
 
 AddLanguage("fr", my_language)

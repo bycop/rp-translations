@@ -966,6 +966,7 @@ local my_language = {
 	spawn_point = "Spawn point",
 	char_first_name = "First name",
 	char_last_name = "Last name",
+	char_birth_date = "Birth date",
 	char_birthplace = "Birth place",
 	char_birthday = "Birth day",
 	char_birthmonth = "Birth month",
@@ -4017,8 +4018,6 @@ local my_language = {
 	icon_url = "Icon URL",
 	url_too_long = "~r~The URL is too long.",
 	image_url_invalid = "~r~The image URL is invalid.",
-	weapon_crossbow = "Crossbow",
-	addon_cloth_manual = "You must adapt the undershirts / arms for clothes modified via manual mode in the menu before",
 }
 
 AddLanguage("en", my_language)

@@ -2125,6 +2125,10 @@ local my_language = {
 	right_neon = "Right neon",
 	front_neon = "Front neon",
 	back_neon = "Back neon",
+	color = "Color",
+	color_type = "Color type",
+	use_custom_color = "Use custom color",
+	save_color = "Save color",
 
 	aileron = "Spoiler",
 	pc_front = "Front bumper",
@@ -3703,6 +3707,7 @@ local my_language = {
 	eagle = "Eagle's Heaven",
 	arcade_bar = "Arcade Bar",
 	drink_shop = "Drink Shop",
+	galaxy_nightclub = "Galaxy Nightclub",
 	include_reason_for_report = "~r~Please include a reason for your report.",
 	create_a_report = "Create a report",
 	nightclub = "Nightclub & Bars",
@@ -3927,6 +3932,7 @@ local my_language = {
 	door_locked_with_keypad_or_button = "~r~This door is locked with a keypad or a button.",
 	target_character = "Target character",
 	char_renamed = "You renamed ~b~%s~w~ to ~r~%s~w~.",
+	char_birthday_edited = "You changed the birthday of ~b~%s~w~ to ~b~%s~w~.",
 	not_close_tattoo_shop = "~r~You must be close to a tattoo shop.",
 	digging = "Digging",
 	too_far_treasure_spot = "~r~You are too far from the treasure spot.",
@@ -4019,6 +4025,7 @@ local my_language = {
 	image_url_invalid = "~r~The image URL is invalid.",
 	weapon_crossbow = "Crossbow",
 	addon_cloth_manual = "You must adapt the undershirts / arms for clothes modified via manual mode in the menu before",
+	already_owned = "~r~You already own it.",
 }
 
 AddLanguage("en", my_language)

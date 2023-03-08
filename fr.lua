@@ -2125,6 +2125,10 @@ local my_language = {
 	right_neon = "Néon droit",
 	front_neon = "Néon avant",
 	back_neon = "Néon arrière",
+	color = "Couleur",
+	color_type = "Type de couleur",
+	use_custom_color = "Utiliser une couleur personnalisée",
+	save_color = "Sauvegarder la couleur",
 
 	aileron = "Aileron",
 	pc_front = "Pare-chocs avant",
@@ -3701,6 +3705,7 @@ local my_language = {
 	eagle = "Eagle's Heaven",
 	arcade_bar = "Arcade Bar",
 	drink_shop = "Magasin de boisson",
+	galaxy_nightclub = "Galaxy Nightclub",
 	include_reason_for_report = "~r~Veuillez inclure une raison pour le signalement.",
 	create_a_report = "Créer un signalement",
 	nightclub = "Nightclub & Bars",
@@ -3926,6 +3931,7 @@ local my_language = {
 	door_locked_with_keypad_or_button = "~r~Cette porte est verrouillée avec un keypad ou un bouton.",
 	target_character = "Personnage cible",
 	char_renamed = "Vous avez renommé ~b~%s~w~ en ~r~%s~w~.",
+	char_birthday_edited = "Vous avez édité la date de naissance de ~b~%s~w~ en ~b~%s~w~.",
 	not_close_tattoo_shop = "~r~Vous n'êtes pas proche d'un salon de tatoueur.",
 	digging = "Creuser",
 	too_far_treasure_spot = "~r~Vous êtes trop loin du trésor.",
@@ -4017,6 +4023,7 @@ local my_language = {
 	image_url_invalid = "~r~L'URL de l'image est invalide.",
 	weapon_crossbow = "Arbalète",
 	addon_cloth_manual = "Vous devez adapter les sous-hauts / bras pour les vêtements moddés via le mode manuel dans le menu d'avant",
+	already_owned = "~r~Vous possédez déjà cet objet.",
 }
 
 AddLanguage("fr", my_language)

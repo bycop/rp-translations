@@ -966,6 +966,7 @@ local my_language = {
 	spawn_point = "Spawn point",
 	char_first_name = "First name",
 	char_last_name = "Last name",
+	char_birth_date = "Birth date",
 	char_birthplace = "Birth place",
 	char_birthday = "Birth day",
 	char_birthmonth = "Birth month",

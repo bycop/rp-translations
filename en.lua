@@ -4027,6 +4027,7 @@ local my_language = {
 	weapon_crossbow = "Crossbow",
 	addon_cloth_manual = "You must adapt the undershirts / arms for clothes modified via manual mode in the menu before",
 	already_owned = "~r~You already own it.",
+	not_allowed_property = "~r~You are not allowed to do this in this property.",
 }
 
 AddLanguage("en", my_language)

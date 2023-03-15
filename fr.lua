@@ -4026,6 +4026,7 @@ local my_language = {
 	addon_cloth_manual = "Vous devez adapter les sous-hauts / bras pour les vêtements moddés via le mode manuel dans le menu d'avant",
 	already_owned = "~r~Vous possédez déjà cet objet.",
 	not_allowed_property = "~r~Vous ne pouvez pas le faire dans cette propriété.",
+	interiors = "Intérieurs",
 }
 
 AddLanguage("fr", my_language)

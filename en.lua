@@ -4028,6 +4028,7 @@ local my_language = {
 	addon_cloth_manual = "You must adapt the undershirts / arms for clothes modified via manual mode in the menu before",
 	already_owned = "~r~You already own it.",
 	not_allowed_property = "~r~You are not allowed to do this in this property.",
+	interiors = "Interiors",
 }
 
 AddLanguage("en", my_language)

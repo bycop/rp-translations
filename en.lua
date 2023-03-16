@@ -4029,6 +4029,7 @@ local my_language = {
 	already_owned = "~r~You already own it.",
 	not_allowed_property = "~r~You are not allowed to do this in this property.",
 	interiors = "Interiors",
+	active = "Active",
 }
 
 AddLanguage("en", my_language)

@@ -4028,6 +4028,8 @@ local my_language = {
 	not_allowed_property = "~r~Vous ne pouvez pas le faire dans cette propriété.",
 	interiors = "Intérieurs",
 	active = "Actif",
+	weapon_handling_animation = "Animation de manipulation d'arme",
+	illegal_activity_time = "~r~Vous ne pouvez pas récolter des ressources illégales à cette heure.",
 }
 
 AddLanguage("fr", my_language)

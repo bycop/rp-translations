@@ -229,7 +229,7 @@ local my_language = {
 	beer = "Bière",
 
 	enabled_radio = "Vous avez allumé votre ~b~%s~w~. La dernière fréquence sauvegardée est ~b~%sHz~w~.",
-	striker_liqueur = "Liqueur de Striker",
+	striker_liqueur = "Liqueur Striker",
 	not_behind_ped = "Vous devez être ~r~derrière~w~ l'individu.",
 	used_item = "Vous avez utilisé ~g~%s~w~.",
 	wounded = "~r~Blessé.~n~~w~Vous ne pouvez pas utiliser d'arme.",
@@ -4030,6 +4030,15 @@ local my_language = {
 	active = "Actif",
 	weapon_handling_animation = "Animation de manipulation d'arme",
 	illegal_activity_time = "~r~Vous ne pouvez pas récolter des ressources illégales à cette heure.",
+	use = "Utiliser",
+	powerwasher_instructions_default = "Appuyez sur ~INPUT_RELOAD~ pour quitter.\nVisez le véhicule que vous souhaitez laver.",
+	powerwasher_instructions_veh = "Appuyez sur ~INPUT_VEH_EXIT~ pour laver ce véhicule ~r~sale~w~.",
+	powerwasher_instructions_cleanveh = "~g~Ce véhicule est déjà propre.",
+	powerwasher_instructions_cleaning = "Visez les marqueurs sur le côté des véhicules pour les nettoyer.\nAppuyez sur ~INPUT_RELOAD~ pour quitter.",
+	cleaning_spots = "Point",
+	cleaning_station_out_of_stock = "~r~La station de nettoyage n'a plus de matériel de nettoyage.",
+	veh_cleaning_kit = "Karcher",
+	not_available_outside_world = "~r~Cet objet n'est pas disponible en dehors du monde principal.",
 }
 
 AddLanguage("fr", my_language)

@@ -4032,6 +4032,15 @@ local my_language = {
 	active = "Active",
 	weapon_handling_animation = "Weapon handling animation",
 	illegal_activity_time = "~r~You cannot harvest illegal resources at this hour.",
+	use = "Use",
+	powerwasher_instructions_default = "Press ~INPUT_RELOAD~ to leave.\nAim the vehicle you want to wash.",
+	powerwasher_instructions_veh = "Press ~INPUT_VEH_EXIT~ to wash this ~r~dirty vehicle~w~.",
+	powerwasher_instructions_cleanveh = "~g~This vehicle is already clean.",
+	powerwasher_instructions_cleaning = "Aim the markers on the side of the vehicles to clean it.\nPress ~INPUT_RELOAD~ to leave.",
+	cleaning_spots = "Spots",
+	cleaning_station_out_of_stock = "~r~This cleaning station is out of cleaning material.",
+	veh_cleaning_kit = "Karcher",
+	not_available_outside_world = "~r~This item is not available outside the main world.",
 }
 
 AddLanguage("en", my_language)

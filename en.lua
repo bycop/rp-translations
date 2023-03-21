@@ -4041,6 +4041,21 @@ local my_language = {
 	cleaning_station_out_of_stock = "~r~This cleaning station is out of cleaning material.",
 	veh_cleaning_kit = "Karcher",
 	not_available_outside_world = "~r~This item is not available outside the main world.",
+	police_shield = "Police shield",
+	remove_shield = "Remove shield",
+	put_on_shield = "Put on shield",
+	start_fire = "Start fire",
+	active_fires = "Active fires",
+	stop_all_fires = "Stop all fires",
+	you_stopped_all_fires = "~r~You stopped all fires.",
+	launched_fire_at_spot = "~r~You launched a fire at a spot ~w~%s~r~.",
+	stop_fire = "Stop fire",
+	stopped_fire_x = "~r~You stopped a fire ~w~%s~r~.",
+	mark_as_disabled = "Mark as disabled",
+	school_canvas = "Canvas",
+	school_test = "Test",
+	school_marker = "Marker",
+	school_book = "Book",
 }
 
 AddLanguage("en", my_language)

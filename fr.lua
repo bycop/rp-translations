@@ -4039,6 +4039,21 @@ local my_language = {
 	cleaning_station_out_of_stock = "~r~La station de nettoyage n'a plus de matériel de nettoyage.",
 	veh_cleaning_kit = "Karcher",
 	not_available_outside_world = "~r~Cet objet n'est pas disponible en dehors du monde principal.",
+	police_shield = "Bouclier de police",
+	remove_shield = "Retirer le bouclier",
+	put_on_shield = "Mettre le bouclier",
+	start_fire = "Allumer un feu",
+	active_fires = "Feux actifs",
+	stop_all_fires = "Arrêter tous les feux",
+	you_stopped_all_fires = "~g~Vous avez arrêté tous les feux.",
+	launched_fire_at_spot = "~r~Vous avez allumé un feu à un point ~w~%s~r~.",
+	stop_fire = "Arrêter le feu",
+	stopped_fire_x = "~r~Vous avez arrêté le feu ~w~%s~r~.",
+	mark_as_disabled = "Marquer comme désactivé",
+	school_canvas = "Dessin",
+	school_test = "Contrôle",
+	school_marker = "Marqueur",
+	school_book = "Carnet",
 }
 
 AddLanguage("fr", my_language)

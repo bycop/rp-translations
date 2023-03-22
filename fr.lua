@@ -4054,6 +4054,14 @@ local my_language = {
 	school_test = "Contrôle",
 	school_marker = "Marqueur",
 	school_book = "Carnet",
+	use_as_water_source = "Utiliser comme source d'eau",
+	water_available = "Eau disponible",
+	use_hose = "Sortir lance",
+	select_vehicle_source_water = "~r~Vous devez sélectionner un véhicule qui recevra l'eau.",
+	water_tank_veh_full = "~g~Le réservoir d'eau du véhicule est plein.",
+	water_tank_veh_running = "~r~Vous ne pouvez pas remplir le réservoir d'eau du véhicule alors qu'il est en marche.",
+	water_tank_veh_destroyed = "~r~Vous ne pouvez pas remplir le réservoir d'eau du véhicule alors qu'il est détruit.",
+	filling_vehicle_water_tank = "~b~Vous remplissez le réservoir d'eau du véhicule.",
 }
 
 AddLanguage("fr", my_language)

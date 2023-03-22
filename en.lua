@@ -4056,6 +4056,14 @@ local my_language = {
 	school_test = "Test",
 	school_marker = "Marker",
 	school_book = "Book",
+	use_as_water_source = "Use as water source",
+	water_available = "Water available",
+	use_hose = "Use hose",
+	select_vehicle_source_water = "~r~You must select a the vehicle that will receive the water.",
+	water_tank_veh_full = "~g~The water tank of the vehicle is full.",
+	water_tank_veh_running = "~r~You cannot fill the water tank of the vehicle while it is running.",
+	water_tank_veh_destroyed = "~r~You cannot fill the water tank of the vehicle while it is destroyed.",
+	filling_vehicle_water_tank = "~b~Filling vehicle water tank",
 }
 
 AddLanguage("en", my_language)

@@ -4086,6 +4086,7 @@ local my_language = {
 	peluche_leveinard = "Leveinard",
 	battery = "Batterie",
 	screwdriver = "Tournevis",
+	weapon_beambag = "Pompe beanbag",
 }
 
 AddLanguage("fr", my_language)

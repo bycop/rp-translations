@@ -4090,6 +4090,9 @@ local my_language = {
 	battery = "Battery",
 	screwdriver = "Screwdriver",
 	weapon_beambag = "Shotgun beanbag",
+	quest_completed_rewards_x = "You completed the quest.\n~y~<C>Quest Reward</C>\n~w~%s",
+	cut_supply_line = "Cut supply line",
+	setup_in = "Setup",
 }
 
 AddLanguage("en", my_language)

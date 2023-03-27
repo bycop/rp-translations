@@ -4093,6 +4093,7 @@ local my_language = {
 	quest_completed_rewards_x = "You completed the quest.\n~y~<C>Quest Reward</C>\n~w~%s",
 	cut_supply_line = "Cut supply line",
 	setup_in = "Setup",
+	fire_proof_x = "Fire %sm ago (%s)",
 }
 
 AddLanguage("en", my_language)

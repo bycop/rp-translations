@@ -1455,7 +1455,7 @@ local my_language = {
 	use_keyboard_arrows_to_move = "~n~~g~Use the arrows to move",
 	press_context_to_get_up = "Press ~INPUT_DETONATE~ to ~b~get up~w~.",
 	lie_down = "lie down",
-	sit_down = "sit down",
+	sit_down = "Sit down",
 	job_menu = "job menu",
 	company_management_menu = "Company management menu",
 	vehicle_management_menu = "Vehicle management menu",
@@ -4094,6 +4094,11 @@ local my_language = {
 	cut_supply_line = "Cut supply line",
 	setup_in = "Setup",
 	fire_proof_x = "Fire %sm ago (%s)",
+	fires = "Fires",
+	no_available_seat = "~r~There is no available seat.",
+	instructions_sitting_mode = "Hold ~INPUT_VEH_HEADLIGHT~ for ~b~advanced options~w~",
+	instructions_sitting_mode_advanced = "~INPUT_DETONATE~ to ~b~get up~w~.",
+	instructions_seat = "~INPUT_CELLPHONE_LEFT~ | ~INPUT_CELLPHONE_RIGHT~ to move between seats.",
 }
 
 AddLanguage("en", my_language)

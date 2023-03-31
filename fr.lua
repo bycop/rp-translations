@@ -4091,6 +4091,11 @@ local my_language = {
 	cut_supply_line = "Couper la ligne d'approvisionnement",
 	setup_in = "Mise en place",
 	fire_proof_x = "Feu %sm (%s)",
+	fires = "Feux",
+	no_available_seat = "~r~Aucune place disponible.",
+	instructions_sitting_mode = "Maintenez ~INPUT_VEH_HEADLIGHT~ pour les ~b~options avancées",
+	instructions_sitting_mode_advanced = "~INPUT_DETONATE~ pour ~b~se lever~w~.",
+	instructions_seat = "~INPUT_CELLPHONE_LEFT~ | ~INPUT_CELLPHONE_RIGHT~ pour se déplacer entre les sièges.",
 }
 
 AddLanguage("fr", my_language)

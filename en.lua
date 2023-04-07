@@ -1910,7 +1910,7 @@ local my_language = {
 	settings = "Options",
 	map = "Map",
 	disable_idle_cam = "Disable idle cameras",
-	break_inventory = "Hides the character in the inventory and allows to move with the inventory open",
+	break_inventory = "Fix moving with the inventory open",
 	show_street_labels = "Show street labels (while in a car only)",
 	keep_flashlight_on = "Keep flashlight on",
 	call_taken_notifications = "Notifications call taken",
@@ -4103,6 +4103,11 @@ local my_language = {
 	tuna_sandwitch_wasted = "Tuna sandwitch wasted",
 	freeze = "Freeze",
 	drill_atm = "Drill ATM",
+	switch_seat = "Switch seat",
+	stand_up2 = "Stand up",
+	favorite_seat_animation = "Favorite seat animation",
+	queue_full = "~r~The queue is full.",
+	meuble = "Furniture",
 }
 
 AddLanguage("en", my_language)

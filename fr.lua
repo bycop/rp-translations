@@ -1910,7 +1910,7 @@ local my_language = {
 	settings = "Options",
 	map = "Carte",
 	disable_idle_cam = "Désactiver le mode inactif des caméras",
-	break_inventory = "Masque le personnage dans l’inventaire et permet de se déplacer l’inventaire ouvert",
+	break_inventory = "Fix le déplacement avec l’inventaire ouvert",
 	show_street_labels = "Afficher les noms de rue (uniquement en véhicule)",
 	keep_flashlight_on = "Garder lampe-torche allumée",
 	call_taken_notifications = "Notifications appel pris",
@@ -3880,7 +3880,7 @@ local my_language = {
 	photomode_timecycle = "Filtre",
 	photomode = "Mode Photo",
 	camera_instructions_new = "~INPUT_VEH_AIM~ pour activer la souris\n~INPUT_CELLPHONE_CAMERA_GRID~ pour cacher\n~INPUT_FRONTEND_RRIGHT~ pour quitter\nVous avez accès au menu d'animations.",
-	poster_limit_in_zone_fr = "~r~Il y a trop d'affiches dans cette zone, choisissez un autre endroit.",
+	poster_limit_in_zone = "~r~Il y a trop d'affiches dans cette zone, choisissez un autre endroit.",
 	premium_veh_desc = "Transférer ou faire apparaître votre véhicule premium",
 	spawn_on_me = "Faire apparaître sur moi",
 	must_be_close_garage_spawn = "~r~Vous devez être à proximité d'un garage pour faire apparaître le véhicule.",
@@ -4100,6 +4100,11 @@ local my_language = {
 	tuna_sandwitch_wasted = "Sandwich au thon",
 	freeze = "Freeze",
 	drill_atm = "Percer l'ATM",
+	switch_seat = "Changer de siège",
+	stand_up2 = "Se lever",
+	favorite_seat_animation = "Animation de siège préférée",
+	queue_full = "~r~La file d'attente est pleine.",
+	meuble = "Meuble",
 }
 
 AddLanguage("fr", my_language)

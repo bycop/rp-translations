@@ -4108,6 +4108,8 @@ local my_language = {
 	favorite_seat_animation = "Favorite seat animation",
 	queue_full = "~r~The queue is full.",
 	meuble = "Furniture",
+	created_event_x = "You created an event ~g~%s~w~.",
+	deleted_event_x = "You deleted the event ~r~%s~w~.",
 }
 
 AddLanguage("en", my_language)

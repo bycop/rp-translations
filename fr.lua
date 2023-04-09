@@ -4105,6 +4105,8 @@ local my_language = {
 	favorite_seat_animation = "Animation de siège préférée",
 	queue_full = "~r~La file d'attente est pleine.",
 	meuble = "Meuble",
+	created_event_x = "Vous avez créé un événement ~b~%s~w~.",
+	deleted_event_x = "Vous avez supprimé l'événement ~b~%s~w~.",
 }
 
 AddLanguage("fr", my_language)

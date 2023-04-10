@@ -4107,6 +4107,7 @@ local my_language = {
 	meuble = "Meuble",
 	created_event_x = "Vous avez créé un événement ~b~%s~w~.",
 	deleted_event_x = "Vous avez supprimé l'événement ~b~%s~w~.",
+	media_volume = "Volume média",
 }
 
 AddLanguage("fr", my_language)

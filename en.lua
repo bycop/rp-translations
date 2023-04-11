@@ -4111,6 +4111,18 @@ local my_language = {
 	created_event_x = "You created an event ~g~%s~w~.",
 	deleted_event_x = "You deleted the event ~r~%s~w~.",
 	media_volume = "Media volume",
+	gofast_explaination = "Explication Go Fast",
+	gofast_explaination_desc = "Go Fast are missions where you have to drive as fast as possible to earn a special reward. You can complete missions every days.",
+	gofast_status = "Go Fast status",
+	gofast_status_desc = "Check whether or not there is a gofast mission for you.",
+	gofast_get_mission = "Get a mission",
+	gofast_can_start = "~g~You can start a Go Fast mission.",
+	gofast_mission_cooldown = "~r~You cannot start a Go Fast mission right now.\n~w~You need to wait ~r~%s~w~.",
+	gofast_invalid_vehicle = "~r~This is not the vehicle you were supposed to deliver.",
+	gofast_success_reward_x = "<C>You completed the ~r~Go Fast~w~ mission.</C>\nReward: ~g~$%s\n",
+	psilocybin_seed = "Psilocybin seed",
+	psilocybin = "Psilocybin",
+	farm_no_seed = "~r~You don't have any seed.",
 }
 
 AddLanguage("en", my_language)

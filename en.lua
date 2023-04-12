@@ -4124,6 +4124,7 @@ local my_language = {
 	psilocybin = "Psilocybin",
 	farm_no_seed = "~r~You don't have any seed.",
 	football_field = "Football field",
+	self_service = "Self service",
 }
 
 AddLanguage("en", my_language)

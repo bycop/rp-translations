@@ -4123,6 +4123,9 @@ local my_language = {
 	farm_no_seed = "~r~Vous n'avez pas de graines.",
 	football_field = "Terrain de football",
 	self_service = "Service personnel",
+	bec_aigle = "Bec d'aigle",
+	philosopher_stone = "Pierre philosophale",
+	ancient_key = "Clé Antique",
 }
 
 AddLanguage("fr", my_language)

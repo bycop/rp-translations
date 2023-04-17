@@ -4125,6 +4125,9 @@ local my_language = {
 	farm_no_seed = "~r~You don't have any seed.",
 	football_field = "Football field",
 	self_service = "Self service",
+	bec_aigle = "Eagle",
+	philosopher_stone = "Philosopher stone",
+	ancient_key = "Ancient key",
 }
 
 AddLanguage("en", my_language)

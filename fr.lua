@@ -4126,6 +4126,7 @@ local my_language = {
 	bec_aigle = "Bec d'aigle",
 	philosopher_stone = "Pierre philosophale",
 	ancient_key = "Clé Antique",
+	see_logs = "Voir les logs",
 }
 
 AddLanguage("fr", my_language)

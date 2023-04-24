@@ -4129,6 +4129,7 @@ local my_language = {
 	philosopher_stone = "Philosopher stone",
 	ancient_key = "Ancient key",
 	see_logs = "See logs",
+	trophy = "Trophy",
 }
 
 AddLanguage("en", my_language)

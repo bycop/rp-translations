@@ -4130,6 +4130,7 @@ local my_language = {
 	ancient_key = "Ancient key",
 	see_logs = "See logs",
 	trophy = "Trophy",
+	character_will_come_back_here = "Your character will come back to this position.",
 }
 
 AddLanguage("en", my_language)

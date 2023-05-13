@@ -2255,6 +2255,7 @@ local my_language = {
 	paleto_hospital = "Paleto Bay Care Center",
 	westdyke_hospital = "Westdyke Medical Center",
 	bronx_hospital = "Bronx Emergency Center",
+	saintfiacre_hospital = "Saint Fiacre Medical Center",
 
 	alcool_test_x = "~r~Alcohol in blood:\n%s g/L",
 	drug_test_x = "~r~Drugs in blood:\n%s g/L",
@@ -4131,6 +4132,23 @@ local my_language = {
 	see_logs = "See logs",
 	trophy = "Trophy",
 	character_will_come_back_here = "Your character will come back to this position.",
+	skateboard = "Skateboard",
+	skateboard_create_instructions = "~INPUT_CONTEXT~ to pickup the skateboard.\n~INPUT_DETONATE~ to get on the skateboard.",
+	rename = "Rename",
+	change_position = "Change position",
+	you_moved_the_vehicle_position = "~g~You moved the vehicle position.",
+	gps_position = "GPS position",
+	pf2_upgrade = "Upgrade crew to affiliate",
+	crew_already_higher_stage = "~r~This crew is already at a higher stage.",
+	this_crew_already_higher_stage = "~r~This crew is already at a higher stage.",
+	crew_not_high_enough_rank_x = "You need to be at least ~r~rank %s~w~ to upgrade this crew.",
+	crew_not_enough_dirty_money_x = "You need ~r~$%s~w~ of dirty money to upgrade this crew.",
+	crew_not_enough_validations_x = "You need ~r~%s~w~ validations to upgrade this crew.",
+	crew_upgrade_success = "~g~You upgraded your crew to the next stage, congrats!\n~w~You paid ~r~$%s~w~.",
+	crew_not_primary = "~r~Your are not in a primary crew.",
+	crew_already_certified_by_you = "~r~This crew is already certified by you.",
+	crew_certification_received_by_x = "Your crew received a certification from ~g~%s~w~.",
+	crew_certification_success = "~g~You certified this crew.",
 }
 
 AddLanguage("en", my_language)

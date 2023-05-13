@@ -2255,6 +2255,7 @@ local my_language = {
 	paleto_hospital = "Paleto Bay Care Center",
 	westdyke_hospital = "Westdyke Medical Center",
 	bronx_hospital = "Bronx Emergency Center",
+	saintfiacre_hospital = "Saint Fiacre Medical Center",
 
 	alcool_test_x = "~r~Alcool dans le sang:\n%s g/L",
 	drug_test_x = "~r~Drogue dans le sang:\n%s g/L",
@@ -4129,6 +4130,23 @@ local my_language = {
 	see_logs = "Voir les logs",
 	trophy = "Trophée",
 	character_will_come_back_here = "Votre personnage reviendra ici.",
+	skateboard = "Skateboard",
+	skateboard_create_instructions = "~INPUT_CONTEXT~ pour ramasser le skateboard.\n~INPUT_DETONATE~ pour monter sur le skateboard.",
+	rename = "Renommer",
+	change_position = "Changer de position",
+	you_moved_the_vehicle_position = "~g~Vous avez déplacé la position du véhicule.",
+	gps_position = "Position GPS",
+	pf2_upgrade = "Amélioration crew en Affilié",
+	crew_already_higher_stage = "~r~Votre crew est déjà à un niveau supérieur.",
+	this_crew_already_higher_stage = "~r~Ce crew est déjà à un niveau supérieur.",
+	crew_not_high_enough_rank_x = "Vous devez être au moins ~r~niveau %s~w~ pour améliorer votre crew.",
+	crew_not_enough_dirty_money_x = "Vous n'avez pas assez d'argent sale pour améliorer votre crew.\n~r~$%s~w~ nécessaire.",
+	crew_not_enough_validations_x = "Vous n'avez pas assez de validations de groupe offi pour améliorer votre crew.\n~r~%s~w~ nécessaire.",
+	crew_upgrade_success = "~g~Vous avez amélioré le statut votre crew, bravo!\n~w~Vous avez payé ~r~$%s~w~.",
+	crew_not_primary = "~r~Vous n'êtes pas dans un crew primaire.",
+	crew_already_certified_by_you = "~r~Vous avez déjà certifié ce crew.",
+	crew_certification_received_by_x = "Vous avez reçu une certification de ~b~%s~w~.",
+	crew_certification_success = "~g~Vous avez certifié ce crew.",
 }
 
 AddLanguage("fr", my_language)

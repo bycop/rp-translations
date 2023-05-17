@@ -4147,6 +4147,12 @@ local my_language = {
 	crew_already_certified_by_you = "~r~Vous avez déjà certifié ce crew.",
 	crew_certification_received_by_x = "Vous avez reçu une certification de ~b~%s~w~.",
 	crew_certification_success = "~g~Vous avez certifié ce crew.",
+	armor_plate = "Plaque d'armure",
+	fixing_armor = "Réparation de l'armure",
+	armor_not_equipped = "~r~Vous n'avez pas d'armure équipée.",
+	no_broken_armor_inventory = "~r~Vous n'avez pas d'armure cassée dans votre inventaire.",
+	you_repaired_armor = "~g~Vous avez réparé votre armure.",
+	model_blacklisted_exterior = "~r~Modèle interdit en extérieur.",
 }
 
 AddLanguage("fr", my_language)

@@ -4155,6 +4155,12 @@ local my_language = {
 	no_broken_armor_inventory = "~r~You don't have any broken armor in your inventory.",
 	you_repaired_armor = "~g~You repaired your armor.",
 	model_blacklisted_exterior = "~r~This model is blacklisted for exterior use.",
+	store_equipment = "Store equipment",
+	you_stored_job_equipment = "~g~You stored your job equipment.",
+	cat_food2 = "Food",
+	no_trash_nearby = "~r~There is no relevant trash container nearby.",
+	pet_no_longer_following = "~r~Your pet is no longer following you.",
+	pet_now_following = "~g~Your pet is now following you.",
 }
 
 AddLanguage("en", my_language)

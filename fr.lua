@@ -3444,7 +3444,7 @@ local my_language = {
 	sit = "S'asseoir",
 	moo = "Meugler",
 	bark = "Aboyer",
-	beg = "Quémander",
+	beg = "Faire le beau",
 	peck = "Picorer",
 	idle = "Attente",
 	afk_rewarded_x = "Vous avez reçu ~g~$%s~w~ pour votre AFK.",
@@ -4153,6 +4153,12 @@ local my_language = {
 	no_broken_armor_inventory = "~r~Vous n'avez pas d'armure cassée dans votre inventaire.",
 	you_repaired_armor = "~g~Vous avez réparé votre armure.",
 	model_blacklisted_exterior = "~r~Modèle interdit en extérieur.",
+	store_equipment = "Ranger équipement",
+	you_stored_job_equipment = "~g~Vous avez rangé votre équipement de métier.",
+	cat_food2 = "Nourriture",
+	no_trash_nearby = "~r~Il n'y a pas de poubelle à proximité.",
+	pet_no_longer_following = "~r~Votre animal ne vous suit plus.",
+	pet_now_following = "~g~Votre animal vous suit.",
 }
 
 AddLanguage("fr", my_language)

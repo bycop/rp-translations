@@ -4161,6 +4161,17 @@ local my_language = {
 	no_trash_nearby = "~r~There is no relevant trash container nearby.",
 	pet_no_longer_following = "~r~Your pet is no longer following you.",
 	pet_now_following = "~g~Your pet is now following you.",
+	money_laundering = "Money laundering",
+	my_deposits = "My deposits",
+	withdraw_clean_money = "Withdraw clean money",
+	laundering_options = "Laundering options",
+	laundering_mode_x = "Max ~r~$%s~s~ (Rate ~r~%s%%~s~)",
+	deposit_x = "Deposit ~g~$%s~s~",
+	launder_max_amount_reached = "~r~You reached the maximum amount you can launder with this option.",
+	launder_you_already_have_a_pending_deposit = "~r~You already have a pending deposit, please wait or withdraw it.",
+	laundering_deposit_success_x_interval_x = "You deposited ~g~$%s~s~.\nCome back in ~g~%s hours~s~ to get your clean money back.",
+	launder_cant_withdraw_yet_x = "~r~You cannot withdraw your money now.\n~s~Please wait ~r~%s",
+	launder_success_money_x_fee_x = "You withdrew ~g~$%s~s~ of clean money.\nFee: ~r~$%s",
 }
 
 AddLanguage("en", my_language)

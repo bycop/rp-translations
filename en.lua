@@ -2474,7 +2474,7 @@ local my_language = {
 	mission_drug_ans_1 = "~g~Buy my stuff",
 
 	hq_added_map = "GPS updated.\n~b~Company headquarters (job vehicle and help)",
-	anim_actions = "Actions anim",
+	anim_actions = "Actions",
 	gestures = "Gestures",
 	expressions = "Expressions",
 	positions = "Positions",
@@ -3288,9 +3288,10 @@ local my_language = {
 	target_denied_synced_anim_request = "~r~The target denied your synchronized animation request.",
 	you_denied_synced_anim_request = "~r~You have denied the synchronized animation request.",
 	request_synced_anim_x = "~b~You received a synced animation request.\n~w~Press: ~g~E~w~ to accept or ~r~R~w~ to deny.",
+	request_synced_anim2_x = "You received a synced animation request ~b~(%s)~w~.\n~w~Press: ~g~E~w~ to accept or ~r~R~w~ to deny.",
 	wait_before_new_request = "~r~You must wait before sending a new request.",
 
-	synced_anims = "Synced anims",
+	synced_anims = "Synchro",
 	anim_handshake = "Handshake",
 	anim_hug = "Hug",
 	anim_bro = "Bro",
@@ -4172,6 +4173,15 @@ local my_language = {
 	laundering_deposit_success_x_interval_x = "You deposited ~g~$%s~s~.\nCome back in ~g~%s hours~s~ to get your clean money back.",
 	launder_cant_withdraw_yet_x = "~r~You cannot withdraw your money now.\n~s~Please wait ~r~%s",
 	launder_success_money_x_fee_x = "You withdrew ~g~$%s~s~ of clean money.\nFee: ~r~$%s",
+	animals = "Animals",
+	disable_anim_preview = "Disable animation preview",
+	cancel_anim = "Cancel animation",
+	police_anim = "Police",
+	emote = "Emote",
+	food = "Food",
+	gang = "Gang",
+	item = "Item",
+	violence = "Violence",
 }
 
 AddLanguage("en", my_language)

@@ -4180,6 +4180,8 @@ local my_language = {
 	gang = "Gang",
 	item = "Objet",
 	violence = "Violence",
+	admin_mode = "Mode admin",
+	admin_service_toggled_x = "Mode admin: %s~s~.",
 }
 
 AddLanguage("fr", my_language)

@@ -2001,7 +2001,7 @@ local my_language = {
 	character_not_yours = "This character is not yours.",
 	character_does_not_exist = "This character does not exist or does not longer exist.",
 	loading_character = "Loading your character...",
-	playtime_is = "~b~Your playtime on GLife:\n~w~%s",
+	playtime_is = "~b~Your playtime:\n~w~%s",
 	dont_spam = "^1Do not spam!",
 
 	you_wiped_x = "You wiped %s.",

@@ -2001,7 +2001,7 @@ local my_language = {
 	character_not_yours = "Ce personnage n'est pas le vôtre.",
 	character_does_not_exist = "Ce personnage n'existe pas ou n'existe plus.",
 	loading_character = "Chargement de votre personnage...",
-	playtime_is = "~b~Votre temps de jeu sur GLife:\n~w~%s",
+	playtime_is = "~b~Votre temps de jeu:\n~w~%s",
 	dont_spam = "^1Ne pas spam!",
 
 	you_wiped_x = "Vous avez wipe %s.",

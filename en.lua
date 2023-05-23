@@ -4184,6 +4184,7 @@ local my_language = {
 	violence = "Violence",
 	admin_mode = "Admin mode",
 	admin_service_toggled_x = "Admin mode: %s~s~.",
+	open_veh_or_loot = "Open vehicle trunk & search a player",
 }
 
 AddLanguage("en", my_language)

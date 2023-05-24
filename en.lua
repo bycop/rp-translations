@@ -350,6 +350,7 @@ local my_language = {
 	goto_player = "Goto player",
 	bring_player = "Bring player",
 	return_player = "Return player from bring position",
+	ban_player = "Ban player",
 	kick_player = "Kick player",
 	warn_player = "Warn player",
 	warns_list = "Warns list",

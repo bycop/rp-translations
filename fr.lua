@@ -350,6 +350,7 @@ local my_language = {
 	goto_player = "Se téléporter au joueur",
 	bring_player = "Téléporter le joueur sur soi",
 	return_player = "Retourner le joueur à sa position avant bring",
+	ban_player = "Bannir le joueur",
 	kick_player = "Kick le joueur",
 	warn_player = "Avertir le joueur",
 	warns_list = "Liste des warns",

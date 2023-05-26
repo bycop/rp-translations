@@ -4186,6 +4186,7 @@ local my_language = {
 	admin_mode = "Admin mode",
 	admin_service_toggled_x = "Admin mode: %s~s~.",
 	open_veh_or_loot = "Open vehicle trunk & search a player",
+	stealth_spectate = "Stealth spectate",
 }
 
 AddLanguage("en", my_language)

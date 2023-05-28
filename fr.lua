@@ -4185,6 +4185,8 @@ local my_language = {
 	admin_service_toggled_x = "Mode admin: %s~s~.",
 	open_veh_or_loot = "Ouvrir le coffre du véhicule & fouiller un joueur",
 	stealth_spectate = "Spectate furtif",
+	scratch_card = "Ticket à gratter",
+	full_custom_ticket = "Ticket full custom",
 }
 
 AddLanguage("fr", my_language)

@@ -3825,6 +3825,7 @@ local my_language = {
 	lottery = "Lottery",
 	money_received_x = "You received ~g~$%s~w~.",
 	free_property_days_received_x = "You received ~g~%s~w~ free days for any property rent.",
+	free_premium_cars_received_x = "You received ~g~%s~w~ a free purchase of any premium vehicle.",
 	property_free_days = "You have free property days to use, you can rent a property for free.",
 	property_rent_free = "Rent with free days",
 	property_no_free_days = "~r~You don't have any free days to use.",
@@ -4189,6 +4190,9 @@ local my_language = {
 	stealth_spectate = "Stealth spectate",
 	scratch_card = "Scratch card",
 	full_custom_ticket = "Full custom ticket",
+	free_property_days = "Free property days",
+	free_premium_cars = "Free premium cars",
+	max_world_props = "~r~You reached the maximum amount of world props.",
 }
 
 AddLanguage("en", my_language)

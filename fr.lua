@@ -3823,6 +3823,7 @@ local my_language = {
 	lottery = "Loterie",
 	money_received_x = "Vous avez reçu ~g~$%s~w~.",
 	free_property_days_received_x = "Vous avez reçu ~g~%s~w~ jours gratuits pour la location de n'importe quelle propriété.",
+	free_premium_cars_received_x = "Vous avez reçu ~g~%s~w~ achat gratuit de n'importe quel véhicule premium.",
 	property_free_days = "Vous avez des jours gratuits pour louer une propriété.",
 	property_rent_free = "Louer avec mes jours gratuits",
 	property_no_free_days = "~r~Vous n'avez pas de jours gratuits pour louer une propriété.",
@@ -4187,6 +4188,9 @@ local my_language = {
 	stealth_spectate = "Spectate furtif",
 	scratch_card = "Ticket à gratter",
 	full_custom_ticket = "Ticket full custom",
+	free_property_days = "Jours de propriété gratuits",
+	free_premium_cars = "Voitures premium gratuites",
+	max_world_props = "~r~Vous avez atteint le nombre maximum d'objets dans le monde.",
 }
 
 AddLanguage("fr", my_language)

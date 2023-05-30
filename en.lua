@@ -3653,10 +3653,10 @@ local my_language = {
 	veh_commission = "Vehicle commission",
 	offshore_transfer = "Offshore transfer",
 
-	gcoins_wallet_updated = "~g~You GCoins wallet has been updated.\n~w~+%s GCoins",
-	not_enough_gcoins = "~r~You do not have enough GCoins.",
+	gcoins_wallet_updated = "~g~You %s wallet has been updated.\n~w~+%s %s",
+	not_enough_gcoins = "~r~You do not have enough %s.",
 	gcoins_something_went_wrong = "~r~Something went wrong.",
-	you_bought_with_gcoins = "You bought ~g~%s~w~ for ~b~%s GCoins~w~.",
+	you_bought_with_gcoins = "You bought ~g~%s~w~ for ~b~%s %s~w~.",
 	open_glife_menu = "Open RP dashboard",
 
 	property_cannot_update_owned_pro = "~r~You cannot update a property is owned by a player.",
@@ -3852,7 +3852,7 @@ local my_language = {
 	crate_received_x_type_x = "You received a ~b~%s~w~ case.\n~w~Type ~g~/armurerie~w~ to open it.",
 	crates = "Cases",
 	crate_no_more = "~r~You don't have any more case of this type to open.",
-	gcoins_received_x = "You received ~y~%s GCoins~w~.",
+	gcoins_received_x = "You received ~y~%s %s~w~.",
 	loot_crate_open_message = "~b~Loot crate rewards are delivered immediately, vehicles can be retrieved from the pound yard.",
 	add_pound_yard = "Add pound yard",
 	add_ls_custom = "Add LS Custom",

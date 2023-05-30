@@ -3652,10 +3652,10 @@ local my_language = {
 	veh_commission = "Commission voiture",
 	offshore_transfer = "Transfert offshore",
 
-	gcoins_wallet_updated = "~g~Vos GCoins ont été mis à jour.\n~w~+%s GCoins",
-	not_enough_gcoins = "~r~Vous n'avez pas suffisamment de GCoins.",
+	gcoins_wallet_updated = "~g~Vos %s ont été mis à jour.\n~w~+%s %s",
+	not_enough_gcoins = "~r~Vous n'avez pas suffisamment de %s.",
 	gcoins_something_went_wrong = "~r~Quelque chose s'est mal passé.",
-	you_bought_with_gcoins = "Vous avez acheté ~g~%s~w~ pour ~b~%s GCoins~w~.",
+	you_bought_with_gcoins = "Vous avez acheté ~g~%s~w~ pour ~b~%s %s~w~.",
 	open_glife_menu = "Ouvrir le dashboard RP",
 
 	property_cannot_update_owned_pro = "~r~Vous ne pouvez pas mettre à jour une propriété achetée par un joueur.",
@@ -3852,7 +3852,7 @@ local my_language = {
 	crate_received_x_type_x = "Vous avez reçu une caisse ~b~%s~w~.\n~w~Tapez ~g~/armurerie~w~ pour l'ouvrir.",
 	crates = "Caisses",
 	crate_no_more = "~r~Vous n'avez plus de caisse de ce type à ouvrir.",
-	gcoins_received_x = "Vous avez reçu ~y~%s GCoins~w~.",
+	gcoins_received_x = "Vous avez reçu ~y~%s %s~w~.",
 	loot_crate_open_message = "~b~Les récompenses des caisses loot sont livrées immédiatement, les véhicules peuvent être récupérés de la fourrière.",
 	add_pound_yard = "Ajouter une fourrière",
 	add_ls_custom = "Ajouter un LS Custom",

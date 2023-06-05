@@ -236,6 +236,7 @@ local my_language = {
 	broken_weapon = "~r~Please report this weapon to mods, it has a bug.",
 	equipped_weapon = "You equipped your ~g~%s~w~.",
 	expired_uses = "~r~Item uses expired",
+	remaining_uses = "Remaining uses: ~b~%s~w~.",
 	used_item_ply = "You used ~g~%s~w~ on ~g~someone~w~. (%s)",
 	wrong_sex = "~r~Impossible.~n~~w~These clothes are made for another ped sex.",
 	stored_cloth = "You ~g~stored~w~ your ~y~%s~w~.",

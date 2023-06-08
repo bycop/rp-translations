@@ -236,6 +236,7 @@ local my_language = {
 	broken_weapon = "~r~Veuillez signaler cette arme à un admin, elle ne fonctionne pas.",
 	equipped_weapon = "Vous avez équipé votre ~g~%s~w~.",
 	expired_uses = "~r~Nombre d'utilisations expiré",
+	remaining_uses = "Il vous reste ~b~%s~w~ utilisation(s).",
 	used_item_ply = "Vous avez utilisé ~g~%s~w~ sur ~g~quelqu'un~w~. (%s)",
 	wrong_sex = "~r~Impossible.~n~~w~Vous n'avez pas la carrure.",
 	stored_cloth = "Vous avez ~g~rangé~w~ votre ~y~%s~w~.",

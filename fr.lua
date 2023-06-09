@@ -4214,6 +4214,7 @@ local my_language = {
 	drop_in_vehicle = "déposer dans le véhicule",
 	illegal_transaction_confirmed_x = "Transaction illégale de ~b~%sx %s~s~.",
 	max_daily_crew_robbery_reached = "~r~Vous avez atteint le nombre maximum de braquages par jour pour votre crew.",
+	flags = "Attributs",
 }
 
 AddLanguage("fr", my_language)

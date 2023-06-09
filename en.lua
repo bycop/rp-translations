@@ -4215,6 +4215,7 @@ local my_language = {
 	drop_in_vehicle = "drop in vehicle",
 	illegal_transaction_confirmed_x = "Illegal transaction of ~b~%sx %s~s~.",
 	max_daily_crew_robbery_reached = "~r~You reached the maximum amount of daily robberies for your crew.",
+	flags = "Flags",
 }
 
 AddLanguage("en", my_language)

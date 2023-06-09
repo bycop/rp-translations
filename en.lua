@@ -4216,6 +4216,8 @@ local my_language = {
 	illegal_transaction_confirmed_x = "Illegal transaction of ~b~%sx %s~s~.",
 	max_daily_crew_robbery_reached = "~r~You reached the maximum amount of daily robberies for your crew.",
 	flags = "Flags",
+	convert_to_dirty_money = "Convert to dirty money",
+	you_converted_money_to_dirty_x = "You converted ~g~$%s~s~ to dirty money.",
 }
 
 AddLanguage("en", my_language)

@@ -4218,6 +4218,10 @@ local my_language = {
 	flags = "Flags",
 	convert_to_dirty_money = "Convert to dirty money",
 	you_converted_money_to_dirty_x = "You converted ~g~$%s~s~ to dirty money.",
+	custom_item_created_x = "You created a custom item ~b~'%s'~s~.",
+	custom_item_deleted_x = "You deleted a custom item ~b~'%s'~s~.",
+	item_no_longer_exists = "~r~This item no longer exists.",
+	load_preset = "Load preset",
 }
 
 AddLanguage("en", my_language)

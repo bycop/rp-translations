@@ -4217,6 +4217,10 @@ local my_language = {
 	flags = "Attributs",
 	convert_to_dirty_money = "Convertir en argent sale",
 	you_converted_money_to_dirty_x = "Vous avez converti ~g~$%s~s~ en argent sale.",
+	custom_item_created_x = "Vous avez créé un objet custom: ~b~%s~s~.",
+	custom_item_deleted_x = "Vous avez supprimé un objet custom: ~b~%s~s~.",
+	item_no_longer_exists = "~r~Cet objet n'existe plus.",
+	load_preset = "Charger un preset",
 }
 
 AddLanguage("fr", my_language)

@@ -4243,6 +4243,7 @@ local my_language = {
 	holding_vest_siege_2 = "Tenir GPB attente 2",
 	radio_left = "Tenir radio 1",
 	holding_radio = "Tenir radio 2",
+	weapon_tecpistol = "Mitraillette tactique",
 }
 
 AddLanguage("fr", my_language)

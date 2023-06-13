@@ -4244,6 +4244,7 @@ local my_language = {
 	holding_vest_siege_2 = "Holding vest siege 2",
 	radio_left = "Holding radio 1",
 	holding_radio = "Holding radio 2",
+	weapon_tecpistol = "Tactical SMG",
 }
 
 AddLanguage("en", my_language)

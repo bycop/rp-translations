@@ -4270,6 +4270,8 @@ local my_language = {
 	create_trailer = "Create trailer",
 	trailer_already_created = "~r~You already created a trailer.",
 	carrying_x_item = "Carrying ~b~%sx %s~s~.",
+	press_x_open_container_or_x_carry = "Press %s to open container or %s to carry the content.",
+	contaner_empty = "~r~This container is empty.",
 }
 
 AddLanguage("en", my_language)

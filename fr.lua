@@ -4269,6 +4269,8 @@ local my_language = {
 	create_trailer = "Créer remorque",
 	trailer_already_created = "~r~Vous avez déjà créé une remorque.",
 	carrying_x_item = "Vous portez ~b~%sx %s~s~.",
+	press_x_open_container_or_x_carry = "Appuyez sur %s pour ouvrir le conteneur ou %s pour transporter le contenu.",
+	contaner_empty = "~r~Ce conteneur est vide.",
 }
 
 AddLanguage("fr", my_language)

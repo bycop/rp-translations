@@ -4245,6 +4245,8 @@ local my_language = {
 	radio_left = "Holding radio 1",
 	holding_radio = "Holding radio 2",
 	weapon_tecpistol = "Tactical SMG",
+	press_x_open_container_or_x_carry = "Press %s to open container or %s to carry the content.",
+	contaner_empty = "~r~This container is empty.",
 }
 
 AddLanguage("en", my_language)

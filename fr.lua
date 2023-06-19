@@ -4280,6 +4280,9 @@ local my_language = {
 	hydrogen = "Hydrogène",
 	carbon = "Carbone",
 	chloride = "Chlore",
+	lab_type = "Type de laboratoire",
+	lab_type_set_x = "Vous avez défini le type de laboratoire sur ~b~%s~s~.",
+	lab_type_not_allowed = "~r~Vous n'êtes pas autorisé à utiliser ce type de laboratoire.",
 }
 
 AddLanguage("fr", my_language)

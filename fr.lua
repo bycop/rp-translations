@@ -4216,6 +4216,7 @@ local my_language = {
 	drop = "Déposer",
 	drop_in_vehicle = "déposer dans le véhicule",
 	illegal_transaction_confirmed_x = "Transaction illégale de ~b~%sx %s~s~.",
+	company_transaction_confirmed_x = "Transaction entreprise de ~b~%sx %s~s~.",
 	max_daily_crew_robbery_reached = "~r~Vous avez atteint le nombre maximum de braquages par jour pour votre crew.",
 	flags = "Attributs",
 	convert_to_dirty_money = "Convertir en argent sale",
@@ -4283,6 +4284,7 @@ local my_language = {
 	lab_type = "Type de laboratoire",
 	lab_type_set_x = "Vous avez défini le type de laboratoire sur ~b~%s~s~.",
 	lab_type_not_allowed = "~r~Vous n'êtes pas autorisé à utiliser ce type de laboratoire.",
+	place_on_ground = "Placer au sol",
 }
 
 AddLanguage("fr", my_language)

@@ -1541,7 +1541,7 @@ local my_language = {
 	phone_restarting = "~r~Votre téléphone se relance...",
 	no_active_phone = "~r~Vous n'avez pas indiqué de téléphone actif.",
 	active_phone_sets_x = "~g~Le téléphone actif a été défini sur ~b~%s~g~.",
-	camera_instructions = "Appuyez sur ~INPUT_FRONTEND_UP~ pour la caméra frontale.\n~INPUT_ATTACK~ pour prendre une photo.\n~INPUT_FRONTEND_LEFT~ ~INPUT_FRONTEND_RIGHT~ filtres ~INPUT_CELLPHONE_CAMERA_GRID~ cacher.",
+	camera_instructions = "Appuyez sur ~INPUT_FRONTEND_UP~ pour la caméra frontale.\n~INPUT_ENTER~ pour prendre une photo.\n~INPUT_FRONTEND_LEFT~ ~INPUT_FRONTEND_RIGHT~ filtres ~INPUT_CELLPHONE_CAMERA_GRID~ cacher.",
 	weather_extrasunny = "Ensoleillé",
 	weather_clear = "Dégagé",
 	weather_clouds = "Nuageux",
@@ -4285,6 +4285,17 @@ local my_language = {
 	lab_type_set_x = "Vous avez défini le type de laboratoire sur ~b~%s~s~.",
 	lab_type_not_allowed = "~r~Vous n'êtes pas autorisé à utiliser ce type de laboratoire.",
 	place_on_ground = "Placer au sol",
+	company_delivery = "Livraison entreprise",
+	dock_delivery = "Livraison quai",
+	delivery_too_close_export_spot = "~r~Vous êtes trop proche d'un point d'exportation.",
+	not_in_forklift = "~r~Vous n'êtes pas dans un chariot élévateur.",
+	forklift_already_has_package = "~r~Ce chariot élévateur porte déjà un colis.",
+	forklift_missing_package = "~r~Ce chariot élévateur ne porte pas de colis.",
+	press_forklift_instructions_a = "~INPUT_VEH_DUCK~ pour prendre un colis dans un véhicule.",
+	press_forklift_instructions_b = "~INPUT_VEH_DUCK~ pour déposer dans un véhicule.\n~INPUT_CONTEXT~ pour livrer.",
+	delivery_too_far_delivery_spot = "~r~Vous êtes trop loin d'un point de livraison.",
+	you_delivered_amount_x = "Vous avez livré ~b~%sx %s~w~. ~g~+$%s",
+	company_do_not_deliver_this_product = "~r~Votre entreprise ne livre pas ce produit.",
 }
 
 AddLanguage("fr", my_language)

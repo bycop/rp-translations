@@ -1541,7 +1541,7 @@ local my_language = {
 	phone_restarting = "~r~The phone restarts",
 	no_active_phone = "~r~You have not specified an active phone.",
 	active_phone_sets_x = "~g~The active phone has been set to ~b~%s~g~.",
-	camera_instructions = "Press ~INPUT_FRONTEND_UP~ for the front camera.\n~INPUT_ATTACK~ to take a picture.\n~INPUT_FRONTEND_LEFT~ ~INPUT_FRONTEND_RIGHT~ for the filters ~INPUT_CELLPHONE_CAMERA_GRID~ hide.",
+	camera_instructions = "Press ~INPUT_FRONTEND_UP~ for the front camera.\n~INPUT_ENTER~ to take a picture.\n~INPUT_FRONTEND_LEFT~ ~INPUT_FRONTEND_RIGHT~ for the filters ~INPUT_CELLPHONE_CAMERA_GRID~ hide.",
 	weather_extrasunny = "Sunny",
 	weather_clear = "Clear",
 	weather_clouds = "Cloudy",
@@ -4286,6 +4286,17 @@ local my_language = {
 	lab_type_set_x = "You set the laboratory type to ~b~%s~s~.",
 	lab_type_not_allowed = "~r~You are not allowed to use this type of laboratory.",
 	place_on_ground = "Place on ground",
+	company_delivery = "Company delivery",
+	dock_delivery = "Dock delivery",
+	delivery_too_close_export_spot = "~r~You are too close to the export spot.",
+	not_in_forklift = "~r~You are not in a forklift.",
+	forklift_already_has_package = "~r~This forklift is already carrying a package.",
+	forklift_missing_package = "~r~This forklift is not carrying a package.",
+	press_forklift_instructions_a = "~INPUT_VEH_DUCK~ to pick up a package from a vehicle.",
+	press_forklift_instructions_b = "~INPUT_VEH_DUCK~ to drop in a vehicle.\n~INPUT_CONTEXT~ to deliver.",
+	delivery_too_far_delivery_spot = "~r~You are too far from the delivery spot.",
+	you_delivered_amount_x = "You delivered ~b~%sx %s~w~. ~g~+$%s",
+	company_do_not_deliver_this_product = "~r~Your company does not deliver this product.",
 }
 
 AddLanguage("en", my_language)

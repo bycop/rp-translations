@@ -2216,7 +2216,7 @@ local my_language = {
 	revived_wounded = "~g~Reanimated\n~w~You have just been revived, you are injured.",
 	healed_by_medic = "~g~Healed\n~w~You have been treated by a doctor, you are no longer injured.",
 	inconscious_press = "~r~You are now unconscious.",
-	press_incouscious = "Call: ~g~E ~w~or ~r~Y",
+	press_incouscious = "Call the hospital: ~g~E ~w~or ~r~Y",
 	wounded_you = "You have been wounded.",
 	you_called_emergency = "~b~You called the emergency.",
 	wait_before_call_x = "~r~Wait %s seconds before calling again.",
@@ -4297,6 +4297,15 @@ local my_language = {
 	delivery_too_far_delivery_spot = "~r~You are too far from the delivery spot.",
 	you_delivered_amount_x = "You delivered ~b~%sx %s~w~. ~g~+$%s",
 	company_do_not_deliver_this_product = "~r~Your company does not deliver this product.",
+	fuel_tank_instructions = "~b~[%s]~w~ Fuel in oil pump: ~g~%sL~w~\n~INPUT_VEH_HEADLIGHT~ to add fuel into pump.",
+	go_to_hospital = "go to the hospital",
+	magic_bean = "Magic bean",
+	heal_will_pay_x_for_healing = "You will be invoiced ~g~$%s~s~ for resting in the hospital at the end of the timer.",
+	heal_paid_x_for_healing = "You paid ~g~$%s~s~ for resting in the hospital.",
+	heal_already_well = "~g~You are already well.",
+	heal_did_not_afford_to_pay_healing = "~r~You did not afford to pay for healing.",
+	kevlar_equipped_armor_x = "You equipped a kevlar. ~b~(%s/100)",
+	prop_model = "Prop model",
 }
 
 AddLanguage("en", my_language)

@@ -2216,7 +2216,7 @@ local my_language = {
 	revived_wounded = "~g~Réanimé\n~w~Vous venez d'être réanimé, vous êtes blessé.",
 	healed_by_medic = "~g~Soigné\n~w~Vous avez été soigné par un médecin.",
 	inconscious_press = "~r~Vous êtes désormais inconscient.",
-	press_incouscious = "Appeler: ~g~E ~w~or ~r~Y",
+	press_incouscious = "Appeler les EMS: ~g~E ~w~or ~r~Y",
 	wounded_you = "Vous avez été blessé.",
 	you_called_emergency = "~b~Vous avez appelé les secours.",
 	wait_before_call_x = "~r~Patientez %s secondes avant d'appeler à nouveau.",
@@ -4296,6 +4296,16 @@ local my_language = {
 	delivery_too_far_delivery_spot = "~r~Vous êtes trop loin d'un point de livraison.",
 	you_delivered_amount_x = "Vous avez livré ~b~%sx %s~w~. ~g~+$%s",
 	company_do_not_deliver_this_product = "~r~Votre entreprise ne livre pas ce produit.",
+	interact_with_tank = "intéragir avec le réservoir",
+	fuel_tank_instructions = "~b~[%s]~w~ Carburant dans la pompe: ~g~%sL~w~\n~INPUT_VEH_HEADLIGHT~ pour ajouter du carburant.",
+	go_to_hospital = "aller à l'hôpital",
+	magic_bean = "Haricot magique",
+	heal_will_pay_x_for_healing = "Vous serez facturé ~g~%s$~s~ pour vous être reposé à l'hôpital à la fin du temps.",
+	heal_paid_x_for_healing = "Vous avez payé ~g~%s$~s~ pour vous être reposé à l'hôpital.",
+	heal_already_well = "~g~Vous êtes déjà en bonne santé.",
+	heal_did_not_afford_to_pay_healing = "~r~Vous n'avez pas pu payer la facture de l'hôpital.",
+	kevlar_equipped_armor_x = "Vous avez équipé un gilet pare-balles. ~b~(%s/100)",
+	prop_model = "Model de l'objet",
 }
 
 AddLanguage("fr", my_language)

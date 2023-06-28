@@ -4298,6 +4298,7 @@ local my_language = {
 	you_delivered_amount_x = "You delivered ~b~%sx %s~w~. ~g~+$%s",
 	company_do_not_deliver_this_product = "~r~Your company does not deliver this product.",
 	fuel_tank_instructions = "~b~[%s]~w~ Fuel in oil pump: ~g~%sL~w~\n~INPUT_VEH_HEADLIGHT~ to add fuel into pump.",
+	fuel_computer_alt_instructions = "~b~[%s]~w~ ~INPUT_CHARACTER_WHEEL~ to control.\nPump: %s",
 	go_to_hospital = "go to the hospital",
 	magic_bean = "Magic bean",
 	heal_will_pay_x_for_healing = "You will be invoiced ~g~$%s~s~ for resting in the hospital at the end of the timer.",
@@ -4306,6 +4307,12 @@ local my_language = {
 	heal_did_not_afford_to_pay_healing = "~r~You did not afford to pay for healing.",
 	kevlar_equipped_armor_x = "You equipped a kevlar. ~b~(%s/100)",
 	prop_model = "Prop model",
+	refilled_oil_pump_x = "You refilled ~r~+%sL of fuel~w~ into the pump.",
+	pump_enabled = "Pump enabled",
+	fuel_output_zone_x = "Oil available [~b~%sL]~w~\n%s to %s~w~ the closest valve.",
+	cat_mirrors = "Mirrors",
+	open_color = "~g~open",
+	close_color = "~r~close",
 }
 
 AddLanguage("en", my_language)

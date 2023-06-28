@@ -4298,6 +4298,7 @@ local my_language = {
 	company_do_not_deliver_this_product = "~r~Votre entreprise ne livre pas ce produit.",
 	interact_with_tank = "intéragir avec le réservoir",
 	fuel_tank_instructions = "~b~[%s]~w~ Carburant dans la pompe: ~g~%sL~w~\n~INPUT_VEH_HEADLIGHT~ pour ajouter du carburant.",
+	fuel_computer_alt_instructions = "~b~[%s]~w~ ~INPUT_CHARACTER_WHEEL~ pour contrôler\nStatut: %s",
 	go_to_hospital = "aller à l'hôpital",
 	magic_bean = "Haricot magique",
 	heal_will_pay_x_for_healing = "Vous serez facturé ~g~%s$~s~ pour vous être reposé à l'hôpital à la fin du temps.",
@@ -4306,6 +4307,12 @@ local my_language = {
 	heal_did_not_afford_to_pay_healing = "~r~Vous n'avez pas pu payer la facture de l'hôpital.",
 	kevlar_equipped_armor_x = "Vous avez équipé un gilet pare-balles. ~b~(%s/100)",
 	prop_model = "Model de l'objet",
+	refilled_oil_pump_x = "Vous avez rajouté ~r~+%sL de carburant~w~ dans la pompe.",
+	pump_enabled = "Pompe activée",
+	fuel_output_instructions_x = "Pétrole disponible ~b~[%sL]~w~\n%s pour %s~w~ une valve.",
+	cat_mirrors = "Miroirs",
+	open_color = "~g~ouvrir",
+	close_color = "~r~fermer",
 }
 
 AddLanguage("fr", my_language)

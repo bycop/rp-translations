@@ -3286,6 +3286,7 @@ local my_language = {
 	need_water = "Eau",
 	need_light = "Lumière",
 	need_air = "Air",
+	need_food = "Nourriture",
 
 	eat_meal_restaurant_more_food = "~r~Vous devez manger de la meilleure nourriture, comme un repas dans un restaurant afin de vous rassasier.",
 
@@ -4333,6 +4334,15 @@ local my_language = {
 	press_x_transfer_x_to_supply_line = "~g~[Supply Line]\n~w~%s pour envoyer ~b~%sx %s~w~.",
 	press_x_retrive_x_from_supply_line = "~g~[Supply Line]\n~w~%s pour récupérer ~b~%sx %s~w~.\n\n~r~[%s items] ~w~en cours de traitement.\n~g~[%s items] ~w~prêt à être récupéré.",
 	supply_line_no_item_ready = "~r~Aucun item n'est prêt à être récupéré.",
+	prod_cow = "Vache",
+	prod_pig = "Cochon",
+	prod_rabbit = "Lapin",
+	prod_horse = "Cheval",
+	prod_chicken = "Poulet",
+	prod_feeding_through = "Alimentation",
+	prod_water_through = "Abrevoir",
+	prod_feeding_through_chicken = "Alimentation poulet",
+	prod_water_through_chicken = "Abrevoir poulet",
 }
 
 AddLanguage("fr", my_language)

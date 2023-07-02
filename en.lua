@@ -304,6 +304,7 @@ local my_language = {
 	you_processed_x_x = "You got ~g~%s. ~b~+%s",
 	you_sold_x_for_x = "You sold ~g~%s. ~b~+1 ~w~for ~b~$%s",
 	you_collected_x = "You collected ~b~%sx %s~w~.",
+	you_sent_x_to_transformation = "You sent ~b~%sx %s~w~ to the supply line.",
 
 	-- Activity: HQ
 	get_vehicle = "Spawn vehicle",
@@ -3214,7 +3215,7 @@ local my_language = {
 	oil = "Oil",
 	tire = "Tire",
 	brakes = "Brakes",
-	scrap = "Scrap",
+	scrap2 = "Scrap",
 	inspect_vehicle = "Inspect vehicle",
 	repair_job_required = "~r~You need to visite a garage and talk to someone for this repair.",
 	ranger = "Ranger",
@@ -4322,6 +4323,12 @@ local my_language = {
 	refilling = "Refilling",
 	vehicle_must_not_be_running = "~r~The vehicle engine must not be running.",
 	fuel_canister_empty = "~r~This fuel canister is empty.",
+	gold_ore = "Gold ore",
+	steel_ore = "Steel ore",
+	ore = "Ore",
+	press_x_transfer_x_to_supply_line = "~g~[Supply Line]\n~w~%s to send ~b~%sx %s.",
+	press_x_retrive_x_from_supply_line = "~g~[Supply Line]\n~w~%s to retrieve ~b~%sx %s~w~.\n\n~r~[%s items] ~w~being processed.\n~g~[%s items] ~w~ready to be retrieved.",
+	supply_line_no_item_ready = "~r~No item ready to be retrieved.",
 }
 
 AddLanguage("en", my_language)

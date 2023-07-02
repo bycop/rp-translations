@@ -304,6 +304,7 @@ local my_language = {
 	you_processed_x_x = "Vous avez traité votre ~g~%s. ~b~+%s",
 	you_sold_x_for_x = "Vous avez vendu votre ~g~%s. ~b~+1 ~w~à ~b~$%s",
 	you_collected_x = "Vous avez collecté ~b~%sx %s~w~.",
+	you_sent_x_to_transformation = "Vous avez envoyé ~b~%sx %s~w~ dans la ligne de transformation.",
 
 	-- Activity: HQ
 	get_vehicle = "Sortir le véhicule",
@@ -3214,7 +3215,7 @@ local my_language = {
 	oil = "Huile",
 	tire = "Pneu",
 	brakes = "Freins",
-	scrap = "Ferraille",
+	scrap2 = "Ferraille",
 	inspect_vehicle = "Inspecter",
 	repair_job_required = "~r~Vous devez vous rendre dans un garage et parler à quelqu'un pour cette réparation.",
 	ranger = "Ranger",
@@ -4322,6 +4323,12 @@ local my_language = {
 	refilling = "Remplissage",
 	vehicle_must_not_be_running = "~r~Le moteur du véhicule ne doit pas être en marche.",
 	fuel_canister_empty = "~r~Ce jerrican est vide.",
+	gold_ore = "Minerai d'or",
+	steel_ore = "Minerai d'acier",
+	ore = "Minerai",
+	press_x_transfer_x_to_supply_line = "~g~[Supply Line]\n~w~%s pour envoyer ~b~%sx %s~w~.",
+	press_x_retrive_x_from_supply_line = "~g~[Supply Line]\n~w~%s pour récupérer ~b~%sx %s~w~.\n\n~r~[%s items] ~w~en cours de traitement.\n~g~[%s items] ~w~prêt à être récupéré.",
+	supply_line_no_item_ready = "~r~Aucun item n'est prêt à être récupéré.",
 }
 
 AddLanguage("fr", my_language)

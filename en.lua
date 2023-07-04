@@ -4343,6 +4343,7 @@ local my_language = {
 	prod_water_through = "Water through",
 	prod_feeding_through_chicken = "Feeding through chicken",
 	prod_water_through_chicken = "Water through chicken",
+	provide_supply = "provide supply",
 }
 
 AddLanguage("en", my_language)

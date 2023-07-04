@@ -3317,6 +3317,8 @@ local my_language = {
 
 	press_harvest_weed = "Appuyez sur ~INPUT_CONTEXT~ pour récolter la plante.",
 	press_weed_dead = "Appuyez sur ~INPUT_CONTEXT~ pour nettoyer la plante morte.",
+	press_carry_grown_animal = "Appuyez sur ~INPUT_CONTEXT~ pour porter l'animal.",
+	press_animal_dead = "Appuyez sur ~INPUT_CONTEXT~ pour nettoyer l'animal mort.",
 
 	skin_classic = "Classique",
 	skin_green = "Vert",
@@ -4313,6 +4315,9 @@ local my_language = {
 	cat_mirrors = "Miroirs",
 	open_color = "~g~ouvrir",
 	close_color = "~r~fermer",
+	farm_cannot_place_outside_enclosure = "~r~Vous ne pouvez pas placer cet objet en dehors de l'enclos.",
+	farm_animal_not_relevant_enclosure = "~r~Cet animal n'est pas adapté à cet enclos.",
+	farm_limit_animal_enclosure_x = "Vous ne pouvez pas ajouter plus de ~b~%sx~s~ animaux à cet enclos.",
 }
 
 AddLanguage("fr", my_language)

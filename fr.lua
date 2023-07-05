@@ -3279,7 +3279,7 @@ local my_language = {
 
 	kevlar_stored = "~r~Vous avez rangé votre kevlar.",
 	seed_the_plant = "planter la graine",
-	harversted_x_x = "Vous avez récolté ~b~%sx ~g~%s~w~ de la plante.",
+	harversted_x_x = "Vous avez récolté ~b~%sx ~g~%s~w~.",
 	farming_plant_cleaned = "~r~Vous avez nettoyé la plante morte.",
 	farming_plant_harvested = "~g~Vous avez récolté la plante.",
 	need_growth = "Croissance",
@@ -4354,6 +4354,9 @@ local my_language = {
 	prod_feeding_through_chicken = "Alimentation poulet",
 	prod_water_through_chicken = "Abrevoir poulet",
 	provide_supply = "alimenter l'outil",
+	slaughterhouse_instructions = "Libérez les animaux adultes et neutralisez-les.",
+	slaugherhouse_must_inside = "Vous devez être à l'intérieur de l'abattoir.",
+	slaugherhouse_released_x = "Vous avez libéré ~b~%sx %s~w~.",
 }
 
 AddLanguage("fr", my_language)

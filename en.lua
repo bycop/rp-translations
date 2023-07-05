@@ -4357,6 +4357,12 @@ local my_language = {
 	slaughterhouse_instructions = "Release the grown animals and neutralize them.",
 	slaugherhouse_must_inside = "~r~You must be inside the slaughterhouse.",
 	slaugherhouse_released_x = "You released ~b~%sx %s~w~.",
+	slaughterhouse_stunned_x = "You stunned ~b~%sx %s~w~.\nRetrieve the meat from the slaughterhouse.",
+	slaughterhouse_instructions_output_x = "~g~[Supply Line]\n~w~%s to retrieve ~b~%s~w~.\n\n~g~[%s items] ~w~ready to be retrieved.",
+	animal_water = "animal water",
+	farm_cannot_refill_tool = "~r~You cannot refill this tool.",
+	farming_tool_supply_full = "~r~This tool is already full.",
+	farming_you_refilled_x = "You refilled ~g~%s~w~.",
 }
 
 AddLanguage("en", my_language)

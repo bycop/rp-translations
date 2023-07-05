@@ -1669,7 +1669,7 @@ local my_language = {
 	dropped_dirty_money_floor = "Vous avez jeté ~r~$%s~w~ d'argent sale au sol.",
 	gave_dirty_money_to_x = "Vous avez donné ~r~$%s~w~ d'argent sale à ~g~quelqu'un~w~.",
 
-	someone_gave_you_money = "Quelqu'un~w~ vous a ~g~$%s~w~.",
+	someone_gave_you_money = "Quelqu'un~w~ vous a donné ~g~$%s~w~.",
 	dropped_money_floor = "Vous avez jeté ~r~$%s~w~ au sol.",
 	gave_money_to_x = "Vous avez donné ~r~$%s~w~ à ~g~quelqu'un~w~.",
 
@@ -4357,6 +4357,12 @@ local my_language = {
 	slaughterhouse_instructions = "Libérez les animaux adultes et neutralisez-les.",
 	slaugherhouse_must_inside = "Vous devez être à l'intérieur de l'abattoir.",
 	slaugherhouse_released_x = "Vous avez libéré ~b~%sx %s~w~.",
+	slaughterhouse_stunned_x = "Vous avez neutralisé ~b~%sx %s~w~.\nRécupérez la viande de l'abattoir.",
+	slaughterhouse_instructions_output_x = "~g~[Supply Line]\n~w~%s pour récupérer ~b~%s~w~.\n\n~g~[%s items] ~w~prêt à être récupéré.",
+	animal_water = "eau pour les animaux",
+	farm_cannot_refill_tool = "~r~Vous ne pouvez pas remplir cet outil.",
+	farming_tool_supply_full = "~r~Cet outil est déjà plein.",
+	farming_you_refilled_x = "Vous avez rempli ~g~%s~w~.",
 }
 
 AddLanguage("fr", my_language)

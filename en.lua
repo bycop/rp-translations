@@ -4357,6 +4357,7 @@ local my_language = {
 	slaughterhouse_instructions = "Release the grown animals and neutralize them.",
 	slaugherhouse_must_inside = "~r~You must be inside the slaughterhouse.",
 	slaugherhouse_released_x = "You released ~b~%sx %s~w~.",
+	panic_button = "Panic button",
 }
 
 AddLanguage("en", my_language)

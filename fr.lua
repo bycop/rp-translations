@@ -4363,6 +4363,7 @@ local my_language = {
 	farm_cannot_refill_tool = "~r~Vous ne pouvez pas remplir cet outil.",
 	farming_tool_supply_full = "~r~Cet outil est déjà plein.",
 	farming_you_refilled_x = "Vous avez rempli ~g~%s~w~.",
+	panic_button = "Panic button",
 }
 
 AddLanguage("fr", my_language)

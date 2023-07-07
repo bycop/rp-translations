@@ -3287,6 +3287,7 @@ local my_language = {
 	need_light = "Lumière",
 	need_air = "Air",
 	need_food = "Nourriture",
+	need_fertilizer = "Engrais",
 
 	eat_meal_restaurant_more_food = "~r~Vous devez manger de la meilleure nourriture, comme un repas dans un restaurant afin de vous rassasier.",
 
@@ -4364,6 +4365,13 @@ local my_language = {
 	farming_tool_supply_full = "~r~Cet outil est déjà plein.",
 	farming_you_refilled_x = "Vous avez rempli ~g~%s~w~.",
 	panic_button = "Panic button",
+	field = "Champ",
+	farm_select_close_field = "Sélectionner un champ proche",
+	farm_leave_field = "Quitter le champ",
+	farm_tractor_mode_x = "Mode tracteur ~b~[%s]",
+	tractor_seeding = "Semis",
+	tractor_feeding = "Alimentation",
+	tractor_harvesting = "Récolte",
 }
 
 AddLanguage("fr", my_language)

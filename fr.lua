@@ -4372,6 +4372,9 @@ local my_language = {
 	tractor_seeding = "Semis",
 	tractor_feeding = "Alimentation",
 	tractor_harvesting = "Récolte",
+	package_gift_sent_to_id = "Vous avez envoyé un cadeau ~b~(%s)~w~ à ID %s ~g~%s~w~.",
+	gift_pending_no_fivem = "Vous avez un cadeau en attente.\n~r~Vous devez lier un compte CFX/FiveM pour le recevoir.",
+	accepted_gcoin_gift_package_x = "Vous avez accepté un cadeau ~b~(%s)~w~.",
 }
 
 AddLanguage("fr", my_language)

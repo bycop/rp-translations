@@ -4375,6 +4375,12 @@ local my_language = {
 	package_gift_sent_to_id = "Vous avez envoyé un cadeau ~b~(%s)~w~ à ID %s ~g~%s~w~.",
 	gift_pending_no_fivem = "Vous avez un cadeau en attente.\n~r~Vous devez lier un compte CFX/FiveM pour le recevoir.",
 	accepted_gcoin_gift_package_x = "Vous avez accepté un cadeau ~b~(%s)~w~.",
+	crate = "Caisse",
+	case_history_only_recent = "Seulement les dernières caisses sont affichées.",
+	case_history = "Historique des caisses",
+	gift_history_only_recent = "Seulement les derniers cadeaux sont affichés.",
+	gift_history = "Historique des cadeaux",
+	gift_x_to_x = "%sx %s à ~b~ID %s",
 }
 
 AddLanguage("fr", my_language)

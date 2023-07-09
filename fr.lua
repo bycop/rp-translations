@@ -4386,6 +4386,14 @@ local my_language = {
 	commerce_cannot_refund_this_vehicle = "~r~Vous ne pouvez pas rembourser ce véhicule.",
 	commerce_cannot_refund_this_vehicle_twice = "~r~Vous n'avez pas ce véhicule en double exemplaire. Vous ne pouvez pas le rembourser.",
 	commerce_refund_vehicle_x_for_x = "Vous avez remboursé ~b~%s~s~ et reçu ~g~%sx %s~s~.",
+	admin_model = "Ped Admin",
+	seed_strawberry = "Graine de fraise",
+	seed_carrot = "Graine de carotte",
+	seed_melon = "Graine de melon",
+	seed_cloth = "Graine de coton",
+	seed_tobacco = "Graine de tabac",
+	plant_fertilizer = "Engrais",
+	plant_water = "Eau plante",
 }
 
 AddLanguage("fr", my_language)

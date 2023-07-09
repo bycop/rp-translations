@@ -4386,6 +4386,14 @@ local my_language = {
 	commerce_cannot_refund_this_vehicle = "~r~You cannot refund this vehicle.",
 	commerce_cannot_refund_this_vehicle_twice = "~r~You do not have this vehicle twice. You cannot refund it.",
 	commerce_refund_vehicle_x_for_x = "You refunded ~b~%s~s~ and received ~g~%sx %s~s~.",
+	admin_model = "Admin Ped",
+	seed_strawberry = "Strawberry seed",
+	seed_carrot = "Carrot seed",
+	seed_melon = "Melon seed",
+	seed_cloth = "Cloth seed",
+	seed_tobacco = "Tobacco seed",
+	plant_fertilizer = "Fertilizer",
+	plant_water = "Water",
 }
 
 AddLanguage("en", my_language)

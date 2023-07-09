@@ -4381,6 +4381,11 @@ local my_language = {
 	gift_history_only_recent = "Only recent gifts are displayed.",
 	gift_history = "Gift history",
 	gift_x_to_x = "%sx %s to ~b~ID %s",
+	refund = "Refund",
+	refund_commerce_vehicle_help = "You can only refund vehicles you have twice.",
+	commerce_cannot_refund_this_vehicle = "~r~You cannot refund this vehicle.",
+	commerce_cannot_refund_this_vehicle_twice = "~r~You do not have this vehicle twice. You cannot refund it.",
+	commerce_refund_vehicle_x_for_x = "You refunded ~b~%s~s~ and received ~g~%sx %s~s~.",
 }
 
 AddLanguage("en", my_language)

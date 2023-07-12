@@ -133,6 +133,7 @@ local my_language = {
 	tobacco = "Tabac",
 	flour = "Farine",
 	bottle = "Bouteille",
+	plastic = "Plastique",
 	alcohol = "Alcool",
 	glass = "Verre",
 	vegetable = "Légume",
@@ -4327,7 +4328,7 @@ local my_language = {
 	press_x_to_deliver_x = "Appuyez sur %s pour livrer ~b~%s~s~.",
 	fuel_station_map = "Carte des stations essence",
 	open_map_menu_of_fuel_stations = "Ouvre le menu/map des stations essence.",
-	press_x_to_take_x_from_storage = "Appuyez sur %s pour prendre ~b~%s~s~ du stockage.",
+	press_x_to_take_x_from_storage = "%s pour prendre ~b~%s~s~ du stockage.",
 	fuel_canister_50 = "Jerrican 50L",
 	fuel_canister_100 = "Jerrican 100L",
 	fuel_canister_200 = "Jerrican 200L",
@@ -4394,6 +4395,9 @@ local my_language = {
 	seed_tobacco = "Graine de tabac",
 	plant_fertilizer = "Engrais",
 	plant_water = "Eau plante",
+	harvesting = "Récolte",
+	seeds = "Graînes",
+	press_x_to_take_x_from_storage_x_for_another_seed = "%s pour prendre ~b~%s~w~ du stockage.\n%s pour prendre une autre graine.",
 }
 
 AddLanguage("fr", my_language)

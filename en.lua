@@ -4398,6 +4398,13 @@ local my_language = {
 	harvesting = "Harvesting",
 	seeds = "Seeds",
 	press_x_to_take_x_from_storage_x_for_another_seed = "%s to take ~b~%s~w~ from the storage.\n%s to take another seed.",
+	must_be_in_forklift_to_interact = "You must be in a forklift to interact with this.",
+	transfer_the_junk = "transfer the junk",
+	deliver_junk_to_correct_recycling_spot = "Deliver the junk to the correct recycling spot.",
+	forklift_wrong_package = "~r~You have the wrong package.",
+	webhook_storage = "Webhook Storage",
+	webhook_storage_description = "Send a webhook log when a player takes or deposits an item from a storage.",
+	property_webhook_storage_updated = "You updated the ~g~property~w~ storage webhook.",
 }
 
 AddLanguage("en", my_language)

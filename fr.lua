@@ -4398,6 +4398,13 @@ local my_language = {
 	harvesting = "Récolte",
 	seeds = "Graînes",
 	press_x_to_take_x_from_storage_x_for_another_seed = "%s pour prendre ~b~%s~w~ du stockage.\n%s pour prendre une autre graine.",
+	must_be_in_forklift_to_interact = "Vous devez être dans un chariot élévateur pour interagir.",
+	transfer_the_junk = "transférer les déchets",
+	deliver_junk_to_correct_recycling_spot = "Livrez les déchets au bon point de recyclage",
+	forklift_wrong_package = "~r~Vous avez pris le mauvais colis.",
+	webhook_storage = "Webhook Stockage",
+	webhook_storage_description = "Envoie une notification webhook lorsqu'un joueur prend ou dépose un item dans un stockage.",
+	property_webhook_storage_updated = "Vous avez mis à jour le webhook de stockage de la ~g~propriété~w~.",
 }
 
 AddLanguage("fr", my_language)

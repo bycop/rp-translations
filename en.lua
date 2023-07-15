@@ -4406,6 +4406,13 @@ local my_language = {
 	webhook_storage_description = "Send a webhook log when a player takes or deposits an item from a storage.",
 	property_webhook_storage_updated = "You updated the ~g~property~w~ storage webhook.",
 	order_x_by_x = "Order #%s by %s",
+	save_server_side = "Save server side",
+	make_persistent = "Make persistent",
+	race_no_vehicles_personal_veh = "If you do not set any vehicles, players will be able to join the race with their personal vehicle.",
+	race_creator = "Race Creator",
+	race_waiting_to_start_press_x_to_leave = "The race is waiting to start.\n%s to leave.",
+	races = "Races",
+	edit_race = "Edit race",
 }
 
 AddLanguage("en", my_language)

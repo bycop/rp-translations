@@ -4406,6 +4406,13 @@ local my_language = {
 	webhook_storage_description = "Envoie une notification webhook lorsqu'un joueur prend ou dépose un item dans un stockage.",
 	property_webhook_storage_updated = "Vous avez mis à jour le webhook de stockage de la ~g~propriété~w~.",
 	order_x_by_x = "Commande #%s par %s",
+	save_server_side = "Sauvegarder côté serveur",
+	make_persistent = "Rendre persistant",
+	race_no_vehicles_personal_veh = "Si vous ne définissez aucun véhicule, les joueurs pourront rejoindre la course avec leur véhicule personnel.",
+	race_creator = "Créer une course",
+	race_waiting_to_start_press_x_to_leave = "La course va commencer.\n%s pour quitter la course.",
+	races = "Courses",
+	edit_race = "Editer la course",
 }
 
 AddLanguage("fr", my_language)

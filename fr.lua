@@ -4405,6 +4405,7 @@ local my_language = {
 	webhook_storage = "Webhook Stockage",
 	webhook_storage_description = "Envoie une notification webhook lorsqu'un joueur prend ou dépose un item dans un stockage.",
 	property_webhook_storage_updated = "Vous avez mis à jour le webhook de stockage de la ~g~propriété~w~.",
+	order_x_by_x = "Commande #%s par %s",
 }
 
 AddLanguage("fr", my_language)

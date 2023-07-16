@@ -4413,6 +4413,7 @@ local my_language = {
 	race_waiting_to_start_press_x_to_leave = "La course va commencer.\n%s pour quitter la course.",
 	races = "Courses",
 	edit_race = "Editer la course",
+	yacht_will_sell_for_half_price = "Le yacht sera vendu pour la moitié de son prix.",
 }
 
 AddLanguage("fr", my_language)

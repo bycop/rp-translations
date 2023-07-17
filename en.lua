@@ -4413,7 +4413,9 @@ local my_language = {
 	race_waiting_to_start_press_x_to_leave = "The race is waiting to start.\n%s to leave.",
 	races = "Races",
 	edit_race = "Edit race",
-yacht_will_sell_for_half_price = "The yacht will sell for half its price.",
+	yacht_will_sell_for_half_price = "The yacht will sell for half its price.",
+	passengers_ids = "Passengers IDs",
+	passengers_ids_notf = "Passengers IDs: %s",
 }
 
 AddLanguage("en", my_language)

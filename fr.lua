@@ -4414,6 +4414,10 @@ local my_language = {
 	races = "Courses",
 	edit_race = "Editer la course",
 	yacht_will_sell_for_half_price = "Le yacht sera vendu pour la moitié de son prix.",
+	mine = "Mine",
+	scrapyard = "Casse",
+	prod_fuel_oil = "Carburant",
+	drill_fuel = "Carburant pour pompe",
 }
 
 AddLanguage("fr", my_language)

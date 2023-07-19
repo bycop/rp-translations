@@ -4418,6 +4418,8 @@ local my_language = {
 	scrapyard = "Scrapyard",
 	prod_fuel_oil = "Fuel oil",
 	drill_fuel = "Drill fuel",
+	passengers_ids = "Passengers IDs",
+	passengers_ids_notf = "Passengers IDs: %s",
 }
 
 AddLanguage("en", my_language)

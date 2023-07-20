@@ -4420,6 +4420,13 @@ local my_language = {
 	drill_fuel = "Carburant pour pompe",
 	passengers_ids = "IDs passagers",
 	passengers_ids_notf = "IDs passagers: %s",
+	fuel_pump_output = "Sortie pompe",
+	fuel_storage = "Stockage carburant",
+	recycling_station = "Station de recyclage",
+	slaugherhouse = "Abattoir",
+	slaugherhouse_output = "Sortie abattoir",
+	transformation_input_line = "Ligne d'entrée de transformation",
+	transformation_output_line = "Ligne de sortie de transformation",
 }
 
 AddLanguage("fr", my_language)

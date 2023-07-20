@@ -4427,6 +4427,8 @@ local my_language = {
 	slaugherhouse_output = "Sortie abattoir",
 	transformation_input_line = "Ligne d'entrée de transformation",
 	transformation_output_line = "Ligne de sortie de transformation",
+	lab_meth_sleeping_mode_x = "Le labo est en mode sommeil.\nAttendez ~r~%s~w~ avant de cuisiner à nouveau.",
+	start_production_mode = "Commencer (Mode production)",
 }
 
 AddLanguage("fr", my_language)

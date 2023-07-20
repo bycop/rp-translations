@@ -4427,6 +4427,8 @@ local my_language = {
 	slaugherhouse_output = "Slaughterhouse output",
 	transformation_input_line = "Transform input line",
 	transformation_output_line = "Transform output line",
+	lab_meth_sleeping_mode_x = "The lab is in sleeping mode.\nWait ~r~%s~w~ before cooking again.",
+	start_production_mode = "Start (Production mode)",
 }
 
 AddLanguage("en", my_language)

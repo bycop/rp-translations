@@ -4321,7 +4321,7 @@ local my_language = {
 	prop_model = "Model de l'objet",
 	refilled_oil_pump_x = "Vous avez rajouté ~r~+%sL de carburant~w~ dans la pompe.",
 	pump_enabled = "Pompe activée",
-	fuel_output_instructions_x = "Pétrole disponible ~b~[%sL]~w~\n%s pour %s~w~ une valve.",
+	fuel_output_instructions_x = "~b~[%s]~w~ Pétrole disponible ~b~[%sL]~w~\n%s pour %s~w~ une valve.",
 	cat_mirrors = "Miroirs",
 	open_color = "~g~ouvrir",
 	close_color = "~r~fermer",
@@ -4432,6 +4432,8 @@ local my_language = {
 	transformation_output_line = "Ligne de sortie de transformation",
 	lab_meth_sleeping_mode_x = "Le labo est en mode sommeil.\nAttendez ~r~%s~w~ avant de cuisiner à nouveau.",
 	start_production_mode = "Commencer (Mode production)",
+	export_dock = "Quai d'exportation",
+	property_ring_the_bell = "~g~Vous avez sonné à la porte de la propriété.",
 }
 
 AddLanguage("fr", my_language)

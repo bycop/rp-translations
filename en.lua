@@ -4434,6 +4434,7 @@ local my_language = {
 	start_production_mode = "Start (Production mode)",
 	export_dock = "Export dock",
 	property_ring_the_bell = "~g~You rang the property's bell.",
+	lab_type_already_set_x = "This lab type is already set to ~b~%s~s~.",
 }
 
 AddLanguage("en", my_language)

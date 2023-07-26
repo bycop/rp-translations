@@ -4435,6 +4435,7 @@ local my_language = {
 	export_dock = "Quai d'exportation",
 	property_ring_the_bell = "~g~Vous avez sonné à la porte de la propriété.",
 	lab_type_already_set_x = "Le type de laboratoire est déjà défini sur ~b~%s~s~.",
+	display_drug_police_report = "Afficher les appels drogue (Police)",
 }
 
 AddLanguage("fr", my_language)

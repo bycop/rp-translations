@@ -4443,6 +4443,8 @@ local my_language = {
 	property_ring_the_bell = "~g~Vous avez sonné à la porte de la propriété.",
 	lab_type_already_set_x = "Le type de laboratoire est déjà défini sur ~b~%s~s~.",
 	display_drug_police_report = "Afficher les appels drogue (Police)",
+	cayo_militia = "Milice de Cayo Perico",
+	to_cayo_militia = "~y~à la milice de Cayo Perico",
 }
 
 AddLanguage("fr", my_language)

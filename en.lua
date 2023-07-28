@@ -4285,6 +4285,7 @@ local my_language = {
 	order = "Order",
 	order_items = "Order items",
 	container_max_items_warn_x = "You cannot add more than ~b~%sx~s~ items to your basket.",
+	container_max_weight_warn_x = "You cannot add more than ~b~%skg~s~ to your basket.",
 	container_order_success_x_x = "You ordered a container of ~b~%sx items~s~ for ~g~$%s~s~.",
 	container = "Container",
 	trailer_attach = "Attach trailer",

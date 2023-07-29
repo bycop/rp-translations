@@ -4446,6 +4446,7 @@ local my_language = {
 	display_drug_police_report = "Afficher les appels drogue (Police)",
 	cayo_militia = "Milice de Cayo Perico",
 	to_cayo_militia = "~y~à la milice de Cayo Perico",
+	ask_corresponding_car_dealer = "~r~Demandez au concessionnaire du comté approprié.",
 }
 
 AddLanguage("fr", my_language)

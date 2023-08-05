@@ -4447,6 +4447,21 @@ local my_language = {
 	cayo_militia = "Cayo Perico Militia",
 	to_cayo_militia = "~y~to Cayo Perico militia",
 	ask_corresponding_car_dealer = "~r~Ask the appropriate car dealer for this county.",
+	boygroup_pose_1 = "Boygroup pose 1",
+	boygroup_pose_2 = "Boygroup pose 2",
+	boygroup_pose_3 = "Boygroup pose 3",
+	boygroup_pose_4 = "Boygroup pose 4",
+	boygroup_pose_5 = "Boygroup pose 5",
+	boygroup_pose_6 = "Boygroup pose 6",
+	boygroup_pose_7 = "Boygroup pose 7",
+	lean_wall_1 = "Lean wall 1",
+	lean_wall_2 = "Lean wall 2",
+	lean_wall_3 = "Lean wall 3",
+	lean_wall_4 = "Lean wall 4",
+	lean_wall_5 = "Lean wall 5",
+	lean_wall_6 = "Lean wall 6",
+	lean_wall_7 = "Lean wall 7",
+	lean_wall_8 = "Lean wall 8",
 }
 
 AddLanguage("en", my_language)

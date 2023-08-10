@@ -4462,6 +4462,7 @@ local my_language = {
 	lean_wall_6 = "Appuyer mur 6",
 	lean_wall_7 = "Appuyer mur 7",
 	lean_wall_8 = "Appuyer mur 8",
+	imitate_anim = "Imiter animation",
 }
 
 AddLanguage("fr", my_language)

@@ -4462,6 +4462,7 @@ local my_language = {
 	lean_wall_6 = "Lean wall 6",
 	lean_wall_7 = "Lean wall 7",
 	lean_wall_8 = "Lean wall 8",
+	imitate_anim = "Imitate anim",
 }
 
 AddLanguage("en", my_language)

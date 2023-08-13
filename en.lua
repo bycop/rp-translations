@@ -4014,6 +4014,7 @@ local my_language = {
 	display_bounds = "Display bounds",
 	mapping_id = "Mapping ID",
 	disable_mapping = "Disable mapping",
+	toggle_mapping_locally = "Toggle mapping (locally)",
 	toggle_for_property_exterior = "Toggle for property exterior",
 	property_bounds_reset = "~r~Bounds of the property have been reset too.",
 	open_chest_label = "Open chest",

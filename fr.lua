@@ -4014,6 +4014,7 @@ local my_language = {
 	display_bounds = "Afficher les limites",
 	mapping_id = "Mapping ID",
 	disable_mapping = "Désactiver le mapping",
+	toggle_mapping_locally = "Toggle le mapping (localement)",
 	toggle_for_property_exterior = "Activer/désactiver pour l'extérieur de la propriété.",
 	property_bounds_reset = "~r~Les limites de la propriété ont été réinitialisées aussi.",
 	open_chest_label = "Ouvrir le coffre",

@@ -4463,6 +4463,8 @@ local my_language = {
 	lean_wall_7 = "Appuyer mur 7",
 	lean_wall_8 = "Appuyer mur 8",
 	imitate_anim = "Imiter animation",
+	delete_all = "Tout supprimer",
+	deleted_prop_x_x = "Vous avez supprimé ~r~%sx %s~s~.",
 }
 
 AddLanguage("fr", my_language)

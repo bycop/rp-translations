@@ -4463,6 +4463,8 @@ local my_language = {
 	lean_wall_7 = "Lean wall 7",
 	lean_wall_8 = "Lean wall 8",
 	imitate_anim = "Imitate anim",
+	delete_all = "Delete all",
+	deleted_prop_x_x = "You deleted ~r~%sx %s~s~.",
 }
 
 AddLanguage("en", my_language)

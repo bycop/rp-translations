@@ -4306,6 +4306,7 @@ local my_language = {
 	lab_type_set_x = "Vous avez défini le type de laboratoire sur ~b~%s~s~.",
 	lab_type_not_allowed = "~r~Vous n'êtes pas autorisé à utiliser ce type de laboratoire.",
 	place_on_ground = "Placer au sol",
+	mirror = "Miroir",
 	company_delivery = "Livraison entreprise",
 	dock_delivery = "Livraison quai",
 	delivery_too_close_export_spot = "~r~Vous êtes trop proche d'un point d'exportation.",

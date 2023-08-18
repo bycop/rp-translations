@@ -4467,6 +4467,7 @@ local my_language = {
 	imitate_anim = "Imitate anim",
 	delete_all = "Delete all",
 	deleted_prop_x_x = "You deleted ~r~%sx %s~s~.",
+	cayo_id = "Cayo Perico ID",
 }
 
 AddLanguage("en", my_language)

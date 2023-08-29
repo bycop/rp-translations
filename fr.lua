@@ -4468,6 +4468,7 @@ local my_language = {
 	imitate_anim = "Imiter animation",
 	delete_all = "Tout supprimer",
 	deleted_prop_x_x = "Vous avez supprimé ~r~%sx %s~s~.",
+	cayo_id = "Carte identité Cayo",
 }
 
 AddLanguage("fr", my_language)

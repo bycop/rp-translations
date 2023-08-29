@@ -2263,6 +2263,7 @@ local my_language = {
 	pillbox_hospital = "Pillbox Hills Medical Center",
 	sandyshore_hospital = "Sandy Shore Care Centre",
 	paleto_hospital = "Paleto Bay Care Center",
+	cayo_hospital = "Cayo Perico Medical Center",
 	westdyke_hospital = "Westdyke Medical Center",
 	bronx_hospital = "Bronx Emergency Center",
 	saintfiacre_hospital = "Saint Fiacre Medical Center",

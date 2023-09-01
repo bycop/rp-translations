@@ -4469,6 +4469,7 @@ local my_language = {
 	delete_all = "Delete all",
 	deleted_prop_x_x = "You deleted ~r~%sx %s~s~.",
 	cayo_id = "Cayo Perico ID",
+	loading_glife = "Loading GLife",
 }
 
 AddLanguage("en", my_language)

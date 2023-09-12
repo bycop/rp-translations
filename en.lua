@@ -4470,6 +4470,7 @@ local my_language = {
 	deleted_prop_x_x = "You deleted ~r~%sx %s~s~.",
 	cayo_id = "Cayo Perico ID",
 	loading_glife = "Loading GLife",
+	cannot_heal_bed_ems_active = "~r~You cannot heal in bed while medical staff are active.",
 }
 
 AddLanguage("en", my_language)

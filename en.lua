@@ -4471,6 +4471,11 @@ local my_language = {
 	cayo_id = "Cayo Perico ID",
 	loading_glife = "Loading GLife",
 	cannot_heal_bed_ems_active = "~r~You cannot heal in bed while medical staff are active.",
+	quest_objectives_not_completed = "You have not completed all the quest objectives.",
+	quest_need_go_to_mission_and_complete = "~r~Mission not completed.",
+	quest_item_obj_x = "Inventory items for the quest: ^3%s ^3(%s/%s)",
+	burglary_object_stolen = "Object stolen in burglary",
+	drug_sold = "Drug sold",
 }
 
 AddLanguage("en", my_language)

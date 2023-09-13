@@ -4471,6 +4471,11 @@ local my_language = {
 	cayo_id = "Carte identité Cayo",
 	loading_glife = "Chargement de GLife",
 	cannot_heal_bed_ems_active = "~r~Vous ne pouvez pas vous soigner via un lit tant que le personnel médical est actif.",
+	quest_objectives_not_completed = "Vous n'avez pas terminé tous les objectifs de la quête.",
+	quest_need_go_to_mission_and_complete = "Mission non terminée.",
+	quest_item_obj_x = "Items de votre inventaire pour la quête: ^3%s ^3(%s/%s)",
+	burglary_object_stolen = "Objet volé dans un cambriolage",
+	drug_sold = "Drogue vendue",
 }
 
 AddLanguage("fr", my_language)

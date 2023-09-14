@@ -4476,6 +4476,13 @@ local my_language = {
 	quest_item_obj_x = "Inventory items for the quest: ^3%s ^3(%s/%s)",
 	burglary_object_stolen = "Object stolen in burglary",
 	drug_sold = "Drug sold",
+	simeon_vehicle_stolen = "Simeon's Vehicle stolen (delivered)",
+	quest_not_enough_room_inventory = "You cannot start this quest. You don't have enough room in your inventory for the start items.",
+	burglary_steal_instructions = "~INPUT_CONTEXT~ to steal an object.",
+	burglary_delivery_instructions = "~INPUT_CONTEXT~ to deposit the object into a vehicle.",
+	burglary_stop_instructions = "~INPUT_RELOAD~ to stop the burglary.",
+	burglary_look_instructions = "Look around to find an object to steal.",
+	burglary_exit_instructions = "Exit the property to store the stolen object.",
 }
 
 AddLanguage("en", my_language)

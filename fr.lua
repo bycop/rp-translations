@@ -4476,6 +4476,13 @@ local my_language = {
 	quest_item_obj_x = "Items de votre inventaire pour la quête: ^3%s ^3(%s/%s)",
 	burglary_object_stolen = "Objet volé dans un cambriolage",
 	drug_sold = "Drogue vendue",
+	simeon_vehicle_stolen = "Véhicule volé pour Simeon (livré)",
+	quest_not_enough_room_inventory = "Vous ne pouvez pas commencer cette quête. Vous n'avez pas assez de place dans votre inventaire pour les items de départ.",
+	burglary_steal_instructions = "~INPUT_CONTEXT~ pour voler un objet.",
+	burglary_delivery_instructions = "~INPUT_CONTEXT~ pour déposer l'objet dans un véhicule.",
+	burglary_stop_instructions = "~INPUT_RELOAD~ pour arrêter le cambriolage.",
+	burglary_look_instructions = "Regardez autour de vous pour trouver un objet à voler.",
+	burglary_exit_instructions = "Sortez de la propriété pour ranger l'objet volé.",
 }
 
 AddLanguage("fr", my_language)

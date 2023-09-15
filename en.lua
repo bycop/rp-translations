@@ -1106,9 +1106,9 @@ local my_language = {
 
 	-- Door
 	door_no_key = "~r~You don't have the key to this door.",
-	you_x_the_door = "You %s~w~ the door. (%s)",
-	unlocked = "~g~unlocked",
-	locked = "~r~locked",
+	you_x_the_door = "You ~b~%s~w~ the door. (%s)",
+	unlocked = "unlocked",
+	locked = "locked",
 	unable_to_find_door = "~r~Unable to find this door.",
 
 	-- Drugs
@@ -4483,6 +4483,13 @@ local my_language = {
 	burglary_stop_instructions = "~INPUT_RELOAD~ to stop the burglary.",
 	burglary_look_instructions = "Look around to find an object to steal.",
 	burglary_exit_instructions = "Exit the property to store the stolen object.",
+	list_of_objects = "List of objects",
+	list_of_vehicles = "List of vehicles",
+	list_of_peds = "List of peds",
+	add_ped = "Add ped",
+	mission_item = "Mission item",
+	is_mission_item = "Is the mission target item",
+	relationship_group = "Relationship Group",
 }
 
 AddLanguage("en", my_language)

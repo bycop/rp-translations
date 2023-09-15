@@ -1106,9 +1106,9 @@ local my_language = {
 
 	-- Door
 	door_no_key = "~r~Vous n'avez pas la clé de cette porte.",
-	you_x_the_door = "Vous avez %s~w~ la porte. (%s)",
-	unlocked = "~g~déverrouillé",
-	locked = "~r~verrouillé",
+	you_x_the_door = "Vous avez ~b~%s~w~ la porte. (%s)",
+	unlocked = "déverrouillé",
+	locked = "verrouillé",
 	unable_to_find_door = "~r~Porte introuvable.",
 
 	-- Drugs
@@ -4483,6 +4483,13 @@ local my_language = {
 	burglary_stop_instructions = "~INPUT_RELOAD~ pour arrêter le cambriolage.",
 	burglary_look_instructions = "Regardez autour de vous pour trouver un objet à voler.",
 	burglary_exit_instructions = "Sortez de la propriété pour ranger l'objet volé.",
+	list_of_objects = "Liste des objets",
+	list_of_vehicles = "Liste des véhicules",
+	list_of_peds = "Liste des peds",
+	add_ped = "Ajouter un ped",
+	mission_item = "Item de mission",
+	is_mission_item = "Est l'item cible de la mission",
+	relationship_group = "Relationship Group",
 }
 
 AddLanguage("fr", my_language)

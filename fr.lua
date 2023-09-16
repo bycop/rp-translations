@@ -4490,6 +4490,7 @@ local my_language = {
 	mission_item = "Item de mission",
 	is_mission_item = "Est l'item cible de la mission",
 	relationship_group = "Relationship Group",
+	quest_manager = "Gestionnaire de quêtes",
 }
 
 AddLanguage("fr", my_language)

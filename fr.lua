@@ -4491,6 +4491,23 @@ local my_language = {
 	is_mission_item = "Est l'item cible de la mission",
 	relationship_group = "Relationship Group",
 	quest_manager = "Gestionnaire de quêtes",
+	deleted_scheme_map_project_x = "Vous avez supprimé le projet map scheme ~b~%s~w~ (%s).",
+	deleted_quest_x = "Vous avez supprimé la quête ~b~%s~w~ (%s).",
+	edit_quest_x = "Vous avez édité la quête ~b~%s~w~ (%s).",
+	created_quest_x = "Vous avez créé la quête ~b~%s~w~ (%s).",
+	quest_given_to_target_x = "Vous avez donné la quête ~b~%s~w~ à ~b~%s~w~.",
+	quest_aborted_for_target_x = "Vous avez annulé la quête ~b~%s~w~ pour ~b~%s~w~.",
+	create_quest = "Créer une quête",
+	create_scheme = "Créer un schéma",
+	quest_list = "Liste des quêtes",
+	scheme_list = "Liste des schémas",
+	scheme_id = "ID du schéma",
+	private_world = "Monde privé",
+	quest_cat_default = "Défaut",
+	quest_cat_illegal = "Illégal",
+	quest_cat_police = "Police",
+	mission_quest_completed = "Vous avez rempli tous les objectifs des quêtes\n~g~Parlez au PNJ pour obtenir votre récompense.",
+	quest_give_up_too_far = "~r~Vous avez abandonné la quête parce que votre escouade était trop loin.",
 }
 
 AddLanguage("fr", my_language)

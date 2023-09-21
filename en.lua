@@ -4513,6 +4513,7 @@ local my_language = {
 	remove_quest_from_target = "Remove quest from target",
 	mission_quest_completed = "You completed all the objectives of the quests\n~g~Talk to the NPC to get your reward.",
 	quest_give_up_too_far = "~r~You gave up the quest because your squad was too far.",
+	quest_npc = "Quest NPC",
 }
 
 AddLanguage("en", my_language)

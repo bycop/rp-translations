@@ -4511,6 +4511,7 @@ local my_language = {
 	quest_cat_police = "Police",
 	mission_quest_completed = "Vous avez rempli tous les objectifs des quêtes\n~g~Parlez au PNJ pour obtenir votre récompense.",
 	quest_give_up_too_far = "~r~Vous avez abandonné la quête parce que votre escouade était trop loin.",
+	quest_npc = "PNJ Quête",
 }
 
 AddLanguage("fr", my_language)

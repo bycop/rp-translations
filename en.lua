@@ -576,7 +576,7 @@ local my_language = {
 	your_garage = "Your garage",
 	new_name = "New name",
 	vehicles_list = "vehicles list",
-	pound_yard = "pound yard",
+	pound_yard = "Pound Yard",
 	you_need_to_be_with_owner = "~r~You must be with the owner. (2)",
 	model_does_not_exist = "This vehicle model does not exist. (%s) & (%s)",
 	you_have_access_to_the_vehicle = "You now have access to the ~g~vehicle~w~.",
@@ -4479,6 +4479,7 @@ local my_language = {
 	quest_item_obj_x = "Inventory items for the quest: ^3%s ^3(%s/%s)",
 	burglary_object_stolen = "Object stolen in burglary",
 	drug_sold = "Drug sold",
+	smuggling_sold = "Smuggling sold",
 	simeon_vehicle_stolen = "Simeon's Vehicle stolen (delivered)",
 	quest_not_enough_room_inventory = "You cannot start this quest. You don't have enough room in your inventory for the start items.",
 	burglary_steal_instructions = "~INPUT_CONTEXT~ to steal an object.",
@@ -4514,6 +4515,14 @@ local my_language = {
 	mission_quest_completed = "You completed all the objectives of the quests\n~g~Talk to the NPC to get your reward.",
 	quest_give_up_too_far = "~r~You gave up the quest because your squad was too far.",
 	quest_npc = "Quest NPC",
+	search = "Search",
+	search_results = "Search results",
+	manage_vehicle = "Manage vehicle",
+	locate = "Locate",
+	send_poundyard = "Send to poundyard",
+	deleted_vehicle_x = "You deleted the vehicle ~b~%s~w~ (%s).",
+	send_vehicle_to_poundyard_x = "You sent the vehicle ~b~%s~w~ (%s) to the poundyard.",
+	in_a_garage = "In a garage",
 }
 
 AddLanguage("en", my_language)

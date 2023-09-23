@@ -4479,6 +4479,7 @@ local my_language = {
 	quest_item_obj_x = "Items de votre inventaire pour la quête: ^3%s ^3(%s/%s)",
 	burglary_object_stolen = "Objet volé dans un cambriolage",
 	drug_sold = "Drogue vendue",
+	smuggling_sold = "Contrebande vendue",
 	simeon_vehicle_stolen = "Véhicule volé pour Simeon (livré)",
 	quest_not_enough_room_inventory = "Vous ne pouvez pas commencer cette quête. Vous n'avez pas assez de place dans votre inventaire pour les items de départ.",
 	burglary_steal_instructions = "~INPUT_CONTEXT~ pour voler un objet.",
@@ -4512,6 +4513,14 @@ local my_language = {
 	mission_quest_completed = "Vous avez rempli tous les objectifs des quêtes\n~g~Parlez au PNJ pour obtenir votre récompense.",
 	quest_give_up_too_far = "~r~Vous avez abandonné la quête parce que votre escouade était trop loin.",
 	quest_npc = "PNJ Quête",
+	search = "Rechercher",
+	search_results = "Résultats de la recherche",
+	manage_vehicle = "Gérer le véhicule",
+	locate = "Localiser",
+	send_poundyard = "Envoyer à la fourrière",
+	deleted_vehicle_x = "Vous avez supprimé le véhicule ~b~%s~w~ (%s).",
+	send_vehicle_to_poundyard_x = "Vous avez envoyé le véhicule ~b~%s~w~ (%s) à la fourrière.",
+	in_a_garage = "Dans un garage",
 }
 
 AddLanguage("fr", my_language)

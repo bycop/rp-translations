@@ -4524,6 +4524,8 @@ local my_language = {
 	deleted_vehicle_x = "Vous avez supprimé le véhicule ~b~%s~w~ (%s).",
 	send_vehicle_to_poundyard_x = "Vous avez envoyé le véhicule ~b~%s~w~ (%s) à la fourrière.",
 	in_a_garage = "Dans un garage",
+	time_elapsed = "Temps écoulé",
+	intimidation = "Intimidation",
 }
 
 AddLanguage("fr", my_language)

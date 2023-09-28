@@ -218,6 +218,7 @@ local my_language = {
 	champagne = "Champagne",
 	whisky = "Whisky",
 	bourbon = "Bourbon",
+	rhum = "Rhum",
 	hot_dog = "Hot-dog",
 	crab = "Crab",
 	triple_beer = "Triple Beer",
@@ -3730,6 +3731,8 @@ local my_language = {
 	arcade_bar = "Arcade Bar",
 	drink_shop = "Drink Shop",
 	galaxy_nightclub = "Galaxy Nightclub",
+	cayo_tropical = "Cayo Tropical",
+	pacific_bluffs = "Pacific Bluffs",
 	include_reason_for_report = "~r~Please include a reason for your report.",
 	create_a_report = "Create a report",
 	nightclub = "Nightclub & Bars",
@@ -4526,6 +4529,8 @@ local my_language = {
 	instructions_property = "~INPUT_CONTEXT~ to enter the property.\n~INPUT_RELOAD~ to open the menu.",
 	instructions_garage = "~INPUT_CONTEXT~ to enter the garage.",
 	property_ring_recently_wait = "You recently rang the bell.\n~r~Please wait.",
+	time_elapsed = "Time elapsed",
+	intimidation = "Intimidation",
 }
 
 AddLanguage("en", my_language)

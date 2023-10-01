@@ -2216,7 +2216,7 @@ local my_language = {
 	clean_your_veh = "~b~laver votre véhicule",
 	enter_lscustom = "rentrer dans ~b~le Los Santos Custom~w~.",
 	take_a_screenshot = "Prendre un screen",
-
+	
 	healing_wounds = "Guérison des blessures",
 	cannot_be_revived = "~r~Vous ne pouvez pas être réanimé.",
 	revived_wounded = "~g~Réanimé\n~w~Vous venez d'être réanimé, vous êtes blessé.",
@@ -4455,6 +4455,7 @@ local my_language = {
 	display_drug_police_report = "Afficher les appels drogue (Police)",
 	cayo_militia = "Milice de Cayo Perico",
 	to_cayo_militia = "~y~à la milice de Cayo Perico",
+	cayo_ems = "EMS Cayo Perico",
 	ask_corresponding_car_dealer = "~r~Demandez au concessionnaire du comté approprié.",
 	boygroup_pose_1 = "Pose groupe boys 1",
 	boygroup_pose_2 = "Pose groupe boys 2",
@@ -4524,11 +4525,6 @@ local my_language = {
 	deleted_vehicle_x = "Vous avez supprimé le véhicule ~b~%s~w~ (%s).",
 	send_vehicle_to_poundyard_x = "Vous avez envoyé le véhicule ~b~%s~w~ (%s) à la fourrière.",
 	in_a_garage = "Dans un garage",
-	instructions_property = "~INPUT_CONTEXT~ pour entrer dans la propriété.\n~INPUT_RELOAD~ pour ouvrir le menu.",
-	instructions_garage = "~INPUT_CONTEXT~ pour entrer dans le garage.",
-	property_ring_recently_wait = "Vous avez récemment sonné à la porte de cette propriété.\n~r~Veuillez patienter.",
-	time_elapsed = "Temps écoulé",
-	intimidation = "Intimidation",
 }
 
 AddLanguage("fr", my_language)

@@ -4455,6 +4455,7 @@ local my_language = {
 	display_drug_police_report = "Display drug police phone calls",
 	cayo_militia = "Cayo Perico Militia",
 	to_cayo_militia = "~y~to Cayo Perico militia",
+	cayo_ems = "Cayo Perico EMS",
 	ask_corresponding_car_dealer = "~r~Ask the appropriate car dealer for this county.",
 	boygroup_pose_1 = "Boygroup pose 1",
 	boygroup_pose_2 = "Boygroup pose 2",
@@ -4526,11 +4527,6 @@ local my_language = {
 	deleted_vehicle_x = "You deleted the vehicle ~b~%s~w~ (%s).",
 	send_vehicle_to_poundyard_x = "You sent the vehicle ~b~%s~w~ (%s) to the poundyard.",
 	in_a_garage = "In a garage",
-	instructions_property = "~INPUT_CONTEXT~ to enter the property.\n~INPUT_RELOAD~ to open the menu.",
-	instructions_garage = "~INPUT_CONTEXT~ to enter the garage.",
-	property_ring_recently_wait = "You recently rang the bell.\n~r~Please wait.",
-	time_elapsed = "Time elapsed",
-	intimidation = "Intimidation",
 }
 
 AddLanguage("en", my_language)

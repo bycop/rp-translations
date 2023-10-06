@@ -4528,6 +4528,9 @@ local my_language = {
 	in_a_garage = "In a garage",
 	time_elapsed = "Time elapsed",
 	intimidation = "Intimidation",
+	fake_id = "Fake ID",
+	fake_passport = "Fake passport",
+	fake_veh_id = "Fake vehicle ID",
 }
 
 AddLanguage("en", my_language)

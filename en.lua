@@ -4455,6 +4455,7 @@ local my_language = {
 	display_drug_police_report = "Display drug police phone calls",
 	cayo_militia = "Cayo Perico Militia",
 	to_cayo_militia = "~y~to Cayo Perico militia",
+	cayo_ems = "Cayo Perico EMS",
 	ask_corresponding_car_dealer = "~r~Ask the appropriate car dealer for this county.",
 	boygroup_pose_1 = "Boygroup pose 1",
 	boygroup_pose_2 = "Boygroup pose 2",
@@ -4526,9 +4527,6 @@ local my_language = {
 	deleted_vehicle_x = "You deleted the vehicle ~b~%s~w~ (%s).",
 	send_vehicle_to_poundyard_x = "You sent the vehicle ~b~%s~w~ (%s) to the poundyard.",
 	in_a_garage = "In a garage",
-	instructions_property = "~INPUT_CONTEXT~ to enter the property.\n~INPUT_RELOAD~ to open the menu.",
-	instructions_garage = "~INPUT_CONTEXT~ to enter the garage.",
-	property_ring_recently_wait = "You recently rang the bell.\n~r~Please wait.",
 	time_elapsed = "Time elapsed",
 	intimidation = "Intimidation",
 	attack_instructions_wave_x = "[Wave %s] Survive the attack and kill all attackers. ~r~(%s/%s alives)",
@@ -4545,6 +4543,11 @@ local my_language = {
 	racket_success_protection = "~g~You succesfully survived the attack on the shop.\n~w~Capture confirmed.",
 	racket_shop_protection_business_lost = "You lost the protection business of a shop.\n~r~Another crew took it.",
 	smuggling = "Smuggling",
+	fake_id = "Fake ID",
+	fake_passport = "Fake passport",
+	fake_veh_id = "Fake vehicle ID",
+	cannot_skate_injured = "~r~You cannot skate while injured.",
+	cannot_ride_bike_injured = "~r~You cannot ride a bike while injured.",
 }
 
 AddLanguage("en", my_language)

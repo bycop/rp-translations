@@ -4455,6 +4455,7 @@ local my_language = {
 	display_drug_police_report = "Afficher les appels drogue (Police)",
 	cayo_militia = "Milice de Cayo Perico",
 	to_cayo_militia = "~y~à la milice de Cayo Perico",
+	cayo_ems = "EMS Cayo Perico",
 	ask_corresponding_car_dealer = "~r~Demandez au concessionnaire du comté approprié.",
 	boygroup_pose_1 = "Pose groupe boys 1",
 	boygroup_pose_2 = "Pose groupe boys 2",
@@ -4529,6 +4530,8 @@ local my_language = {
 	fake_id = "Fausse identité",
 	fake_passport = "Faux passeport",
 	fake_veh_id = "Fausse carte grise",
+	cannot_skate_injured = "~r~Vous ne pouvez pas faire de skate tant que vous êtes blessé.",
+	cannot_ride_bike_injured = "~r~Vous ne pouvez pas faire de vélo tant que vous êtes blessé.",
 }
 
 AddLanguage("fr", my_language)

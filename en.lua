@@ -4549,6 +4549,8 @@ local my_language = {
 	cannot_skate_injured = "~r~You cannot skate while injured.",
 	cannot_ride_bike_injured = "~r~You cannot ride a bike while injured.",
 	speedometer_location = "Speedometer location",
+	weapon_fakecombatpistol = "LL Combat Pistol",
+	weapon_fakemicrosmg = "LL SMG",
 }
 
 AddLanguage("en", my_language)

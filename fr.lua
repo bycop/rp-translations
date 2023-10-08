@@ -4551,6 +4551,7 @@ local my_language = {
 	speedometer_location = "Position du compteur de vitesse",
 	weapon_fakecombatpistol = "Pistolet de combat non létal",
 	weapon_fakesmg = "Mitraillette non létale",
+	owned_vehicle_lockpick_disabled = "~r~Vous ne pouvez pas crocheter un véhicule joueur.",
 }
 
 AddLanguage("fr", my_language)

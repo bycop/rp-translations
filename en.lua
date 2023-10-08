@@ -4551,6 +4551,7 @@ local my_language = {
 	speedometer_location = "Speedometer location",
 	weapon_fakecombatpistol = "LL Combat Pistol",
 	weapon_fakemicrosmg = "LL SMG",
+	owned_vehicle_lockpick_disabled = "~r~This vehicle is owned. You cannot lockpick it.",
 }
 
 AddLanguage("en", my_language)

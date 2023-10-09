@@ -4200,6 +4200,7 @@ local my_language = {
 	laundering_deposit_success_x_interval_x = "Vous avez déposé ~g~$%s~s~.\nRevenez dans ~g~%s heures~s~ pour récupérer votre argent propre.",
 	launder_cant_withdraw_yet_x = "~r~Vous ne pouvez pas retirer votre argent maintenant.\n~s~Veuillez attendre ~r~%s",
 	launder_success_money_x_fee_x = "Vous avez retiré ~g~$%s~s~ d'argent propre.\nFrais: ~r~$%s",
+	launder_cant_deposit_yet_x = "~r~Vous ne pouvez pas déposer votre argent maintenant.\n~w~Veuillez attendre ~r~%s",
 	animals = "Animaux",
 	disable_anim_preview = "Désactiver l'aperçu des animations",
 	cancel_anim = "Annuler l'animation",
@@ -4548,6 +4549,12 @@ local my_language = {
 	fake_veh_id = "Fausse carte grise",
 	cannot_skate_injured = "~r~Vous ne pouvez pas faire de skate tant que vous êtes blessé.",
 	cannot_ride_bike_injured = "~r~Vous ne pouvez pas faire de vélo tant que vous êtes blessé.",
+	x_item_missing = "Vous avez besoin de ~r~%sx %s~w~.",
+	no_crew_order = "~r~Vous et votre crew n'avez aucune commande en attente.",
+	no_free_seat_vehicle = "~r~Il n'y a pas de place libre dans le véhicule.",
+	must_be_driver_in_vehicle = "Vous devez conduire un véhicule.",
+	message_prostitute = "appeler votre prostituée",
+	no_free_seat = "~r~Il n'y a pas de place libre dans le véhicule.",
 }
 
 AddLanguage("fr", my_language)

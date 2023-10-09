@@ -4555,6 +4555,10 @@ local my_language = {
 	must_be_driver_in_vehicle = "You must drive a vehicle.",
 	message_prostitute = "call your prostitute",
 	no_free_seat = "~r~There is no free seat in the vehicle.",
+	speedometer_location = "Speedometer location",
+	weapon_fakecombatpistol = "LL Combat Pistol",
+	weapon_fakemicrosmg = "LL SMG",
+	owned_vehicle_lockpick_disabled = "~r~This vehicle is owned. You cannot lockpick it.",
 }
 
 AddLanguage("en", my_language)
